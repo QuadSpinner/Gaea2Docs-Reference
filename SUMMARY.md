@@ -1,5 +1,6 @@
 # Summary
 
+- [Readme](README.md)
 ## Primitive
 
 * [Assets](assets/README.md)
@@ -10,30 +11,30 @@
     * [Constant](primitive/basic/constant.md)
     * [Cracks](primitive/basic/cracks.md)
     * [Gabor](primitive/basic/gabor.md)
-    * [Line Noise](primitive/basic/linenoise.md)
+    * [LineNoise](primitive/basic/linenoise.md)
     * [Noise](primitive/basic/noise.md)
     * [Perlin](primitive/basic/perlin.md)
     * [Voronoi](primitive/basic/voronoi.md)
 
 * [Extended](extended/README.md)
     * [Cellular](primitive/extended/cellular.md)
-    * [Cellular 3 D](primitive/extended/cellular3d.md)
-    * [Dot Noise](primitive/extended/dotnoise.md)
-    * [Drift Noise](primitive/extended/driftnoise.md)
-    * [Multi Fractal](primitive/extended/multifractal.md)
-    * [Wave Shine](primitive/extended/waveshine.md)
+    * [Cellular3D](primitive/extended/cellular3d.md)
+    * [DotNoise](primitive/extended/dotnoise.md)
+    * [DriftNoise](primitive/extended/driftnoise.md)
+    * [MultiFractal](primitive/extended/multifractal.md)
+    * [WaveShine](primitive/extended/waveshine.md)
 
 * [Gradient](gradient/README.md)
-    * [Linear Gradient](primitive/gradient/lineargradient.md)
-    * [Radial Gradient](primitive/gradient/radialgradient.md)
+    * [LinearGradient](primitive/gradient/lineargradient.md)
+    * [RadialGradient](primitive/gradient/radialgradient.md)
 
 ## Terrain
 
 * [Landscape](landscape/README.md)
     * [Canyon](terrain/landscape/canyon.md)
-    * [Crater Field](terrain/landscape/craterfield.md)
-    * [Dune Sea](terrain/landscape/dunesea.md)
-    * [Mountain Range](terrain/landscape/mountainrange.md)
+    * [CraterField](terrain/landscape/craterfield.md)
+    * [DuneSea](terrain/landscape/dunesea.md)
+    * [MountainRange](terrain/landscape/mountainrange.md)
     * [Plates](terrain/landscape/plates.md)
     * [Ridge](terrain/landscape/ridge.md)
     * [Rugged](terrain/landscape/rugged.md)
@@ -43,7 +44,7 @@
     * [Crater](terrain/primitive/crater.md)
     * [Island](terrain/primitive/island.md)
     * [Mountain](terrain/primitive/mountain.md)
-    * [Mountain Side](terrain/primitive/mountainside.md)
+    * [MountainSide](terrain/primitive/mountainside.md)
     * [Volcano](terrain/primitive/volcano.md)
 
 ## Modify
@@ -58,15 +59,15 @@
     * [Equalize](modify/adjust/equalize.md)
     * [Extend](modify/adjust/extend.md)
     * [Flip](modify/adjust/flip.md)
-    * [Graphic EQ](modify/adjust/graphiceq.md)
+    * [GraphicEQ](modify/adjust/graphiceq.md)
     * [Sharpen](modify/adjust/sharpen.md)
     * [Threshold](modify/adjust/threshold.md)
 
 * [Blur](blur/README.md)
     * [Blur](modify/blur/blur.md)
     * [Median](modify/blur/median.md)
-    * [Slope Blur](modify/blur/slopeblur.md)
-    * [Variable Blur](modify/blur/variableblur.md)
+    * [SlopeBlur](modify/blur/slopeblur.md)
+    * [VariableBlur](modify/blur/variableblur.md)
 
 * [Effect](effect/README.md)
     * [Origami](modify/effect/origami.md)
@@ -79,11 +80,11 @@
     * [Curve](modify/profile/curve.md)
     * [Filter](modify/profile/filter.md)
     * [Fold](modify/profile/fold.md)
-    * [Match Histogram](modify/profile/matchhistogram.md)
+    * [MatchHistogram](modify/profile/matchhistogram.md)
     * [Recurve](modify/profile/recurve.md)
     * [Shaper](modify/profile/shaper.md)
-    * [Soft Clip](modify/profile/softclip.md)
-    * [Thermal Shaper](modify/profile/thermalshaper.md)
+    * [SoftClip](modify/profile/softclip.md)
+    * [ThermalShaper](modify/profile/thermalshaper.md)
 
 * [Transform](transform/README.md)
     * [Dilate](modify/transform/dilate.md)
@@ -91,15 +92,15 @@
     * [Transform](modify/transform/transform.md)
 
 * [Warp](warp/README.md)
-    * [Directional Warp](modify/warp/directionalwarp.md)
-    * [Slope Warp](modify/warp/slopewarp.md)
+    * [DirectionalWarp](modify/warp/directionalwarp.md)
+    * [SlopeWarp](modify/warp/slopewarp.md)
     * [Warp](modify/warp/warp.md)
 
 ## Surface
 
 * [Rocky](rocky/README.md)
     * [Craggy](surface/rocky/craggy.md)
-    * [Rock Noise](surface/rocky/rocknoise.md)
+    * [RockNoise](surface/rocky/rocknoise.md)
     * [Rockscape](surface/rocky/rockscape.md)
 
 * [Scatter](scatter/README.md)
@@ -118,7 +119,7 @@
     * [Sandstone](surface/superficial/sandstone.md)
 
 * [Terrace](terrace/README.md)
-    * [Fractal Terraces](surface/terrace/fractalterraces.md)
+    * [FractalTerraces](surface/terrace/fractalterraces.md)
     * [Stratify](surface/terrace/stratify.md)
     * [Terraces](surface/terrace/terraces.md)
 
@@ -126,15 +127,15 @@
 
 * [Erosion](erosion/README.md)
     * [Crumble](simulate/erosion/crumble.md)
-    * [Easy Erosion](simulate/erosion/easyerosion.md)
+    * [EasyErosion](simulate/erosion/easyerosion.md)
     * [Erosion](simulate/erosion/erosion.md)
-    * [Erosion 2](simulate/erosion/erosion2.md)
+    * [Erosion2](simulate/erosion/erosion2.md)
     * [Fracture](simulate/erosion/fracture.md)
     * [Hillify](simulate/erosion/hillify.md)
     * [Sediments](simulate/erosion/sediments.md)
     * [Thermal](simulate/erosion/thermal.md)
-    * [Thermal 2](simulate/erosion/thermal2.md)
-    * [Wizard 2](simulate/erosion/wizard2.md)
+    * [Thermal2](simulate/erosion/thermal2.md)
+    * [Wizard2](simulate/erosion/wizard2.md)
 
 * [Generative](generative/README.md)
     * [Anastomosis](simulate/generative/anastomosis.md)
@@ -164,12 +165,12 @@
     * [Slope](derive/aspect/slope.md)
 
 * [Generative](generative/README.md)
-    * [Flow Map](derive/generative/flowmap.md)
+    * [FlowMap](derive/generative/flowmap.md)
     * [Occlusion](derive/generative/occlusion.md)
-    * [Rock Map](derive/generative/rockmap.md)
+    * [RockMap](derive/generative/rockmap.md)
 
 * [Texture](texture/README.md)
-    * [Texture Base](derive/texture/texturebase.md)
+    * [TextureBase](derive/texture/texturebase.md)
     * [Texturizer](derive/texture/texturizer.md)
 
 ## Colorize
@@ -179,13 +180,13 @@
     * [HSL](colorize/adjust/hsl.md)
 
 * [Color](color/README.md)
-    * [CLU Ter](colorize/color/cluter.md)
-    * [Sat Map](colorize/color/satmap.md)
+    * [CLUTer](colorize/color/cluter.md)
+    * [SatMap](colorize/color/satmap.md)
     * [Tint](colorize/color/tint.md)
 
 * [Utilities](utilities/README.md)
-    * [RGB Merge](colorize/utilities/rgbmerge.md)
-    * [RGB Split](colorize/utilities/rgbsplit.md)
+    * [RGBMerge](colorize/utilities/rgbmerge.md)
+    * [RGBSplit](colorize/utilities/rgbsplit.md)
     * [Splat](colorize/utilities/splat.md)
 
 ## Output
@@ -193,7 +194,7 @@
 * [Assets](assets/README.md)
     * [Export](output/assets/export.md)
     * [Mesher](output/assets/mesher.md)
-    * [Point Cloud](output/assets/pointcloud.md)
+    * [PointCloud](output/assets/pointcloud.md)
     * [Unity](output/assets/unity.md)
     * [Unreal](output/assets/unreal.md)
 
@@ -201,6 +202,6 @@
     * [AO](output/render/ao.md)
     * [Cartography](output/render/cartography.md)
     * [Halftone](output/render/halftone.md)
-    * [Light X](output/render/lightx.md)
+    * [LightX](output/render/lightx.md)
     * [Sunlight](output/render/sunlight.md)
 
