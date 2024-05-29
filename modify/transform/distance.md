@@ -7,11 +7,11 @@
 | Property | Description | Notes | 
 | -------- | ----------- | ----- |
 | Method | todo | |
-| | - Classic: <desc> | |
-| | - RT: <desc> | |
+| | Classic: <desc> | |
+| | RT: <desc> | |
 | Mode | todo | |
-| | - Asterisk: <desc> | |
-| | - Pyramid: <desc> | |
+| | Asterisk: <desc> | |
+| | Pyramid: <desc> | |
 | Directions | todo | |
 | Skew | todo | |
 | Angle | todo | |

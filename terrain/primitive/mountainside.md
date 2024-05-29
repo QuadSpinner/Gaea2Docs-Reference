@@ -8,9 +8,9 @@
 | -------- | ----------- | ----- |
 | Detail | todo | |
 | Style | todo | |
-| | - Basic: <desc> | |
-| | - Eroded: <desc> | |
-| | - Alpine: <desc> | |
+| | Basic: <desc> | |
+| | Eroded: <desc> | |
+| | Alpine: <desc> | |
 | Direction | todo | |
 | Seed | todo | |
 

@@ -7,8 +7,8 @@
 | Property | Description | Notes | 
 | -------- | ----------- | ----- |
 | Data | todo | |
-| | - ModifierMask: <desc> | |
-| | - Difference: <desc> | |
+| | ModifierMask: <desc> | |
+| | Difference: <desc> | |
 
 
 

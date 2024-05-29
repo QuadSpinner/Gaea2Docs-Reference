@@ -8,11 +8,11 @@
 | -------- | ----------- | ----- |
 | Coverage | todo | |
 | Creep | todo | |
-| | - Moderate: <desc> | |
-| | - Aggressive: <desc> | |
+| | Moderate: <desc> | |
+| | Aggressive: <desc> | |
 | Surface | todo | |
-| | - Smooth: <desc> | |
-| | - Eroded: <desc> | |
+| | Smooth: <desc> | |
+| | Eroded: <desc> | |
 | Seed | todo | |
 
 

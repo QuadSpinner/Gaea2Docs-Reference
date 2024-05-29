@@ -8,8 +8,8 @@
 | -------- | ----------- | ----- |
 | **Constant** |  | | 
 | Output | todo | |
-| | - Height: <desc> | |
-| | - Color: <desc> | |
+| | Height: <desc> | |
+| | Color: <desc> | |
 | Height | todo | |
 | Color | todo | |
 

@@ -8,9 +8,9 @@
 | -------- | ----------- | ----- |
 | Range | todo | |
 | Type | todo | |
-| | - Horizontal: <desc> | |
-| | - Vertical: <desc> | |
-| | - Average: <desc> | |
+| | Horizontal: <desc> | |
+| | Vertical: <desc> | |
+| | Average: <desc> | |
 | Falloff | todo | |
 
 

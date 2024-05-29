@@ -16,19 +16,19 @@
 | Fade Edges | todo | |
 | Seed | todo | |
 | Blend Mode | todo | |
-| | - None: <desc> | |
-| | - Blend: <desc> | |
-| | - Add: <desc> | |
-| | - Subtract: <desc> | |
-| | - Difference: <desc> | |
-| | - Multiply: <desc> | |
-| | - Screen: <desc> | |
-| | - Max: <desc> | |
-| | - Min: <desc> | |
+| | None: <desc> | |
+| | Blend: <desc> | |
+| | Add: <desc> | |
+| | Subtract: <desc> | |
+| | Difference: <desc> | |
+| | Multiply: <desc> | |
+| | Screen: <desc> | |
+| | Max: <desc> | |
+| | Min: <desc> | |
 | Quality | todo | |
-| | - Draft: <desc> | |
-| | - Medium: <desc> | |
-| | - High: <desc> | |
+| | Draft: <desc> | |
+| | Medium: <desc> | |
+| | High: <desc> | |
 
 
 

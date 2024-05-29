@@ -7,8 +7,8 @@
 | Property | Description | Notes | 
 | -------- | ----------- | ----- |
 | Sea | todo | |
-| | - Global: <desc> | |
-| | - Surrounding: <desc> | |
+| | Global: <desc> | |
+| | Surrounding: <desc> | |
 | Level | todo | |
 | Coastal Erosion | todo | |
 | Shore Size | todo | |

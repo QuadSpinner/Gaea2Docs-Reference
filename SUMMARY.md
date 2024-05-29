@@ -205,3 +205,26 @@
     * [LightX](output/render/lightx.md)
     * [Sunlight](output/render/sunlight.md)
 
+## Utility
+
+* [Routing](routing/README.md)
+    * [Chokepoint](utility/routing/chokepoint.md)
+    * [Combine](utility/routing/combine.md)
+    * [Layers](utility/routing/layers.md)
+    * [LoopBegin](utility/routing/loopbegin.md)
+    * [LoopEnd](utility/routing/loopend.md)
+    * [Reseed](utility/routing/reseed.md)
+    * [Route](utility/routing/route.md)
+    * [Switch](utility/routing/switch.md)
+    * [TileGate](utility/routing/tilegate.md)
+
+* [Structure](structure/README.md)
+    * [Edge](utility/structure/edge.md)
+    * [Repeat](utility/structure/repeat.md)
+    * [Seamless](utility/structure/seamless.md)
+
+* [Utilities](utilities/README.md)
+    * [Accumulator](utility/utilities/accumulator.md)
+    * [DataExtractor](utility/utilities/dataextractor.md)
+    * [Mask](utility/utilities/mask.md)
+

@@ -8,9 +8,9 @@
 | -------- | ----------- | ----- |
 | **Fractal** |  | | 
 | Noise Type | todo | |
-| | - FBM: <desc> | |
-| | - Billowy: <desc> | |
-| | - Ridged: <desc> | |
+| | FBM: <desc> | |
+| | Billowy: <desc> | |
+| | Ridged: <desc> | |
 | Auto Octaves | todo | |
 | Octaves | todo | |
 | Scale | todo | |
@@ -20,8 +20,8 @@
 | Seed | todo | |
 | **Variation** |  | | 
 | Type | todo | |
-| | - SecondaryFractal: <desc> | |
-| | - SelfModulation: <desc> | |
+| | SecondaryFractal: <desc> | |
+| | SelfModulation: <desc> | |
 | Variation | todo | |
 | Smoothness | todo | |
 | Contrast | todo | |
@@ -34,9 +34,9 @@
 | Offset Y | todo | |
 | **Warp** |  | | 
 | Perturb | todo | |
-| | - None: <desc> | |
-| | - Simple: <desc> | |
-| | - Complex: <desc> | |
+| | None: <desc> | |
+| | Simple: <desc> | |
+| | Complex: <desc> | |
 | Relative Size | todo | |
 | Strength | todo | |
 | Complexity | todo | |

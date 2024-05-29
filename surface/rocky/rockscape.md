@@ -13,15 +13,15 @@
 | Roughness | todo | |
 | Jitter | todo | |
 | Clusters | todo | |
-| | - Off: <desc> | |
-| | - Large: <desc> | |
-| | - Small: <desc> | |
-| | - Shattered: <desc> | |
+| | Off: <desc> | |
+| | Large: <desc> | |
+| | Small: <desc> | |
+| | Shattered: <desc> | |
 | Relief | todo | |
-| | - Off: <desc> | |
-| | - Sharp: <desc> | |
-| | - Soft: <desc> | |
-| | - Stratified: <desc> | |
+| | Off: <desc> | |
+| | Sharp: <desc> | |
+| | Soft: <desc> | |
+| | Stratified: <desc> | |
 | Seed | todo | |
 
 

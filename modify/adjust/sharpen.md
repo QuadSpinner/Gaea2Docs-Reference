@@ -7,8 +7,8 @@
 | Property | Description | Notes | 
 | -------- | ----------- | ----- |
 | Method | todo | |
-| | - Edge: <desc> | |
-| | - Frequency: <desc> | |
+| | Edge: <desc> | |
+| | Frequency: <desc> | |
 | Amount | todo | |
 
 

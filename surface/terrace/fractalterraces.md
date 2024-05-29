@@ -28,10 +28,10 @@
 | Warp Amount | todo | |
 | Warp Size | todo | |
 | Warp Style | todo | |
-| | - A: <desc> | |
-| | - B: <desc> | |
-| | - C: <desc> | |
-| | - D: <desc> | |
+| | A: <desc> | |
+| | B: <desc> | |
+| | C: <desc> | |
+| | D: <desc> | |
 
 
 

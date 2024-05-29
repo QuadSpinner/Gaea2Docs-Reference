@@ -9,8 +9,8 @@
 | Strength | todo | |
 | Direction | todo | |
 | Edge Behaviour | todo | |
-| | - Edge: <desc> | |
-| | - Mirror: <desc> | |
+| | Edge: <desc> | |
+| | Mirror: <desc> | |
 
 
 

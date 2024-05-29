@@ -10,9 +10,9 @@
 | Shape | todo | |
 | Iterations | todo | |
 | Kernel | todo | |
-| | - Cross: <desc> | |
-| | - Rectangle: <desc> | |
-| | - Line: <desc> | |
+| | Cross: <desc> | |
+| | Rectangle: <desc> | |
+| | Line: <desc> | |
 
 
 

@@ -9,13 +9,13 @@
 | Scale | todo | |
 | Height | todo | |
 | Style | todo | |
-| | - Basic: <desc> | |
-| | - Eroded: <desc> | |
-| | - Alpine: <desc> | |
+| | Basic: <desc> | |
+| | Eroded: <desc> | |
+| | Alpine: <desc> | |
 | Bulk | todo | |
-| | - Low: <desc> | |
-| | - Medium: <desc> | |
-| | - High: <desc> | |
+| | Low: <desc> | |
+| | Medium: <desc> | |
+| | High: <desc> | |
 | Seed | todo | |
 
 

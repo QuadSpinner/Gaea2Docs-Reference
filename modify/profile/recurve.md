@@ -10,8 +10,8 @@
 | Scale | todo | |
 | Iterations | todo | |
 | Style | todo | |
-| | - Inward: <desc> | |
-| | - Outward: <desc> | |
+| | Inward: <desc> | |
+| | Outward: <desc> | |
 
 
 

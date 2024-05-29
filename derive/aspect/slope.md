@@ -9,8 +9,8 @@
 | Range | todo | |
 | Falloff | todo | |
 | Type | todo | |
-| | - Accurate: <desc> | |
-| | - Normalized: <desc> | |
+| | Accurate: <desc> | |
+| | Normalized: <desc> | |
 
 
 

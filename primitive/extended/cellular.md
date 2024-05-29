@@ -11,18 +11,18 @@
 | Jitter | todo | |
 | Metric Morph | todo | |
 | Distance Metric | todo | |
-| | - Euclidian_Manhattan: <desc> | |
-| | - Euclidian_Chebyshev: <desc> | |
-| | - Minkowski: <desc> | |
+| | Euclidian_Manhattan: <desc> | |
+| | Euclidian_Chebyshev: <desc> | |
+| | Minkowski: <desc> | |
 | Coordinate Axes Jitter | todo | |
 | CAJ Clustering | todo | |
 | Anisotropy | todo | |
 | Distance Function | todo | |
-| | - Hash: <desc> | |
-| | - DistanceInv: <desc> | |
-| | - Distance2Inv: <desc> | |
-| | - DistanceDiff: <desc> | |
-| | - DistanceToEdge: <desc> | |
+| | Hash: <desc> | |
+| | DistanceInv: <desc> | |
+| | Distance2Inv: <desc> | |
+| | DistanceDiff: <desc> | |
+| | DistanceToEdge: <desc> | |
 | Seed | todo | |
 
 

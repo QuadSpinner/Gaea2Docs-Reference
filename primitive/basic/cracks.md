@@ -8,9 +8,9 @@
 | -------- | ----------- | ----- |
 | **Cracks** |  | | 
 | Style | todo | |
-| | - Normal: <desc> | |
-| | - Hard: <desc> | |
-| | - Classic: <desc> | |
+| | Normal: <desc> | |
+| | Hard: <desc> | |
+| | Classic: <desc> | |
 | Octaves | todo | |
 | Scale | todo | |
 | Depth | todo | |

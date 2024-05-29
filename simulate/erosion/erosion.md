@@ -25,13 +25,13 @@
 | Sediment Removal | todo | |
 | **Selective Processing** |  | | 
 | Area Effect | todo | |
-| | - ErosionStrength: <desc> | |
-| | - RockSoftness: <desc> | |
-| | - PrecipitationAmount: <desc> | |
-| | - None: <desc> | |
+| | ErosionStrength: <desc> | |
+| | RockSoftness: <desc> | |
+| | PrecipitationAmount: <desc> | |
+| | None: <desc> | |
 | Bias Type | todo | |
-| | - Altitude: <desc> | |
-| | - Slope: <desc> | |
+| | Altitude: <desc> | |
+| | Slope: <desc> | |
 | Bias | todo | |
 | Reverse | todo | |
 | **Other Settings** |  | | 

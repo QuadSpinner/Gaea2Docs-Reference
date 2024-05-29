@@ -8,9 +8,9 @@
 | -------- | ----------- | ----- |
 | **Noise** |  | | 
 | Type | todo | |
-| | - FBM: <desc> | |
-| | - Ridged: <desc> | |
-| | - Billowy: <desc> | |
+| | FBM: <desc> | |
+| | Ridged: <desc> | |
+| | Billowy: <desc> | |
 | Scale | todo | |
 | Octaves | todo | |
 | Gain | todo | |
@@ -18,9 +18,9 @@
 | Seed | todo | |
 | **Warp** |  | | 
 | Type | todo | |
-| | - None: <desc> | |
-| | - Simple: <desc> | |
-| | - Complex: <desc> | |
+| | None: <desc> | |
+| | Simple: <desc> | |
+| | Complex: <desc> | |
 | Frequency | todo | |
 | Amplitude | todo | |
 | Octaves | todo | |

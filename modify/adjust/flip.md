@@ -7,9 +7,9 @@
 | Property | Description | Notes | 
 | -------- | ----------- | ----- |
 | Type | todo | |
-| | - X: <desc> | |
-| | - Y: <desc> | |
-| | - XY: <desc> | |
+| | X: <desc> | |
+| | Y: <desc> | |
+| | XY: <desc> | |
 
 
 

@@ -10,8 +10,8 @@
 | Formation | todo | |
 | Height | todo | |
 | Rim | todo | |
-| | - Soft: <desc> | |
-| | - Sharp: <desc> | |
+| | Soft: <desc> | |
+| | Sharp: <desc> | |
 | Shape | todo | |
 
 
