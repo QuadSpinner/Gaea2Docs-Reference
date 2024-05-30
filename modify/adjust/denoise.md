@@ -4,14 +4,14 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Type | todo | |
-| | OnePass: <desc> | |
-| | TwoPass: <desc> | |
-| | Pixels: <desc> | |
-| Amount | todo | |
-| Passes | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Type |  |
+| | OnePass: <desc> |
+| | TwoPass: <desc> |
+| | Pixels: <desc> |
+| Amount |  |
+| Passes |  |
 
 
 

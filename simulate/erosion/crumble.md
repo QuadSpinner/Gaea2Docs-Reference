@@ -4,17 +4,17 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Duration | todo | |
-| Strength | todo | |
-| Coverage | todo | |
-| Horizontal | todo | |
-| Vertical | todo | |
-| Rock Hardness | todo | |
-| Edge | todo | |
-| Downcutting | todo | |
-| Depth | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Duration |  |
+| Strength |  |
+| Coverage |  |
+| Horizontal |  |
+| Vertical |  |
+| Rock Hardness |  |
+| Edge |  |
+| Downcutting |  |
+| Depth |  |
 
 
 

@@ -4,14 +4,14 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Power | todo | |
-| Scale | todo | |
-| Iterations | todo | |
-| Style | todo | |
-| | Inward: <desc> | |
-| | Outward: <desc> | |
+| Property | Description| 
+| -------- | -----------|
+| Power |  |
+| Scale |  |
+| Iterations |  |
+| Style |  |
+| | Inward: <desc> |
+| | Outward: <desc> |
 
 
 

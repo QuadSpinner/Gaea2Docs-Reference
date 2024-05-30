@@ -4,22 +4,22 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Debris Amount | todo | |
-| Amount Multiplier | todo | |
-| Friction | todo | |
-| Restitution | todo | |
-| Size | todo | |
-| Height | todo | |
-| Seed | todo | |
-| Shape | todo | |
-| | Rounded: <desc> | |
-| | Sharp: <desc> | |
-| Render Still Rocks | todo | |
-| Distribution | todo | |
-| | Uniform: <desc> | |
-| | Natural: <desc> | |
+| Property | Description| 
+| -------- | -----------|
+| Debris Amount |  |
+| Amount Multiplier |  |
+| Friction |  |
+| Restitution |  |
+| Size |  |
+| Height |  |
+| Seed |  |
+| Shape |  |
+| | Rounded: <desc> |
+| | Sharp: <desc> |
+| Render Still Rocks |  |
+| Distribution |  |
+| | Uniform: <desc> |
+| | Natural: <desc> |
 
 
 

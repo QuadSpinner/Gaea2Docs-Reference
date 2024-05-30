@@ -4,11 +4,11 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Azimuth | todo | |
-| Range | todo | |
-| Falloff | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Azimuth |  |
+| Range |  |
+| Falloff |  |
 
 
 

@@ -4,13 +4,13 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| **Stones** |  | | 
-| Scale | todo | |
-| Height | todo | |
-| Density | todo | |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| **Stones** |  |
+| Scale |  |
+| Height |  |
+| Density |  |
+| Seed |  |
 
 
 

@@ -1,4 +1,4 @@
-# Steps
+# Pockmarks
 
 
 # Properties
@@ -6,8 +6,10 @@
 
 | Property | Description| 
 | -------- | -----------|
-| **Steps** |  |
+| **Pockmarks** |  |
+| Size |  |
 | Scale |  |
+| Height |  |
 | Density |  |
 | Invert |  |
 | Seed |  |

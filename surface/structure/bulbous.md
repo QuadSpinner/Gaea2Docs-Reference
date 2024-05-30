@@ -4,10 +4,10 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Scale | todo | |
-| Jitter | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Scale |  |
+| Jitter |  |
 
 
 

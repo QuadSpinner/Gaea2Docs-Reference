@@ -4,11 +4,11 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| **Object Import** |  | | 
-| File | todo | |
-| Open Importer | todo | |
+| Property | Description| 
+| -------- | -----------|
+| **Object Import** |  |
+| File |  |
+| Open Importer |  |
 
 
 

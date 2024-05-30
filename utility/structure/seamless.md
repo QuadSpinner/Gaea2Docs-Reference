@@ -4,11 +4,11 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Edge | todo | |
-| Shift X | todo | |
-| Shift Y | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Edge |  |
+| Shift X |  |
+| Shift Y |  |
 
 
 

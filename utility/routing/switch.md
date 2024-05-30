@@ -4,9 +4,9 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Switch Route | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Switch Route |  |
 
 
 

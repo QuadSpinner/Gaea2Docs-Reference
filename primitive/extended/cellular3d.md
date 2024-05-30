@@ -4,17 +4,17 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Size | todo | |
-| Gap | todo | |
-| Jitter X | todo | |
-| Jitter Y | todo | |
-| Jitter Z | todo | |
-| Scale X | todo | |
-| Scale Y | todo | |
-| Scale Z | todo | |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Size |  |
+| Gap |  |
+| Jitter X |  |
+| Jitter Y |  |
+| Jitter Z |  |
+| Scale X |  |
+| Scale Y |  |
+| Scale Z |  |
+| Seed |  |
 
 
 

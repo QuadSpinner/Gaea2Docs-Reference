@@ -4,10 +4,10 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Range | todo | |
-| Falloff | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Range |  |
+| Falloff |  |
 
 
 

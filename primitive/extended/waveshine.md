@@ -4,27 +4,27 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| **Global** |  | | 
-| Frame | todo | |
-| Octaves | todo | |
-| Seed | todo | |
-| **Ripples** |  | | 
-| Animation Speed | todo | |
-| Size | todo | |
-| Amplitude | todo | |
-| Direction | todo | |
-| Speed | todo | |
-| **Wind Patch** |  | | 
-| Intensity | todo | |
-| Animation Speed | todo | |
-| Size | todo | |
-| Contrast | todo | |
-| **Lighting** |  | | 
-| Brightness | todo | |
-| Sun Azimuth | todo | |
-| Sun Elevation | todo | |
+| Property | Description| 
+| -------- | -----------|
+| **Global** |  |
+| Frame |  |
+| Octaves |  |
+| Seed |  |
+| **Ripples** |  |
+| Animation Speed |  |
+| Size |  |
+| Amplitude |  |
+| Direction |  |
+| Speed |  |
+| **Wind Patch** |  |
+| Intensity |  |
+| Animation Speed |  |
+| Size |  |
+| Contrast |  |
+| **Lighting** |  |
+| Brightness |  |
+| Sun Azimuth |  |
+| Sun Elevation |  |
 
 
 

@@ -4,15 +4,15 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Detail | todo | |
-| Style | todo | |
-| | Basic: <desc> | |
-| | Eroded: <desc> | |
-| | Alpine: <desc> | |
-| Direction | todo | |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Detail |  |
+| Style |  |
+| | Basic: <desc> |
+| | Eroded: <desc> |
+| | Alpine: <desc> |
+| Direction |  |
+| Seed |  |
 
 
 

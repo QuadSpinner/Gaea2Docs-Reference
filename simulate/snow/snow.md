@@ -4,21 +4,21 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| **Snow** |  | | 
-| Duration | todo | |
-| Intensity | todo | |
-| Settle Thaw | todo | |
-| Melt | todo | |
-| Snow Line | todo | |
-| **Advanced** |  | | 
-| Slip off Angle | todo | |
-| Adhered Snow Mass | todo | |
-| Model Scale | todo | |
-| Real Scale | todo | |
-| Terrain Scale | todo | |
-| Verticality | todo | |
+| Property | Description| 
+| -------- | -----------|
+| **Snow** |  |
+| Duration |  |
+| Intensity |  |
+| Settle Thaw |  |
+| Melt |  |
+| Snow Line |  |
+| **Advanced** |  |
+| Slip off Angle |  |
+| Adhered Snow Mass |  |
+| Model Scale |  |
+| Real Scale |  |
+| Terrain Scale |  |
+| Verticality |  |
 
 
 

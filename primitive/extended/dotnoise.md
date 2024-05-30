@@ -4,25 +4,25 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Style | todo | |
-| | Dot: <desc> | |
-| | Square: <desc> | |
-| Iterations | todo | |
-| Size | todo | |
-| Height | todo | |
-| Blend Mode | todo | |
-| | None: <desc> | |
-| | Blend: <desc> | |
-| | Add: <desc> | |
-| | Subtract: <desc> | |
-| | Difference: <desc> | |
-| | Multiply: <desc> | |
-| | Screen: <desc> | |
-| | Max: <desc> | |
-| | Min: <desc> | |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Style |  |
+| | Dot: <desc> |
+| | Square: <desc> |
+| Iterations |  |
+| Size |  |
+| Height |  |
+| Blend Mode |  |
+| | None: <desc> |
+| | Blend: <desc> |
+| | Add: <desc> |
+| | Subtract: <desc> |
+| | Difference: <desc> |
+| | Multiply: <desc> |
+| | Screen: <desc> |
+| | Max: <desc> |
+| | Min: <desc> |
+| Seed |  |
 
 
 

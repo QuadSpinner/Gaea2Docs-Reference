@@ -4,15 +4,15 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| **Gabor** |  | | 
-| Size | todo | |
-| Entropy | todo | |
-| Anisotropy | todo | |
-| Azimuth | todo | |
-| Gain | todo | |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| **Gabor** |  |
+| Size |  |
+| Entropy |  |
+| Anisotropy |  |
+| Azimuth |  |
+| Gain |  |
+| Seed |  |
 
 
 

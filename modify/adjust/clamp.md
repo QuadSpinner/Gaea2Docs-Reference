@@ -4,13 +4,13 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Mode | todo | |
-| | Standard: <desc> | |
-| | Normalized: <desc> | |
-| Value | todo | |
-| Drop | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Mode |  |
+| | Standard: <desc> |
+| | Normalized: <desc> |
+| Value |  |
+| Drop |  |
 
 
 

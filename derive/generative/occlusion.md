@@ -4,10 +4,10 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Strength | todo | |
-| Octaves | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Strength |  |
+| Octaves |  |
 
 
 

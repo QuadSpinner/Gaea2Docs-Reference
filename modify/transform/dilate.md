@@ -4,15 +4,15 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Size | todo | |
-| Shape | todo | |
-| Iterations | todo | |
-| Kernel | todo | |
-| | Cross: <desc> | |
-| | Rectangle: <desc> | |
-| | Line: <desc> | |
+| Property | Description| 
+| -------- | -----------|
+| Size |  |
+| Shape |  |
+| Iterations |  |
+| Kernel |  |
+| | Cross: <desc> |
+| | Rectangle: <desc> |
+| | Line: <desc> |
 
 
 

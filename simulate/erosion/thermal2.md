@@ -4,17 +4,17 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| **Erosion** |  | | 
-| Duration | todo | |
-| Strength | todo | |
-| Anisotropy | todo | |
-| **Talus** |  | | 
-| Angle | todo | |
-| Sediment Removal | todo | |
-| **Scale** |  | | 
-| Feature Scale | todo | |
+| Property | Description| 
+| -------- | -----------|
+| **Erosion** |  |
+| Duration |  |
+| Strength |  |
+| Anisotropy |  |
+| **Talus** |  |
+| Angle |  |
+| Sediment Removal |  |
+| **Scale** |  |
+| Feature Scale |  |
 
 
 

@@ -4,14 +4,14 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Type | todo | |
-| | Stretch: <desc> | |
-| | Spin: <desc> | |
-| Whorls | todo | |
-| Power | todo | |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Type |  |
+| | Stretch: <desc> |
+| | Spin: <desc> |
+| Whorls |  |
+| Power |  |
+| Seed |  |
 
 
 

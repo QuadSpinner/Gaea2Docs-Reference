@@ -4,14 +4,14 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Clip Mode | todo | |
-| | AboveThreshold: <desc> | |
-| | BelowThreshold: <desc> | |
-| Threshold | todo | |
-| Softness | todo | |
-| Clipping | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Clip Mode |  |
+| | AboveThreshold: <desc> |
+| | BelowThreshold: <desc> |
+| Threshold |  |
+| Softness |  |
+| Clipping |  |
 
 
 

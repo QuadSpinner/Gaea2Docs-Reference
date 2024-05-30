@@ -4,10 +4,10 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| **Blur** |  | | 
-| Radius | todo | |
+| Property | Description| 
+| -------- | -----------|
+| **Blur** |  |
+| Radius |  |
 
 
 

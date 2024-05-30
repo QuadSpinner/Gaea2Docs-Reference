@@ -4,15 +4,15 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Blend Layer 1 | todo | |
-| Blend Layer 2 | todo | |
-| Blend Layer 3 | todo | |
-| Blend Layer 4 | todo | |
-| Blend Layer 5 | todo | |
-| Blend Layer 6 | todo | |
-| Blend Layer 7 | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Blend Layer 1 |  |
+| Blend Layer 2 |  |
+| Blend Layer 3 |  |
+| Blend Layer 4 |  |
+| Blend Layer 5 |  |
+| Blend Layer 6 |  |
+| Blend Layer 7 |  |
 
 
 

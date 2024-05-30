@@ -4,26 +4,26 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Method | todo | |
-| | Classic: <desc> | |
-| | RT: <desc> | |
-| Mode | todo | |
-| | Asterisk: <desc> | |
-| | Pyramid: <desc> | |
-| Directions | todo | |
-| Skew | todo | |
-| Angle | todo | |
-| Angular Jitter | todo | |
-| Falloff | todo | |
-| Threshold | todo | |
-| Falloff Jitter | todo | |
-| **Options** |  | | 
-| Invert Input | todo | |
-| Invert Output | todo | |
-| Multiply by Input | todo | |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Method |  |
+| | Classic: <desc> |
+| | RT: <desc> |
+| Mode |  |
+| | Asterisk: <desc> |
+| | Pyramid: <desc> |
+| Directions |  |
+| Skew |  |
+| Angle |  |
+| Angular Jitter |  |
+| Falloff |  |
+| Threshold |  |
+| Falloff Jitter |  |
+| **Options** |  |
+| Invert Input |  |
+| Invert Output |  |
+| Multiply by Input |  |
+| Seed |  |
 
 
 

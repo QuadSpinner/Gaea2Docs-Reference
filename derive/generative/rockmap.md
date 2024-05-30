@@ -4,10 +4,10 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Coverage | todo | |
-| Density | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Coverage |  |
+| Density |  |
 
 
 

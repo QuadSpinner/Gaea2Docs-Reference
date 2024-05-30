@@ -4,13 +4,13 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Shape | todo | |
-| Local Effect | todo | |
-| Local Area | todo | |
-| Maintain Fine Details | todo | |
-| Detail Size | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Shape |  |
+| Local Effect |  |
+| Local Area |  |
+| Maintain Fine Details |  |
+| Detail Size |  |
 
 
 

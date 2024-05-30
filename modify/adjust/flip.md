@@ -4,12 +4,12 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Type | todo | |
-| | X: <desc> | |
-| | Y: <desc> | |
-| | XY: <desc> | |
+| Property | Description| 
+| -------- | -----------|
+| Type |  |
+| | X: <desc> |
+| | Y: <desc> |
+| | XY: <desc> |
 
 
 

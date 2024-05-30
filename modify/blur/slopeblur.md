@@ -4,26 +4,26 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Intensity | todo | |
-| Iterations | todo | |
-| Direction | todo | |
-| Asymmetry | todo | |
-| Normalized | todo | |
-| Window | todo | |
-| | Bell: <desc> | |
-| | Box: <desc> | |
-| **Quality** |  | | 
-| Quality | todo | |
-| | Low: <desc> | |
-| | Medium: <desc> | |
-| | High: <desc> | |
-| | Ultra: <desc> | |
-| Antialiasing | todo | |
-| | Off: <desc> | |
-| | x4: <desc> | |
-| | x16: <desc> | |
+| Property | Description| 
+| -------- | -----------|
+| Intensity |  |
+| Iterations |  |
+| Direction |  |
+| Asymmetry |  |
+| Normalized |  |
+| Window |  |
+| | Bell: <desc> |
+| | Box: <desc> |
+| **Quality** |  |
+| Quality |  |
+| | Low: <desc> |
+| | Medium: <desc> |
+| | High: <desc> |
+| | Ultra: <desc> |
+| Antialiasing |  |
+| | Off: <desc> |
+| | x4: <desc> |
+| | x16: <desc> |
 
 
 

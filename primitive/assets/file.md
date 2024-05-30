@@ -4,13 +4,13 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| File | todo | |
-| Is RGB | todo | |
-| **Caching** |  | | 
-| Purge Cache | todo | |
-| Never Cache | todo | |
+| Property | Description| 
+| -------- | -----------|
+| File |  |
+| Is RGB |  |
+| **Caching** |  |
+| Purge Cache |  |
+| Never Cache |  |
 
 
 

@@ -4,24 +4,24 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Library | todo | |
-| | Rock: <desc> | |
-| | Sand: <desc> | |
-| | Green: <desc> | |
-| | Blue: <desc> | |
-| | Color: <desc> | |
-| Randomize | todo | |
-| Library Item | todo | |
-| Range | todo | |
-| Bias | todo | |
-| **Processing** |  | | 
-| Enhance | todo | |
-| | None: <desc> | |
-| | Autolevel: <desc> | |
-| | Equalize: <desc> | |
-| Reverse | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Library |  |
+| | Rock: <desc> |
+| | Sand: <desc> |
+| | Green: <desc> |
+| | Blue: <desc> |
+| | Color: <desc> |
+| Randomize |  |
+| Library Item |  |
+| Range |  |
+| Bias |  |
+| **Processing** |  |
+| Enhance |  |
+| | None: <desc> |
+| | Autolevel: <desc> |
+| | Equalize: <desc> |
+| Reverse |  |
 
 
 

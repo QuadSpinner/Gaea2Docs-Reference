@@ -4,12 +4,12 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Shatters | todo | |
-| Size | todo | |
-| Coverage | todo | |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Shatters |  |
+| Size |  |
+| Coverage |  |
+| Seed |  |
 
 
 

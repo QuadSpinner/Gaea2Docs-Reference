@@ -4,11 +4,11 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Horizontal | todo | |
-| Vertical | todo | |
-| Iterations | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Horizontal |  |
+| Vertical |  |
+| Iterations |  |
 
 
 

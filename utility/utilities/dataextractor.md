@@ -4,11 +4,13 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Data | todo | |
-| | ModifierMask: <desc> | |
-| | Difference: <desc> | |
+| Property | Description| 
+| -------- | -----------|
+| Data |  |
+| | ModifierMask: <desc> |
+| | Difference: <desc> |
+| | Boundary: <desc> |
+| Level |  |
 
 
 

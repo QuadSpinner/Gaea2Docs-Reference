@@ -4,11 +4,11 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Size | todo | |
-| Chaos | todo | |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Size |  |
+| Chaos |  |
+| Seed |  |
 
 
 

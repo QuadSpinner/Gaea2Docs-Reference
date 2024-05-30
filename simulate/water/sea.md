@@ -4,19 +4,19 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Sea | todo | |
-| | Global: <desc> | |
-| | Surrounding: <desc> | |
-| Level | todo | |
-| Coastal Erosion | todo | |
-| Shore Size | todo | |
-| Shore Height | todo | |
-| Variation | todo | |
-| Uniform Variations | todo | |
-| Extra Cliff Details | todo | |
-| Render Surface | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Sea |  |
+| | Global: <desc> |
+| | Surrounding: <desc> |
+| Level |  |
+| Coastal Erosion |  |
+| Shore Size |  |
+| Shore Height |  |
+| Variation |  |
+| Uniform Variations |  |
+| Extra Cliff Details |  |
+| Render Surface |  |
 
 
 

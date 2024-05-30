@@ -4,14 +4,14 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| R | todo | |
-| G | todo | |
-| B | todo | |
-| A | todo | |
-| Autolevel | todo | |
-| Clamp Product | todo | |
+| Property | Description| 
+| -------- | -----------|
+| R |  |
+| G |  |
+| B |  |
+| A |  |
+| Autolevel |  |
+| Clamp Product |  |
 
 
 

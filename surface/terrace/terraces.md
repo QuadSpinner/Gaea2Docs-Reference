@@ -4,13 +4,13 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Terraces | todo | |
-| Uniformity | todo | |
-| Steepness | todo | |
-| Intensity | todo | |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Terraces |  |
+| Uniformity |  |
+| Steepness |  |
+| Intensity |  |
+| Seed |  |
 
 
 

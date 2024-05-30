@@ -4,39 +4,39 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| **Noise** |  | | 
-| Scale | todo | |
-| Jitter | todo | |
-| Function | todo | |
-| | Euclidean: <desc> | |
-| | Manhattan: <desc> | |
-| Form | todo | |
-| | C: <desc> | |
-| | N: <desc> | |
-| | R: <desc> | |
-| | P: <desc> | |
-| | A: <desc> | |
-| | S: <desc> | |
-| | M: <desc> | |
-| | D: <desc> | |
-| Gain | todo | |
-| Clamp | todo | |
-| Seed | todo | |
-| **Warp** |  | | 
-| Type | todo | |
-| | None: <desc> | |
-| | Simple: <desc> | |
-| | Complex: <desc> | |
-| Frequency | todo | |
-| Amplitude | todo | |
-| Octaves | todo | |
-| **Transform** |  | | 
-| Scale X | todo | |
-| Scale Y | todo | |
-| X | todo | |
-| Y | todo | |
+| Property | Description| 
+| -------- | -----------|
+| **Noise** |  |
+| Scale |  |
+| Jitter |  |
+| Function |  |
+| | Euclidean: <desc> |
+| | Manhattan: <desc> |
+| Form |  |
+| | C: <desc> |
+| | N: <desc> |
+| | R: <desc> |
+| | P: <desc> |
+| | A: <desc> |
+| | S: <desc> |
+| | M: <desc> |
+| | D: <desc> |
+| Gain |  |
+| Clamp |  |
+| Seed |  |
+| **Warp** |  |
+| Type |  |
+| | None: <desc> |
+| | Simple: <desc> |
+| | Complex: <desc> |
+| Frequency |  |
+| Amplitude |  |
+| Octaves |  |
+| **Transform** |  |
+| Scale X |  |
+| Scale Y |  |
+| X |  |
+| Y |  |
 
 
 

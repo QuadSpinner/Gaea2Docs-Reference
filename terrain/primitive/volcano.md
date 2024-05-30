@@ -4,8 +4,8 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
+| Property | Description| 
+| -------- | -----------|
 
 
 

@@ -4,11 +4,11 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| North | todo | |
-| Year | todo | |
-| Latitude | todo | |
+| Property | Description| 
+| -------- | -----------|
+| North |  |
+| Year |  |
+| Latitude |  |
 
 
 

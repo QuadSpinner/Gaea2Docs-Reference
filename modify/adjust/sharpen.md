@@ -4,12 +4,12 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Method | todo | |
-| | Edge: <desc> | |
-| | Frequency: <desc> | |
-| Amount | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Method |  |
+| | Edge: <desc> |
+| | Frequency: <desc> |
+| Amount |  |
 
 
 

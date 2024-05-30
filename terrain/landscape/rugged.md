@@ -4,16 +4,16 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Style | todo | |
-| | A: <desc> | |
-| | B: <desc> | |
-| | C: <desc> | |
-| | D: <desc> | |
-| | E: <desc> | |
-| Scale | todo | |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Style |  |
+| | A: <desc> |
+| | B: <desc> |
+| | C: <desc> |
+| | D: <desc> |
+| | E: <desc> |
+| Scale |  |
+| Seed |  |
 
 
 

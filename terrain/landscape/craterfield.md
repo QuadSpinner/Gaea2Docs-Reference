@@ -4,16 +4,16 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| **Craterfield** |  | | 
-| Scale | todo | |
-| Depth | todo | |
-| Density | todo | |
-| Seed | todo | |
-| **Position** |  | | 
-| X | todo | |
-| Y | todo | |
+| Property | Description| 
+| -------- | -----------|
+| **Craterfield** |  |
+| Scale |  |
+| Depth |  |
+| Density |  |
+| Seed |  |
+| **Position** |  |
+| X |  |
+| Y |  |
 
 
 

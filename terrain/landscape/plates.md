@@ -4,14 +4,14 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Scale | todo | |
-| Range | todo | |
-| Falloff | todo | |
-| Warp | todo | |
-| Angle | todo | |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Scale |  |
+| Range |  |
+| Falloff |  |
+| Warp |  |
+| Angle |  |
+| Seed |  |
 
 
 

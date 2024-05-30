@@ -4,9 +4,9 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Autolevel Channels | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Autolevel Channels |  |
 
 
 

@@ -4,11 +4,11 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Size | todo | |
-| X | todo | |
-| Y | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Size |  |
+| X |  |
+| Y |  |
 
 
 

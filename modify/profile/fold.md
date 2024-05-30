@@ -4,14 +4,14 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Waveform | todo | |
-| | Sine: <desc> | |
-| | Triangle: <desc> | |
-| | Sawtooth: <desc> | |
-| Folds | todo | |
-| Symmetric | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Waveform |  |
+| | Sine: <desc> |
+| | Triangle: <desc> |
+| | Sawtooth: <desc> |
+| Folds |  |
+| Symmetric |  |
 
 
 

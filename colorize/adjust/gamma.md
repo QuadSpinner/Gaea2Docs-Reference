@@ -4,10 +4,10 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Gamma | todo | |
-| Automatic | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Gamma |  |
+| Automatic |  |
 
 
 

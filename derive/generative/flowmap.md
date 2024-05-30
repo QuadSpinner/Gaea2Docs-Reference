@@ -4,20 +4,20 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Rainfall | todo | |
-| Primary | todo | |
-| Secondary | todo | |
-| Tertiary | todo | |
-| Quaternary | todo | |
-| Simulate 2 X | todo | |
-| Enhance | todo | |
-| Quality | todo | |
-| | Quarter: <desc> | |
-| | Third: <desc> | |
-| | Half: <desc> | |
-| | Full: <desc> | |
+| Property | Description| 
+| -------- | -----------|
+| Rainfall |  |
+| Primary |  |
+| Secondary |  |
+| Tertiary |  |
+| Quaternary |  |
+| Simulate 2 X |  |
+| Enhance |  |
+| Quality |  |
+| | Quarter: <desc> |
+| | Third: <desc> |
+| | Half: <desc> |
+| | Full: <desc> |
 
 
 

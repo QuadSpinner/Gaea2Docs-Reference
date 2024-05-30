@@ -4,21 +4,21 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Noise Type | todo | |
-| | Random: <desc> | |
-| | Perlin: <desc> | |
-| | Gaussian: <desc> | |
-| | Fixed: <desc> | |
-| Height | todo | |
-| Density | todo | |
-| Relative Density | todo | |
-| Blend Mode | todo | |
-| | Add: <desc> | |
-| | Multiply: <desc> | |
-| | Subtract: <desc> | |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Noise Type |  |
+| | Random: <desc> |
+| | Perlin: <desc> |
+| | Gaussian: <desc> |
+| | Fixed: <desc> |
+| Height |  |
+| Density |  |
+| Relative Density |  |
+| Blend Mode |  |
+| | Add: <desc> |
+| | Multiply: <desc> |
+| | Subtract: <desc> |
+| Seed |  |
 
 
 

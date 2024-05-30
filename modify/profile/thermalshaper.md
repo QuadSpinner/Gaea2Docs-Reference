@@ -4,10 +4,10 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Influence | todo | |
-| Shape | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Influence |  |
+| Shape |  |
 
 
 

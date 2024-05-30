@@ -4,14 +4,14 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Scale | todo | |
-| Direction | todo | |
-| Edge Behavior | todo | |
-| | Clip: <desc> | |
-| | Repeat: <desc> | |
-| | Mirror: <desc> | |
+| Property | Description| 
+| -------- | -----------|
+| Scale |  |
+| Direction |  |
+| Edge Behavior |  |
+| | Clip: <desc> |
+| | Repeat: <desc> |
+| | Mirror: <desc> |
 
 
 

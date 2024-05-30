@@ -4,37 +4,37 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| **Position** |  | | 
-| Offset X | todo | |
-| Offset Y | todo | |
-| Rotate | todo | |
-| **Scale** |  | | 
-| Uniform | todo | |
-| Scale | todo | |
-| Scale X | todo | |
-| Scale Y | todo | |
-| **Settings** |  | | 
-| Blend Mode | todo | |
-| | None: <desc> | |
-| | Blend: <desc> | |
-| | Add: <desc> | |
-| | Subtract: <desc> | |
-| | Difference: <desc> | |
-| | Multiply: <desc> | |
-| | Screen: <desc> | |
-| | Max: <desc> | |
-| | Min: <desc> | |
-| Edges | todo | |
-| | None: <desc> | |
-| | Thin: <desc> | |
-| | Wide: <desc> | |
-| | Soft: <desc> | |
-| Quality | todo | |
-| | Draft: <desc> | |
-| | Medium: <desc> | |
-| | High: <desc> | |
+| Property | Description| 
+| -------- | -----------|
+| **Position** |  |
+| Offset X |  |
+| Offset Y |  |
+| Rotate |  |
+| **Scale** |  |
+| Uniform |  |
+| Scale |  |
+| Scale X |  |
+| Scale Y |  |
+| **Settings** |  |
+| Blend Mode |  |
+| | None: <desc> |
+| | Blend: <desc> |
+| | Add: <desc> |
+| | Subtract: <desc> |
+| | Difference: <desc> |
+| | Multiply: <desc> |
+| | Screen: <desc> |
+| | Max: <desc> |
+| | Min: <desc> |
+| Edges |  |
+| | None: <desc> |
+| | Thin: <desc> |
+| | Wide: <desc> |
+| | Soft: <desc> |
+| Quality |  |
+| | Draft: <desc> |
+| | Medium: <desc> |
+| | High: <desc> |
 
 
 

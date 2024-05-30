@@ -4,10 +4,10 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| **Extend** |  | | 
-| Value | todo | |
+| Property | Description| 
+| -------- | -----------|
+| **Extend** |  |
+| Value |  |
 
 
 

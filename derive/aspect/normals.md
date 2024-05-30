@@ -4,15 +4,15 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Type | todo | |
-| | Standard: <desc> | |
-| | Detail: <desc> | |
-| Width | todo | |
-| Height | todo | |
-| Flip X | todo | |
-| Flip Y | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Type |  |
+| | Standard: <desc> |
+| | Detail: <desc> |
+| Width |  |
+| Height |  |
+| Flip X |  |
+| Flip Y |  |
 
 
 

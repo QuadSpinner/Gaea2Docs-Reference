@@ -4,31 +4,31 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| **Noise** |  | | 
-| Type | todo | |
-| | FBM: <desc> | |
-| | Ridged: <desc> | |
-| | Billowy: <desc> | |
-| Scale | todo | |
-| Octaves | todo | |
-| Gain | todo | |
-| Clamp | todo | |
-| Seed | todo | |
-| **Warp** |  | | 
-| Type | todo | |
-| | None: <desc> | |
-| | Simple: <desc> | |
-| | Complex: <desc> | |
-| Frequency | todo | |
-| Amplitude | todo | |
-| Octaves | todo | |
-| **Transform** |  | | 
-| Scale X | todo | |
-| Scale Y | todo | |
-| X | todo | |
-| Y | todo | |
+| Property | Description| 
+| -------- | -----------|
+| **Noise** |  |
+| Type |  |
+| | FBM: <desc> |
+| | Ridged: <desc> |
+| | Billowy: <desc> |
+| Scale |  |
+| Octaves |  |
+| Gain |  |
+| Clamp |  |
+| Seed |  |
+| **Warp** |  |
+| Type |  |
+| | None: <desc> |
+| | Simple: <desc> |
+| | Complex: <desc> |
+| Frequency |  |
+| Amplitude |  |
+| Octaves |  |
+| **Transform** |  |
+| Scale X |  |
+| Scale Y |  |
+| X |  |
+| Y |  |
 
 
 

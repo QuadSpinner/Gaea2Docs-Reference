@@ -4,10 +4,10 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Strength | todo | |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Strength |  |
+| Seed |  |
 
 
 

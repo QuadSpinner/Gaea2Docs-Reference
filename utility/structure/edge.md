@@ -4,15 +4,15 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Style | todo | |
-| | Round: <desc> | |
-| | Square: <desc> | |
-| | Precise: <desc> | |
-| Size | todo | |
-| Pixels | todo | |
-| Softness | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Style |  |
+| | Round: <desc> |
+| | Square: <desc> |
+| | Precise: <desc> |
+| Size |  |
+| Pixels |  |
+| Softness |  |
 
 
 

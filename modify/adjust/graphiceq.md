@@ -4,15 +4,15 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Band 1 | todo | |
-| Band 2 | todo | |
-| Band 3 | todo | |
-| Band 4 | todo | |
-| Band 5 | todo | |
-| Band 6 | todo | |
-| Band 7 | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Band 1 |  |
+| Band 2 |  |
+| Band 3 |  |
+| Band 4 |  |
+| Band 5 |  |
+| Band 6 |  |
+| Band 7 |  |
 
 
 

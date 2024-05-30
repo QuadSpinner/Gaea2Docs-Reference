@@ -1,4 +1,4 @@
-# Peaks
+# Hemisphere
 
 
 # Properties
@@ -6,7 +6,11 @@
 
 | Property | Description| 
 | -------- | -----------|
-| Falloff |  |
+| Scale |  |
+| Height |  |
+| X |  |
+| Y |  |
+| Flatten |  |
 
 
 

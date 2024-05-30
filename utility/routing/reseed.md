@@ -4,9 +4,9 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Seed |  |
 
 
 

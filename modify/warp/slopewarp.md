@@ -4,22 +4,22 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Intensity | todo | |
-| Iterations | todo | |
-| Direction | todo | |
-| Normalized | todo | |
-| **Quality** |  | | 
-| Quality | todo | |
-| | Low: <desc> | |
-| | Medium: <desc> | |
-| | High: <desc> | |
-| | Ultra: <desc> | |
-| Antialiasing | todo | |
-| | Off: <desc> | |
-| | x4: <desc> | |
-| | x16: <desc> | |
+| Property | Description| 
+| -------- | -----------|
+| Intensity |  |
+| Iterations |  |
+| Direction |  |
+| Normalized |  |
+| **Quality** |  |
+| Quality |  |
+| | Low: <desc> |
+| | Medium: <desc> |
+| | High: <desc> |
+| | Ultra: <desc> |
+| Antialiasing |  |
+| | Off: <desc> |
+| | x4: <desc> |
+| | x16: <desc> |
 
 
 

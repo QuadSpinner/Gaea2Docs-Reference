@@ -4,16 +4,16 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Water | todo | |
-| Width | todo | |
-| Depth | todo | |
-| Downcutting | todo | |
-| Octave Correction | todo | |
-| Headwaters | todo | |
-| Render Surface | todo | |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Water |  |
+| Width |  |
+| Depth |  |
+| Downcutting |  |
+| Octave Correction |  |
+| Headwaters |  |
+| Render Surface |  |
+| Seed |  |
 
 
 

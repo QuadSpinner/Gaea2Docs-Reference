@@ -4,12 +4,12 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Size | todo | |
-| Depth | todo | |
-| Shape | todo | |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Size |  |
+| Depth |  |
+| Shape |  |
+| Seed |  |
 
 
 

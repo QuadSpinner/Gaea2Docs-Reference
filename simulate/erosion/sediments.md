@@ -4,10 +4,10 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Scale | todo | |
-| Grainy Deposits | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Scale |  |
+| Grainy Deposits |  |
 
 
 

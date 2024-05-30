@@ -4,11 +4,11 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Loops | todo | |
-| Mutate Seeds | todo | |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Loops |  |
+| Mutate Seeds |  |
+| Seed |  |
 
 
 

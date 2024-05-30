@@ -4,11 +4,11 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| **Clip** |  | | 
-| Min | todo | |
-| Max | todo | |
+| Property | Description| 
+| -------- | -----------|
+| **Clip** |  |
+| Min |  |
+| Max |  |
 
 
 

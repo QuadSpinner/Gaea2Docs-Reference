@@ -4,15 +4,15 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Scale | todo | |
-| Formation | todo | |
-| Height | todo | |
-| Rim | todo | |
-| | Soft: <desc> | |
-| | Sharp: <desc> | |
-| Shape | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Scale |  |
+| Formation |  |
+| Height |  |
+| Rim |  |
+| | Soft: <desc> |
+| | Sharp: <desc> |
+| Shape |  |
 
 
 

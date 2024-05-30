@@ -4,15 +4,15 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Scale | todo | |
-| Height | todo | |
-| Definition | todo | |
-| Seed | todo | |
-| **Advanced** |  | | 
-| Scale X | todo | |
-| Scale Y | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Scale |  |
+| Height |  |
+| Definition |  |
+| Seed |  |
+| **Advanced** |  |
+| Scale X |  |
+| Scale Y |  |
 
 
 

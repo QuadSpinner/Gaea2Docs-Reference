@@ -4,13 +4,13 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Range | todo | |
-| Falloff | todo | |
-| Type | todo | |
-| | Accurate: <desc> | |
-| | Normalized: <desc> | |
+| Property | Description| 
+| -------- | -----------|
+| Range |  |
+| Falloff |  |
+| Type |  |
+| | Accurate: <desc> |
+| | Normalized: <desc> |
 
 
 

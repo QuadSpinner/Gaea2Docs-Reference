@@ -4,12 +4,12 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Size | todo | |
-| Variety | todo | |
-| Octaves | todo | |
-| Seed | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Size |  |
+| Variety |  |
+| Octaves |  |
+| Seed |  |
 
 
 

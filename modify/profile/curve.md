@@ -4,9 +4,9 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Curve Spline | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Curve Spline |  |
 
 
 

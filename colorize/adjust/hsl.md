@@ -4,11 +4,11 @@
 # Properties
 
 
-| Property | Description | Notes | 
-| -------- | ----------- | ----- |
-| Hue | todo | |
-| Saturation | todo | |
-| Lightness | todo | |
+| Property | Description| 
+| -------- | -----------|
+| Hue |  |
+| Saturation |  |
+| Lightness |  |
 
 
 
