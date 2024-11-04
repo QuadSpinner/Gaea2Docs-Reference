@@ -4,7 +4,7 @@
 
 ## Primitive
 
-* [Assets](primitive/assets/README.md)
+* [Assets (Import)](primitive/assets/README.md)
   * [File](primitive/assets/file.md)
   * [Mesh](primitive/assets/mesh.md)
   * [Object](primitive/assets/object.md)
@@ -139,7 +139,7 @@
   * [Thermal](simulate/erosion/thermal.md)
   * [Thermal2](simulate/erosion/thermal2.md)
   * [Wizard2](simulate/erosion/wizard2.md)
-* [Scatter](surface/scatter/README.md)
+* [Scatter (Simulate)](surface/scatter/README.md)
 * [Snow](simulate/snow/README.md)
   * [Dusting](simulate/snow/dusting.md)
   * [Snow](simulate/snow/snow.md)
@@ -172,7 +172,7 @@
 
 ## Colorize
 
-* [Adjust](modify/adjust/README.md)
+* [Adjust (Color)](modify/adjust/README.md)
 * [Color](colorize/color/README.md)
   * [CLUTer](colorize/color/cluter.md)
   * [SatMap](colorize/color/satmap.md)
@@ -182,14 +182,14 @@
 * [Erosion](simulate/erosion/README.md)
 * [Surface](colorize/surface/README.md)
   * [Weathering](colorize/surface/weathering.md)
-* [Utilities](colorize/utilities/README.md)
+* [Utilities (Color)](colorize/utilities/README.md)
   * [RGBMerge](colorize/utilities/rgbmerge.md)
   * [RGBSplit](colorize/utilities/rgbsplit.md)
   * [Splat](colorize/utilities/splat.md)
 
 ## Output
 
-* [Assets](primitive/assets/README.md)
+* [Assets (Export)](primitive/assets/README.md)
 * [Render](output/render/README.md)
   * [AO](output/render/ao.md)
   * [Cartography](output/render/cartography.md)
