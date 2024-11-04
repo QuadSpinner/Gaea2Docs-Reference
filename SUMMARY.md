@@ -3,7 +3,7 @@
 - [Readme](README.md)
 ## Primitive
 
-* [Assets](assets/README.md)
+* [Assets (Import)](assets/README.md)
     * [File](primitive/assets/file.md)
     * [Mesh](primitive/assets/mesh.md)
     * [Object](primitive/assets/object.md)
@@ -154,7 +154,7 @@
     * [Thermal2](simulate/erosion/thermal2.md)
     * [Wizard2](simulate/erosion/wizard2.md)
 
-* [Scatter](scatter/README.md)
+* [Scatter (Simulate)](scatter/README.md)
     * [Debris](simulate/scatter/debris.md)
 
 * [Snow](snow/README.md)
@@ -193,7 +193,7 @@
 
 ## Colorize
 
-* [Adjust](adjust/README.md)
+* [Adjustments](adjust/README.md)
     * [Gamma](colorize/adjust/gamma.md)
     * [HSL](colorize/adjust/hsl.md)
 
@@ -210,14 +210,14 @@
 * [Surface](surface/README.md)
     * [Weathering](colorize/surface/weathering.md)
 
-* [Utilities](utilities/README.md)
+* [Utilities (Color)](utilities/README.md)
     * [RGBMerge](colorize/utilities/rgbmerge.md)
     * [RGBSplit](colorize/utilities/rgbsplit.md)
     * [Splat](colorize/utilities/splat.md)
 
 ## Output
 
-* [Assets](assets/README.md)
+* [Assets (Export)](assets/README.md)
     * [Export](output/assets/export.md)
     * [Mesher](output/assets/mesher.md)
     * [PointCloud](output/assets/pointcloud.md)
@@ -254,4 +254,3 @@
     * [Accumulator](utility/utilities/accumulator.md)
     * [DataExtractor](utility/utilities/dataextractor.md)
     * [Mask](utility/utilities/mask.md)
-
