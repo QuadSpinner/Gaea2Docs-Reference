@@ -16,14 +16,14 @@ Constant is rarely used directly, but rather as a mask or second input blended u
 
 ## Properties
 
-| Property     | Description                                                   | Notes                      |
-| ------------ | ------------------------------------------------------------- | -------------------------- |
-| **Constant** |                                                               |                            |
-| Output       | The output type.                                              |                            |
-|              | **Height:** Create a flat terrain of the specified height.    | Can also be used for mask. |
-|              | **Color:** Create a flat color output of the specified color. |                            |
-| Height       | The height of the blank terrain.                              |                            |
-| Color        | The color to use for creating a flat, color output.           |                            |
+| Property     | Description                                                   |
+| ------------ | ------------------------------------------------------------- |
+| **Constant** |                                                               |
+| Output       | The output type.                                              |
+|              | **Height:** Create a flat terrain of the specified height.    |
+|              | **Color:** Create a flat color output of the specified color. |
+| Height       | The height of the blank terrain.                              |
+| Color        | The color to use for creating a flat, color output.           |
 
 ## Examples
 
