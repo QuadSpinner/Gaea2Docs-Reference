@@ -22,4 +22,4 @@ Shaper is a very useful tool that is fast and effective. You can use it through 
 | Maintain Fine Details | When enabled, finer detail is preserved regardless of shape changes.                    |
 | Detail Size           |                                                                                         |
 
-## Examples
+#

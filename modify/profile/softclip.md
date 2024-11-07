@@ -21,4 +21,4 @@ SoftClip a low-level utility that lets you softly reduce the intensity of shapes
 
 
 
-# Examples
+

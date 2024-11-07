@@ -8,9 +8,9 @@ To draw an Island, open the Editor from the Properties panel and draw your basic
 
 Once the general shape is ready, you can then use smaller brush sizes in both add and subtract modes to refine the coastlines.
 
-{.tip}
-> When refining the shape, keep your eye on the underlying generated shape instead of on your drawing. This will help you follow what changes.
-
+{% hint style="info" %}
+When refining the shape, keep your eye on the underlying generated shape instead of on your drawing. This will help you follow what changes.
+{% endhint %}
 
 
 # Properties
@@ -25,4 +25,4 @@ Once the general shape is ready, you can then use smaller brush sizes in both ad
 
 
 
-# Examples
+

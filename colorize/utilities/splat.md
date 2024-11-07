@@ -21,4 +21,4 @@ The Splat node is similar to @RGBMix. It can take heightfield nodes and encode t
 
 
 
-# Examples
+

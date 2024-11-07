@@ -20,4 +20,4 @@ In most cases, you may want to use @Seamless before Repeat to let the edges matc
 
 
 
-# Examples
+

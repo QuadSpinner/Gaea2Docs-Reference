@@ -52,4 +52,4 @@ it to create a flat noise map that could be used elsewhere in the graph.
 
 
 
-# Examples
+

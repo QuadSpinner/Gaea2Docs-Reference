@@ -31,4 +31,4 @@ Synth can take a bitmap image whether photo or artwork and convert it to CLUT ma
 
 
 
-# Examples
+

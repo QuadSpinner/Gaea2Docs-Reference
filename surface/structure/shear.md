@@ -19,4 +19,4 @@ Shear creates rock shearing and exposes strata.
 
 
 
-# Examples
+

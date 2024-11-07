@@ -24,4 +24,4 @@ Gabor shapes are dramatically different when compared to the common Perlin and V
 
 
 
-# Examples
+

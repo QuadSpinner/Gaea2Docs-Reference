@@ -24,4 +24,4 @@ Stratify allows you to create broken strata or rock layers on the terrain in a n
 
 
 
-# Examples
+

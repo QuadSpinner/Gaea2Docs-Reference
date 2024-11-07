@@ -53,4 +53,4 @@ MultiFractal creates a multi-noise that can have a large level of variations. Of
 
 
 
-# Examples
+

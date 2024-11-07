@@ -20,4 +20,4 @@ Seamless can transform any input terrain or color map into a tileable/repeating 
 
 
 
-# Examples
+

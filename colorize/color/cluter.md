@@ -15,8 +15,9 @@ Click anywhere in the gradient to create a new stop. Drag the stop to position i
 
 ![CLUTer](../../images/CLUT-sample.webp)
 
-{.TIP}
-> You can use **Input Clarity** instead of interjecting an Autolevels node to the graph.
+{% hint style="info" %}
+You can use **Input Clarity** instead of interjecting an Autolevels node to the graph.
+{% endhint %}
 
 In this example, a @Flow is mapped by CLUTer to create basic texture map.
 
@@ -36,4 +37,4 @@ In this example, a @Flow is mapped by CLUTer to create basic texture map.
 
 
 
-# Examples
+
