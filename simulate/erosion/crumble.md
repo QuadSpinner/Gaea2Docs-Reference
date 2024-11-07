@@ -6,7 +6,7 @@ Crumble runs a different kind of simulation that feeds off of existing crevices,
 
 ![](/images/ref/crumble-all.gif)
 
-Crumble works with just about any GeoPrimitive, Erosion, and LookDev node. While the controls may seem somewhat simplistic, they can create a wide range of effects depending on the combination.
+Crumble works with just about any Primitive, Erosion, and Surface node. While the controls may seem somewhat simplistic, they can create a wide range of effects depending on the combination.
 
 ## Controlling the Edge
 
