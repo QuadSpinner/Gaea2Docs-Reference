@@ -14,12 +14,12 @@
 | Height |  |
 | Seed |  |
 | Shape |  |
-| | Rounded: <desc> |
-| | Sharp: <desc> |
+| | **Rounded**: <desc> |
+| | **Sharp**: <desc> |
 | Render Still Rocks |  |
 | Distribution |  |
-| | Uniform: <desc> |
-| | Natural: <desc> |
+| | **Uniform**: <desc> |
+| | **Natural**: <desc> |
 
 
 

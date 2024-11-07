@@ -7,10 +7,10 @@
 | Property | Description| 
 | -------- | -----------|
 | Data |  |
-| | ModifierMask: <desc> |
-| | Difference: <desc> |
-| | Boundary: <desc> |
-| | MixerMask: <desc> |
+| | **ModifierMask**: <desc> |
+| | **Difference**: <desc> |
+| | **Boundary**: <desc> |
+| | **MixerMask**: <desc> |
 | Layer |  |
 | Level |  |
 

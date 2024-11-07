@@ -7,9 +7,9 @@
 | Property | Description| 
 | -------- | -----------|
 | Mode |  |
-| | Transpose: <desc> |
-| | Embed: <desc> |
-| | Insert: <desc> |
+| | **Transpose**: <desc> |
+| | **Embed**: <desc> |
+| | **Insert**: <desc> |
 | Amount |  |
 | Extend |  |
 | Flatten |  |

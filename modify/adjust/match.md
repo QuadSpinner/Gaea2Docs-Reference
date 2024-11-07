@@ -7,8 +7,8 @@
 | Property | Description| 
 | -------- | -----------|
 | Mode |  |
-| | Height: <desc> |
-| | Histogram: <desc> |
+| | **Height**: <desc> |
+| | **Histogram**: <desc> |
 
 
 

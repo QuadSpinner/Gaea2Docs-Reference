@@ -7,10 +7,10 @@
 | Property | Description| 
 | -------- | -----------|
 | Quality |  |
-| | Low: <desc> |
-| | Medium: <desc> |
-| | High: <desc> |
-| | Ultra: <desc> |
+| | **Low**: <desc> |
+| | **Medium**: <desc> |
+| | **High**: <desc> |
+| | **Ultra**: <desc> |
 | Enhance |  |
 
 

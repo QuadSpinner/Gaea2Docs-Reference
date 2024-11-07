@@ -12,8 +12,8 @@
 | Settle Duration |  |
 | **Melt** |  |
 | Melt Type |  |
-| | Uniform: <desc> |
-| | Directional: <desc> |
+| | **Uniform**: <desc> |
+| | **Directional**: <desc> |
 | Melt |  |
 | Melt Remnants |  |
 | Direction |  |

@@ -14,10 +14,10 @@
 | Ambient Light |  |
 | Ambient Occlusion |  |
 | Quality |  |
-| | Low: <desc> |
-| | Medium: <desc> |
-| | High: <desc> |
-| | Ultra: <desc> |
+| | **Low**: <desc> |
+| | **Medium**: <desc> |
+| | **High**: <desc> |
+| | **Ultra**: <desc> |
 | **Light** |  |
 | Exposure |  |
 | Sun Intensity |  |

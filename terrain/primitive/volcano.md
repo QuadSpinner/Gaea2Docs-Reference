@@ -11,8 +11,8 @@
 | Mouth |  |
 | Bulk |  |
 | Surface |  |
-| | Smooth: <desc> |
-| | Eroded: <desc> |
+| | **Smooth**: <desc> |
+| | **Eroded**: <desc> |
 | X |  |
 | Y |  |
 | Seed |  |

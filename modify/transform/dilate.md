@@ -10,10 +10,10 @@
 | Shape |  |
 | Iterations |  |
 | Kernel |  |
-| | Cross: <desc> |
-| | Rectangle: <desc> |
-| | Line: <desc> |
-| | LineVertical: <desc> |
+| | **Cross**: <desc> |
+| | **Rectangle**: <desc> |
+| | **Line**: <desc> |
+| | **LineVertical**: <desc> |
 
 
 

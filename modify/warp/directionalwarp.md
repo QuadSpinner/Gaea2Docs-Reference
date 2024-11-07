@@ -9,8 +9,8 @@
 | Strength |  |
 | Direction |  |
 | Edge Behaviour |  |
-| | Edge: <desc> |
-| | Mirror: <desc> |
+| | **Edge**: <desc> |
+| | **Mirror**: <desc> |
 
 
 

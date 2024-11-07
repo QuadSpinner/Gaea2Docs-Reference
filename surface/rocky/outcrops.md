@@ -1,6 +1,9 @@
 # Outcrops
 
 
+
+
+
 # Properties
 
 
@@ -12,7 +15,7 @@
 | Density |  |
 | Shape |  |
 | Chipped |  |
-| Seed |  |
+| Seed | Lorem ipsum |
 | **Variation Range** |  |
 | Size |  |
 | Height |  |

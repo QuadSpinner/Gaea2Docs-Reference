@@ -7,8 +7,8 @@
 | Property | Description| 
 | -------- | -----------|
 | Style |  |
-| | A: <desc> |
-| | B: <desc> |
+| | **A**: <desc> |
+| | **B**: <desc> |
 | Scale |  |
 | Grainy Deposits |  |
 

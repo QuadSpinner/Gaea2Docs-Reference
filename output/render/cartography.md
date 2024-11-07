@@ -1,12 +1,15 @@
 # Cartography
 
 
+
+
+
 # Properties
 
 
 | Property | Description| 
 | -------- | -----------|
-| Contours |  |
+| Contours | Number of contours for dividing the terrain. Secondary contours will be generated between these contours. |
 | Accuracy |  |
 | Land Contours |  |
 | Primary Contour Intenstity |  |
@@ -15,7 +18,7 @@
 | Water Contours |  |
 | Primary Water Intenstity |  |
 | Secondary Water Intenstity |  |
-| Water Contour Color |  |
+| Water Contour Color | Color of the contour lines in the water. |
 | Grid Large |  |
 | Grid Small |  |
 | Grid Small Count |  |

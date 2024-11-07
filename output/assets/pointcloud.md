@@ -8,9 +8,9 @@
 | -------- | -----------|
 | Vertices Per Side |  |
 | Scale |  |
-| | Normalized: <desc> |
-| | Meter: <desc> |
-| | Kilometer: <desc> |
+| | **Normalized**: <desc> |
+| | **Meter**: <desc> |
+| | **Kilometer**: <desc> |
 | Center Pivot |  |
 
 

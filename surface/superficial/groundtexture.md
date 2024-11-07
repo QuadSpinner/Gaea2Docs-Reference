@@ -7,8 +7,8 @@
 | Property | Description| 
 | -------- | -----------|
 | Method |  |
-| | Harsh: <desc> |
-| | Rocky: <desc> |
+| | **Harsh**: <desc> |
+| | **Rocky**: <desc> |
 | Strength |  |
 | Coverage |  |
 | Density |  |

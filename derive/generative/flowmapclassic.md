@@ -14,10 +14,10 @@
 | Simulate 2 X |  |
 | Enhance |  |
 | Quality |  |
-| | Quarter: <desc> |
-| | Third: <desc> |
-| | Half: <desc> |
-| | Full: <desc> |
+| | **Quarter**: <desc> |
+| | **Third**: <desc> |
+| | **Half**: <desc> |
+| | **Full**: <desc> |
 
 
 

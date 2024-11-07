@@ -1,18 +1,23 @@
 # Sand
 
 
+
+Sand creates medium and small level sand patterns. It can also be used to simulate dunes.
+
+
+
 # Properties
 
 
 | Property | Description| 
 | -------- | -----------|
-| Scale |  |
+| Scale | The scale of the sand pattern. |
 | Direction |  |
 | Chaos |  |
-| Softness |  |
-| Height |  |
+| Softness | Softness of the sand pattern. |
+| Height | The height of the sand pattern. |
 | Warp by Terrain |  |
-| Seed |  |
+| Seed | The randomization pattern or seed for the node's process. |
 
 
 

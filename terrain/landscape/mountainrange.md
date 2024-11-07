@@ -9,14 +9,14 @@
 | Scale |  |
 | Height |  |
 | Style |  |
-| | Basic: <desc> |
-| | Eroded: <desc> |
-| | Stratified: <desc> |
-| | Alpine: <desc> |
+| | **Basic**: <desc> |
+| | **Eroded**: <desc> |
+| | **Stratified**: <desc> |
+| | **Alpine**: <desc> |
 | Bulk |  |
-| | Low: <desc> |
-| | Medium: <desc> |
-| | High: <desc> |
+| | **Low**: <desc> |
+| | **Medium**: <desc> |
+| | **High**: <desc> |
 | Seed |  |
 
 

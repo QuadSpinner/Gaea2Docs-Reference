@@ -7,14 +7,14 @@
 | Property | Description| 
 | -------- | -----------|
 | Type |  |
-| | Standard: <desc> |
-| | Detail: <desc> |
+| | **Standard**: <desc> |
+| | **Detail**: <desc> |
 | Width |  |
 | Height |  |
 | Detail Size |  |
 | Normal Green |  |
-| | OpenGL_Yup: <desc> |
-| | DirectX_Ydown: <desc> |
+| | **OpenGL_Yup**: <desc> |
+| | **DirectX_Ydown**: <desc> |
 | Flip X |  |
 
 
