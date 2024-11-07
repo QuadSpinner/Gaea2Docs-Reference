@@ -74,7 +74,6 @@ The bias mask modulates, or drives, the value of the parameter across the terrai
 
 The Erosion and Wizard nodes create three key data outputs:
 
-{.max-70}
 | Data     | Description                                                                           |
 | -------- | ------------------------------------------------------------------------------------- |
 | Wear     | The portions where erosion removes sediments.                                         |
