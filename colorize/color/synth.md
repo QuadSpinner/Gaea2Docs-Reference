@@ -26,6 +26,7 @@ Synth can take a bitmap image whether photo or artwork and convert it to CLUT ma
 | Fuzzy | The amount of fuzziness on bitmap image. |
 | Offset |  |
 | Seed | The randomization pattern or seed for the node's process. |
+| Synthesize Colors |  |
 | Export JSON |  |
 
 

@@ -1,4 +1,4 @@
-# Object
+# Transform3D
 
 
 # Properties
@@ -6,8 +6,6 @@
 
 | Property | Description| 
 | -------- | -----------|
-| Mesh |  |
-| Relative Path |  |
 | **Position** |  |
 | Drop to Floor |  |
 | Offset X |  |

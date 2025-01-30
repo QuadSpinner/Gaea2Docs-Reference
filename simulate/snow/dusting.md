@@ -13,7 +13,9 @@
 | Flow |  |
 | Melt |  |
 | Gritty |  |
+| Include Existing Snow |  |
 | Seed |  |
+| Artistic Control |  |
 
 
 

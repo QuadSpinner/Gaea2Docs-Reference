@@ -10,6 +10,7 @@
 | | **Dot**: <desc> |
 | | **Square**: <desc> |
 | Iterations |  |
+| Multiplier |  |
 | Size |  |
 | Height |  |
 | Blend Mode |  |

@@ -29,6 +29,9 @@
 | | **Med**: <desc> |
 | | **High**: <desc> |
 | | **Ultra**: <desc> |
+| Hue |  |
+| Saturation |  |
+| Lightness |  |
 
 
 

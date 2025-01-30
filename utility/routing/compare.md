@@ -1,4 +1,4 @@
-# Clip
+# Compare
 
 
 # Properties
@@ -6,10 +6,8 @@
 
 | Property | Description| 
 | -------- | -----------|
-| **Clip** |  |
-| Min |  |
-| Max |  |
-| Auto Clip |  |
+| A/B |  |
+| Colorized |  |
 
 
 

@@ -6,7 +6,11 @@
 
 | Property | Description| 
 | -------- | -----------|
+| Scale |  |
 | Detail |  |
+| Type |  |
+| | **Slope**: <desc> |
+| | **Peak**: <desc> |
 | Style |  |
 | | **Basic**: <desc> |
 | | **Eroded**: <desc> |

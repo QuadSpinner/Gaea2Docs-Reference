@@ -1,4 +1,4 @@
-# Sediments
+# Lichtenberg
 
 
 # Properties
@@ -6,12 +6,16 @@
 
 | Property | Description| 
 | -------- | -----------|
-| Scale |  |
-| Old Style |  |
 | Style |  |
 | | **A**: <desc> |
 | | **B**: <desc> |
-| Grainy Deposits |  |
+| | **C**: <desc> |
+| Scale |  |
+| Complexity |  |
+| Depth |  |
+| Expand |  |
+| Bias |  |
+| Seed |  |
 
 
 

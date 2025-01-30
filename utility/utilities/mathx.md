@@ -1,4 +1,4 @@
-# Clip
+# MathX
 
 
 # Properties
@@ -6,10 +6,9 @@
 
 | Property | Description| 
 | -------- | -----------|
-| **Clip** |  |
-| Min |  |
-| Max |  |
-| Auto Clip |  |
+| Expression |  |
+| Normalized Coordinates |  |
+| Information |  |
 
 
 

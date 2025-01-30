@@ -1,4 +1,4 @@
-# Clip
+# TangentWarp
 
 
 # Properties
@@ -6,10 +6,8 @@
 
 | Property | Description| 
 | -------- | -----------|
-| **Clip** |  |
-| Min |  |
-| Max |  |
-| Auto Clip |  |
+| LOD Size |  |
+| Add Input |  |
 
 
 

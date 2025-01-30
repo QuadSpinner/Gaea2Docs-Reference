@@ -9,6 +9,7 @@
 | Type |  |
 | | **Standard**: <desc> |
 | | **Detail**: <desc> |
+| | **Tangent**: <desc> |
 | Width |  |
 | Height |  |
 | Detail Size |  |

@@ -29,7 +29,10 @@ For simple results, such as distant mountains that don't require much detail, yo
 | | **Low**: <desc> |
 | | **Medium**: <desc> |
 | | **High**: <desc> |
+| Reduce Details |  |
 | Seed | The randomization pattern or seed for the node's process. |
+| X |  |
+| Y |  |
 
 
 

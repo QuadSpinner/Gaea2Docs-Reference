@@ -14,7 +14,9 @@ Mesher allows you to save specific nodes as meshes instead of heightfields. It c
 | Format |  |
 | | **OBJ**: <desc> |
 | | **FBX**: <desc> |
-| | **ABC**: <desc> |
+| | **DAE**: <desc> |
+| | **GLTF**: <desc> |
+| | **GLB**: <desc> |
 | Scale |  |
 | | **Normalized**: <desc> |
 | | **Meter**: <desc> |
@@ -25,7 +27,11 @@ Mesher allows you to save specific nodes as meshes instead of heightfields. It c
 | | **AdaptiveTris**: <desc> |
 | Topology Warning |  |
 | Vertices Per Side |  |
-| Create U Vs |  |
+| Create Normals |  |
+| Create UVs |  |
+| UV Origin |  |
+| | **TopLeft**: <desc> |
+| | **BottomLeft**: <desc> |
 | Create Walls | Creates wall in the output mesh. |
 | Center Pivot |  |
 | Level of Detail |  |
@@ -35,7 +41,6 @@ Mesher allows you to save specific nodes as meshes instead of heightfields. It c
 | | **LOD3**: <desc> |
 | | **LOD4**: <desc> |
 | | **LOD5**: <desc> |
-| | **LOD6**: <desc> |
 | LOD Info |  |
 
 
