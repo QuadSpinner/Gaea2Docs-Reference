@@ -8,14 +8,9 @@ Sunlight is a Data Map that gives you the sunlight integral (sun light/shadow ma
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| North |  |
-| Year |  |
-| Latitude |  |
-
-
+- **North**: 
+- **Year**: 
+- **Latitude**: 
 
 
 

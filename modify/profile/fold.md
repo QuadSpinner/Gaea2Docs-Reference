@@ -8,17 +8,12 @@ The Fold node simulates terrain folding by introducing slants, breaks, and folds
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Waveform |  |
-| | **Sine**: <desc> |
-| | **Triangle**: <desc> |
-| | **Sawtooth**: <desc> |
-| Folds |  |
-| Symmetric |  |
-
-
+- Waveform
+  - **Sine**: <desc>
+  - **Triangle**: <desc>
+  - **Sawtooth**: <desc>
+- **Folds**: 
+- **Symmetric**: 
 
 
 

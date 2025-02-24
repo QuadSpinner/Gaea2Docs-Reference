@@ -12,15 +12,11 @@ In Gaea 1.3, the Invert and Strong options have been removed. Use the @postproce
 {% endhint %}
 
 
+
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Strength |  |
-| Octaves |  |
-
-
+- **Strength**: 
+- **Octaves**: 
 
 
 

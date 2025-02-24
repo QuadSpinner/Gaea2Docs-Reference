@@ -22,20 +22,15 @@ While Crumble does "eat away" the edges, the control over the edges was limited.
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Duration | Lorem ipsum |
-| Strength | Lorem ipsum |
-| Coverage | Lorem ipsum |
-| Horizontal | Lorem ipsum |
-| Vertical | Lorem ipsum |
-| Rock Hardness | Lorem ipsum |
-| Edge | Lorem ipsum |
-| Downcutting | Lorem ipsum |
-| Depth | Lorem ipsum |
-
-
+- **Duration**: Lorem ipsum
+- **Strength**: Lorem ipsum
+- **Coverage**: Lorem ipsum
+- **Horizontal**: Lorem ipsum
+- **Vertical**: Lorem ipsum
+- **Rock Hardness**: Lorem ipsum
+- **Edge**: Lorem ipsum
+- **Downcutting**: Lorem ipsum
+- **Depth**: Lorem ipsum
 
 
 

@@ -3,14 +3,9 @@
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Subdivision |  |
-| Line Intensity |  |
-| Sub Intensity |  |
-
-
+- **Subdivision**: 
+- **Line Intensity**: 
+- **Sub Intensity**: 
 
 
 

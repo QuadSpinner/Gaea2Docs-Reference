@@ -4,14 +4,11 @@
 # Properties
 
 
-| Property | Description| 
-| -------- | -----------|
-| **Meshify** |  |
-| Vertices |  |
-| Seed |  |
-| Detail Sensitivity |  |
+## Meshify
 
-
+- **Vertices**: 
+- **Seed**: 
+- **Detail Sensitivity**: 
 
 
 

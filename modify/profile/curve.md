@@ -5,8 +5,10 @@
 ## Properties
 
 | Property     | Description |
-| ------------ | ----------- |
-| Curve Spline |             |
-| Mode         |             |
-|              | Absolute    |
-|              | Relative    |
+# Properties
+
+- **Curve Spline**: 
+- Mode
+  - **Absolute**: <desc>
+  - **Relative**: <desc>
+- **Fit Curve**: 

@@ -4,14 +4,11 @@
 # Properties
 
 
-| Property | Description| 
-| -------- | -----------|
-| **Clip** |  |
-| Min |  |
-| Max |  |
-| Auto Clip |  |
+## Clip
 
-
+- **Min**: 
+- **Max**: 
+- **Auto Clip**: 
 
 
 

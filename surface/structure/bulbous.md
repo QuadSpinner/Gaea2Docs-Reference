@@ -3,13 +3,8 @@
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Scale |  |
-| Jitter |  |
-
-
+- **Scale**: 
+- **Jitter**: 
 
 
 

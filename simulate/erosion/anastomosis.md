@@ -23,29 +23,24 @@ Using a high Impact value in Rivers mode.
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Impact | The intensity of the process. Higher values create stronger physical impacts within the erosion process. |
-| Width |  |
-| Depth |  |
-| Downcutting |  |
-| | **Destructive**: <desc> |
-| | **Pits**: <desc> |
-| | **Flows**: <desc> |
-| | **Rivers**: <desc> |
-| | **Riversx2**: <desc> |
-| | **Riversx4**: <desc> |
-| | **Flooding**: <desc> |
-| | **Floodingx2**: <desc> |
-| | **Flooding_x4**: <desc> |
-| Quality |  |
-| | **Quarter**: <desc> |
-| | **Third**: <desc> |
-| | **Half**: <desc> |
-| | **Full**: <desc> |
-
-
+- **Impact**: The intensity of the process. Higher values create stronger physical impacts within the erosion process.
+- **Width**: 
+- **Depth**: 
+- Downcutting
+  - **Destructive**: <desc>
+  - **Pits**: <desc>
+  - **Flows**: <desc>
+  - **Rivers**: <desc>
+  - **Riversx2**: <desc>
+  - **Riversx4**: <desc>
+  - **Flooding**: <desc>
+  - **Floodingx2**: <desc>
+  - **Flooding_x4**: <desc>
+- Quality
+  - **Quarter**: <desc>
+  - **Third**: <desc>
+  - **Half**: <desc>
+  - **Full**: <desc>
 
 
 

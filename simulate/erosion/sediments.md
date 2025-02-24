@@ -1,15 +1,12 @@
 # Sediments
 
-## Sediments
 
-## Properties
+# Properties
 
-| Property        | Description |
-| --------------- | ----------- |
-| Passes          |             |
-| Scale           |             |
-| Old Style       |             |
-| Style           |             |
-|                 | **A**:      |
-|                 | **B**:      |
-| Grainy Deposits |             |
+- **Passes**: 
+- **Scale**: 
+- **Old Style**: 
+- Style
+  - **A**: <desc>
+  - **B**: <desc>
+- **Grainy Deposits**: 

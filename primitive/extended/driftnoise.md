@@ -8,20 +8,15 @@ DriftNoise is a unique primitive that can create overlapping "shelves". It is a 
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Passes |  |
-| Chaos | Gives uneveness to the overlapping shelves. |
-| Scale Large |  |
-| Scale Small |  |
-| Turbulence Large |  |
-| Turbulence Small |  |
-| Wind Direction Large |  |
-| Wind Direction Small |  |
-| Seed | The randomization pattern or seed for the node's process. |
-
-
+- **Passes**: 
+- **Chaos**: Gives uneveness to the overlapping shelves.
+- **Scale Large**: 
+- **Scale Small**: 
+- **Turbulence Large**: 
+- **Turbulence Small**: 
+- **Wind Direction Large**: 
+- **Wind Direction Small**: 
+- **Seed**: The randomization pattern or seed for the node's process.
 
 
 

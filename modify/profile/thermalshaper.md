@@ -10,13 +10,8 @@ You can use it to create smoother ridges, or even bulk up a terrain without crea
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Influence | The influence of the shaping on the input terrain. Mid-values can give you good balance between the stark shape and the original terrain. |
-| Shape | Negative values will condense the terrain into concise, sharp ridges, while positive values will bulk up the terrain by adding bulge. |
-
-
+- **Influence**: The influence of the shaping on the input terrain. Mid-values can give you good balance between the stark shape and the original terrain.
+- **Shape**: Negative values will condense the terrain into concise, sharp ridges, while positive values will bulk up the terrain by adding bulge.
 
 
 

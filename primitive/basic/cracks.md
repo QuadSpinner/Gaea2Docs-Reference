@@ -51,25 +51,24 @@ If you need more elaborate distortions in your patterns, you can add a @Warp nod
 # Properties
 
 
-| Property              | Description                                                                                                                                      |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Cracks**            |                                                                                                                                                  |
-| Style                 |                                                                                                                                                  |
-|                       | **Normal**: The default style that creates cracks that gentle slope inward.                                                                      |
-|                       | **Hard**: The edges of the cracks are not refined and may show aliasing. This may be useful if the softer edges create artifacts in other nodes. |
-|                       | **Classic**: The default style from previous versions of Gaea. This is creates very thin cracks without a slope curve.                           |
-| Octaves               | The number of crack pattern sets to generate.                                                                                                    |
-| Scale                 | The overall size of the cracked pattern.                                                                                                         |
-| Depth                 | The depth of the cracks. It also widens the cracks.                                                                                              |
-| Jitter                | Control the offset of the cracks between symmetrical and chaotic.                                                                                |
-| Warp Strength         | The strength of the warp distortion applied to the cracks.                                                                                       |
-| Warp Size             | The size of the warp distortion applied to the cracks.                                                                                           |
-| Seed                  | The randomization pattern or seed for the node's process.                                                                                        |
-| **Advanced settings** |                                                                                                                                                  |
-| Scale X               | The non-uniform scale on the X axis.                                                                                                             |
-| Scale Y               | The non-uniform scale on the Y axis.                                                                                                             |
+## Cracks
 
+- Style
+  - **Normal**: The default style that creates cracks that gentle slope inward.
+  - **Hard**: The edges of the cracks are not refined and may show aliasing. This may be useful if the softer edges create artifacts in other nodes.
+  - **Classic**: The default style from previous versions of Gaea. This is creates very thin cracks without a slope curve.
+- **Octaves**: The number of crack pattern sets to generate.
+- **Scale**: The overall size of the cracked pattern.
+- **Depth**: The depth of the cracks. It also widens the cracks.
+- **Jitter**: Control the offset of the cracks between symmetrical and chaotic.
+- **Warp Strength**: The strength of the warp distortion applied to the cracks.
+- **Warp Size**: The size of the warp distortion applied to the cracks.
+- **Seed**: The randomization pattern or seed for the node's process.
 
+## Advanced settings
+
+- **Scale X**: The non-uniform scale on the X axis.
+- **Scale Y**: The non-uniform scale on the Y axis.
 
 
 

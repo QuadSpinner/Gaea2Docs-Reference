@@ -3,18 +3,13 @@
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Slope |  |
-| Flows |  |
-| Soil |  |
-| Patches |  |
-| Chaos |  |
-| Accentuate |  |
-| Seed |  |
-
-
+- **Slope**: 
+- **Flows**: 
+- **Soil**: 
+- **Patches**: 
+- **Chaos**: 
+- **Accentuate**: 
+- **Seed**: 
 
 
 

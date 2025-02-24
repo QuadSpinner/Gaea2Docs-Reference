@@ -3,14 +3,9 @@
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Hue |  |
-| Saturation |  |
-| Lightness |  |
-
-
+- **Hue**: 
+- **Saturation**: 
+- **Lightness**: 
 
 
 

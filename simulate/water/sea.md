@@ -12,22 +12,17 @@ The water surface can be generated either as global surface or filled from the e
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Sea |  |
-| | **Global**: <desc> |
-| | **Surrounding**: <desc> |
-| Level | The water level in the sea. |
-| Coastal Erosion | Perform erosion on the coastal areas. |
-| Shore Size | The size of the shore created with coastal erosion. |
-| Shore Height | The height of the shore created with coastal erosion. |
-| Variation | The amount of variation on the coast. |
-| Uniform Variations |  |
-| Extra Cliff Details | Add extra details to the cliff on the terrain. |
-| Render Surface |  |
-
-
+- Sea
+  - **Global**: <desc>
+  - **Surrounding**: <desc>
+- **Level**: The water level in the sea.
+- **Coastal Erosion**: Perform erosion on the coastal areas.
+- **Shore Size**: The size of the shore created with coastal erosion.
+- **Shore Height**: The height of the shore created with coastal erosion.
+- **Variation**: The amount of variation on the coast.
+- **Uniform Variations**: 
+- **Extra Cliff Details**: Add extra details to the cliff on the terrain.
+- **Render Surface**: 
 
 
 

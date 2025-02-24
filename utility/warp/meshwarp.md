@@ -1,19 +1,16 @@
-# Normals
+# MeshWarp
 
 
 # Properties
 
-- Type
-  - **Standard**: <desc>
-  - **Detail**: <desc>
-- **Width**: 
-- **Height**: 
-- **Detail Size**: 
+- **Generate Normals**: 
 - Normal Green
   - **OpenGL_Yup**: <desc>
   - **DirectX_Ydown**: <desc>
 - **Flip X**: 
+- **Add Input**: 
 - **Information 1**: 
+- **LOD Info**: 
 
 
 

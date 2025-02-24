@@ -9,29 +9,26 @@ Distance is a simple Distance Transform node that allows you to create a sloping
 
 # Properties
 
+- Method
+  - **Classic**: <desc>
+  - **RT**: <desc>
+- Mode
+  - **Asterisk**: <desc>
+  - **Pyramid**: <desc>
+- **Directions**: 
+- **Skew**: 
+- **Angle**: 
+- **Angular Jitter**: 
+- **Falloff**: 
+- **Threshold**: 
+- **Falloff Jitter**: 
 
-| Property | Description| 
-| -------- | -----------|
-| Method |  |
-| | **Classic**: <desc> |
-| | **RT**: <desc> |
-| Mode |  |
-| | **Asterisk**: <desc> |
-| | **Pyramid**: <desc> |
-| Directions |  |
-| Skew |  |
-| Angle |  |
-| Angular Jitter |  |
-| Falloff |  |
-| Threshold |  |
-| Falloff Jitter |  |
-| **Options** |  |
-| Invert Input |  |
-| Invert Output |  |
-| Multiply by Input |  |
-| Seed |  |
+## Options
 
-
+- **Invert Input**: 
+- **Invert Output**: 
+- **Multiply by Input**: 
+- **Seed**: 
 
 
 

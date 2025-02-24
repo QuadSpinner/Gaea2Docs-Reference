@@ -4,19 +4,20 @@
 # Properties
 
 
-| Property | Description| 
-| -------- | -----------|
-| **Erosion** |  |
-| Duration |  |
-| Strength |  |
-| Anisotropy |  |
-| **Talus** |  |
-| Angle |  |
-| Sediment Removal |  |
-| **Scale** |  |
-| Feature Scale |  |
+## Erosion
 
+- **Duration**: 
+- **Strength**: 
+- **Anisotropy**: 
 
+## Talus
+
+- **Angle**: 
+- **Sediment Removal**: 
+
+## Scale
+
+- **Feature Scale**: 
 
 
 

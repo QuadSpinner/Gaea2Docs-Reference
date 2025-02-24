@@ -10,14 +10,9 @@ In most cases, you may want to use @Seamless before Repeat to let the edges matc
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Tiles | The number of repititions on either axis. |
-| Compensate Height |  |
-| Height |  |
-
-
+- **Tiles**: The number of repititions on either axis.
+- **Compensate Height**: 
+- **Height**: 
 
 
 

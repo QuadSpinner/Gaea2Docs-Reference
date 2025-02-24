@@ -4,12 +4,9 @@
 # Properties
 
 
-| Property | Description| 
-| -------- | -----------|
-| **Blur** |  |
-| Radius |  |
+## Blur
 
-
+- **Radius**: 
 
 
 

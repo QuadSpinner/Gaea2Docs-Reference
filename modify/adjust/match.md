@@ -3,14 +3,9 @@
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Mode |  |
-| | **Height**: <desc> |
-| | **Histogram**: <desc> |
-
-
+- Mode
+  - **Height**: <desc>
+  - **Histogram**: <desc>
 
 
 

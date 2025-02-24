@@ -3,16 +3,13 @@
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Scale |  |
-| Height |  |
-| Octaves |  |
-| Direction |  |
-| Seed |  |
-
-
+- **Passes**: 
+- **Scale**: 
+- **Height**: 
+- **Octaves**: 
+- **Direction**: 
+- **Jitter**: 
+- **Seed**: 
 
 
 

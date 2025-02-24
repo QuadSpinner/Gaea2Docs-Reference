@@ -11,17 +11,12 @@ A single iteration is appropriate in most cases. For extremely noisy terrains th
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Type |  |
-| | **OnePass**: <desc> |
-| | **TwoPass**: <desc> |
-| | **Pixels**: <desc> |
-| Amount |  |
-| Passes |  |
-
-
+- Type
+  - **OnePass**: <desc>
+  - **TwoPass**: <desc>
+  - **Pixels**: <desc>
+- **Amount**: 
+- **Passes**: 
 
 
 

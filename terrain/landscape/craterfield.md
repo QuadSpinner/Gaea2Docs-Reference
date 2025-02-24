@@ -4,18 +4,17 @@
 # Properties
 
 
-| Property | Description| 
-| -------- | -----------|
-| **Craterfield** |  |
-| Scale |  |
-| Depth |  |
-| Density |  |
-| Seed |  |
-| **Position** |  |
-| X |  |
-| Y |  |
+## Craterfield
 
+- **Scale**: 
+- **Depth**: 
+- **Density**: 
+- **Seed**: 
 
+## Position
+
+- **X**: 
+- **Y**: 
 
 
 

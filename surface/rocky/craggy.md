@@ -3,15 +3,10 @@
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Size |  |
-| Depth |  |
-| Shape |  |
-| Seed |  |
-
-
+- **Size**: 
+- **Depth**: 
+- **Shape**: 
+- **Seed**: 
 
 
 

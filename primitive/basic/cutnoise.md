@@ -1,8 +1,9 @@
-# Reseed
+# CutNoise
 
 
 # Properties
 
+- **Scale**: 
 - **Seed**: 
 
 

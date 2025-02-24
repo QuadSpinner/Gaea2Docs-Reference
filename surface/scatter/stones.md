@@ -4,15 +4,12 @@
 # Properties
 
 
-| Property | Description| 
-| -------- | -----------|
-| **Stones** |  |
-| Scale |  |
-| Height |  |
-| Density |  |
-| Seed |  |
+## Stones
 
-
+- **Scale**: 
+- **Height**: 
+- **Density**: 
+- **Seed**: 
 
 
 

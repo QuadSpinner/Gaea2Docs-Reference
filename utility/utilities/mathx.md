@@ -3,14 +3,9 @@
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Expression |  |
-| Normalized Coordinates |  |
-| Information |  |
-
-
+- **Expression**: 
+- **Normalized Coordinates**: 
+- **Information**: 
 
 
 

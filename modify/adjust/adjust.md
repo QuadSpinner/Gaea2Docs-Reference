@@ -3,20 +3,15 @@
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Multiply |  |
-| Shaper |  |
-| Clamp |  |
-| Clip |  |
-| Drop |  |
-| Autolevel |  |
-| Equalize |  |
-| Strong |  |
-| Invert |  |
-
-
+- **Multiply**: 
+- **Shaper**: 
+- **Clamp**: 
+- **Clip**: 
+- **Drop**: 
+- **Autolevel**: 
+- **Equalize**: 
+- **Strong**: 
+- **Invert**: 
 
 
 

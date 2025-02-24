@@ -12,17 +12,13 @@ Use sparingly. High values can create sharp artifacts on your terrain which may 
 
 
 
+
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Method |  |
-| | **Edge**: <desc> |
-| | **Frequency**: <desc> |
-| Amount | The amount of sharpening to be applied to the structures. |
-
-
+- Method
+  - **Edge**: <desc>
+  - **Frequency**: <desc>
+- **Amount**: The amount of sharpening to be applied to the structures.
 
 
 

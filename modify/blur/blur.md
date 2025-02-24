@@ -12,12 +12,9 @@ The Blur node diffuses sharp shapes and softens the terrain.
 # Properties
 
 
-| Property | Description| 
-| -------- | -----------|
-| **Blur** |  |
-| Radius |  |
+## Blur
 
-
+- **Radius**: 
 
 
 

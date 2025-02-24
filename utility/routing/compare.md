@@ -3,13 +3,8 @@
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| A/B |  |
-| Colorized |  |
-
-
+- **A/B**: 
+- **Colorized**: 
 
 
 

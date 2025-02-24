@@ -6,16 +6,13 @@
 Edge was known as "Zero Borders" in Gaea 1.
 {% endhint %}
 
+- Style
+  - **Round**: <desc>
+  - **Square**: <desc>
+  - **Precise**: <desc>
+- **Size**: 
+- **Pixels**: 
+- **Softness**: 
 
 
-## Properties
 
-| Property | Description  |
-| -------- | ------------ |
-| Style    |              |
-|          | **Round**:   |
-|          | **Square**:  |
-|          | **Precise**: |
-| Size     |              |
-| Pixels   |              |
-| Softness |              |

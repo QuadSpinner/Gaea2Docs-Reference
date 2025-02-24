@@ -3,13 +3,8 @@
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Count |  |
-| Accuracy |  |
-
-
+- **Count**: 
+- **Accuracy**: 
 
 
 

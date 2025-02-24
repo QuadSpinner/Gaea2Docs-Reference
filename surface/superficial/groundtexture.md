@@ -3,17 +3,12 @@
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Method |  |
-| | **Harsh**: <desc> |
-| | **Rocky**: <desc> |
-| Strength |  |
-| Coverage |  |
-| Density |  |
-
-
+- Method
+  - **Harsh**: <desc>
+  - **Rocky**: <desc>
+- **Strength**: 
+- **Coverage**: 
+- **Density**: 
 
 
 

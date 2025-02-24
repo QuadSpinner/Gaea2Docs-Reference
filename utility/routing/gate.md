@@ -4,10 +4,5 @@
 # Properties
 
 
-| Property | Description| 
-| -------- | -----------|
-
-
-
 
 

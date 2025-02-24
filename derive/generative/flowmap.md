@@ -3,14 +3,9 @@
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Flow Length |  |
-| Flow Volume |  |
-| Seed |  |
-
-
+- **Flow Length**: 
+- **Flow Volume**: 
+- **Seed**: 
 
 
 

@@ -8,17 +8,12 @@ SoftClip a low-level utility that lets you softly reduce the intensity of shapes
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Clip Mode |  |
-| | **AboveThreshold**: <desc> |
-| | **BelowThreshold**: <desc> |
-| Threshold |  |
-| Softness |  |
-| Clipping |  |
-
-
+- Clip Mode
+  - **AboveThreshold**: <desc>
+  - **BelowThreshold**: <desc>
+- **Threshold**: 
+- **Softness**: 
+- **Clipping**: 
 
 
 

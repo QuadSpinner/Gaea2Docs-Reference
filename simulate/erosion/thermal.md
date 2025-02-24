@@ -31,24 +31,25 @@ Selective Processing can be a very powerful tool in such a chain of nodes, for b
 # Properties
 
 
-| Property | Description| 
-| -------- | -----------|
-| **Erosion** |  |
-| Duration | Duration of the thermal erosion process. |
-| Strength | Strength of the thermal erosion process. |
-| Anisotropy | Thermal erosion's anisotropy that affects how rock is affected, and deposits formed. See the Anisotropy section for details. |
-| Seed |  |
-| **Talus** |  |
-| Angle |  |
-| Settling |  |
-| Sediment Removal | Amount of sediment to be removed. |
-| **Scale** |  |
-| Feature Scale | Scale of the largest feature in the terrain. |
-| Real Scale | Use the scale defined in the terrain. Disable to access addtional options and modify erosion's physics. |
-| Terrain Scale | Scale of the terrain. Available when Real Scale is turned Off |
-| Verticality | Height of the terrain.Available when Real Scale is turned Off |
+## Erosion
 
+- **Duration**: Duration of the thermal erosion process.
+- **Strength**: Strength of the thermal erosion process.
+- **Anisotropy**: Thermal erosion's anisotropy that affects how rock is affected, and deposits formed. See the Anisotropy section for details.
+- **Seed**: 
 
+## Talus
+
+- **Angle**: 
+- **Settling**: 
+- **Sediment Removal**: Amount of sediment to be removed.
+
+## Scale
+
+- **Feature Scale**: Scale of the largest feature in the terrain.
+- **Real Scale**: Use the scale defined in the terrain. Disable to access addtional options and modify erosion's physics.
+- **Terrain Scale**: Scale of the terrain. Available when Real Scale is turned Off
+- **Verticality**: Height of the terrain.Available when Real Scale is turned Off
 
 
 

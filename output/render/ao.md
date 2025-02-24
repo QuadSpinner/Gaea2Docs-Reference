@@ -3,17 +3,12 @@
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Quality |  |
-| | **Low**: <desc> |
-| | **Medium**: <desc> |
-| | **High**: <desc> |
-| | **Ultra**: <desc> |
-| Enhance |  |
-
-
+- Quality
+  - **Low**: <desc>
+  - **Medium**: <desc>
+  - **High**: <desc>
+  - **Ultra**: <desc>
+- **Enhance**: 
 
 
 

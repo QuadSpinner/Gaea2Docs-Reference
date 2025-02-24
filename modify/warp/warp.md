@@ -27,38 +27,37 @@ Warp is also built into the @postprocess for easy access.
 # Properties
 
 
-| Property | Description| 
-| -------- | -----------|
-| **Warp** |  |
-| Size |  |
-| Strength |  |
-| Z Scale |  |
-| Warp Source |  |
-| | **PerlinFBM**: <desc> |
-| | **VoronoiR**: <desc> |
-| | **VoronoiP**: <desc> |
-| | **VoronoiA**: <desc> |
-| | **VoronoiS**: <desc> |
-| | **VoronoiM**: <desc> |
-| | **VoronoiD**: <desc> |
-| Perturbation |  |
-| Complexity |  |
-| Roughness |  |
-| Normalized |  |
-| Edge Behaviour |  |
-| | **Edge**:  |
-| | **Mirror**: Edge pixels are mirrored. |
-| Modulation |  |
-| Modulation Direction |  |
-| Seed | The randomization pattern or seed for the node's process. |
-| **Iterative** |  |
-| Iterations |  |
-| Mode |  |
-| | **Bitmap**:  |
-| | **VectorField**: <desc> |
-| | **VectorFieldIntegral**: <desc> |
+## Warp
 
+- **Size**: 
+- **Strength**: 
+- **Z Scale**: 
+- Warp Source
+  - **PerlinFBM**: <desc>
+  - **VoronoiR**: <desc>
+  - **VoronoiP**: <desc>
+  - **VoronoiA**: <desc>
+  - **VoronoiS**: <desc>
+  - **VoronoiM**: <desc>
+  - **VoronoiD**: <desc>
+- **Perturbation**: 
+- **Complexity**: 
+- **Roughness**: 
+- **Normalized**: 
+- Edge Behaviour
+  - **Edge**: 
+  - **Mirror**: Edge pixels are mirrored.
+- **Modulation**: 
+- **Modulation Direction**: 
+- **Seed**: The randomization pattern or seed for the node's process.
 
+## Iterative
+
+- **Iterations**: 
+- Mode
+  - **Bitmap**: 
+  - **VectorField**: <desc>
+  - **VectorFieldIntegral**: <desc>
 
 
 

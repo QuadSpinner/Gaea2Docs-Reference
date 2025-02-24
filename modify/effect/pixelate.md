@@ -3,12 +3,7 @@
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Size |  |
-
-
+- **Size**: 
 
 
 

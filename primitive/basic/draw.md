@@ -3,13 +3,8 @@
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Soften |  |
-| Open Painter |  |
-
-
+- **Soften**: 
+- **OpenPainter**: 
 
 
 

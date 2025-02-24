@@ -4,15 +4,12 @@
 # Properties
 
 
-| Property | Description| 
-| -------- | -----------|
-| **Steps** |  |
-| Scale |  |
-| Density |  |
-| Invert |  |
-| Seed |  |
+## Steps
 
-
+- **Scale**: 
+- **Density**: 
+- **Invert**: 
+- **Seed**: 
 
 
 

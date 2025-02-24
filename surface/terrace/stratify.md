@@ -10,18 +10,13 @@ Stratify allows you to create broken strata or rock layers on the terrain in a n
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Spacing |  |
-| Octaves |  |
-| Intensity |  |
-| Shape |  |
-| Seed |  |
-| Tilt Amount |  |
-| Direction |  |
-
-
+- **Spacing**: 
+- **Octaves**: 
+- **Intensity**: 
+- **Shape**: 
+- **Seed**: 
+- **Tilt Amount**: 
+- **Direction**: 
 
 
 

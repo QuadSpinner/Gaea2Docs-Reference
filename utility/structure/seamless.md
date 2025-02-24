@@ -1,14 +1,11 @@
 # Seamless
 
-## Seamless
-
 Seamless can transform any input terrain or color map into a tileable/repeating pattern. It requires very little effort.
 
-## Properties
+# Properties
 
-| Property      | Description                                       |
-| ------------- | ------------------------------------------------- |
-| Edge          | The amount of blending across the opposite edges. |
-| Shift X       | Shift blending on the X axis.                     |
-| Shift Y       | Shift blending on the Y axis.                     |
-| Toggle Tiling |                                                   |
+- **Edge**: The amount of blending across the opposite edges.
+- **Shift X**: Shift blending on the X axis.
+- **Shift Y**: Shift blending on the Y axis.
+- **Preview Tiling**: 
+

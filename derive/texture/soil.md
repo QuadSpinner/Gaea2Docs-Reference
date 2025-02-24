@@ -11,15 +11,11 @@ You can combine different Soil Maps using the Combine node set to Max. You can e
 
 
 
+
 # Properties
 
-
-| Property | Description |
-| -------- | ----------- |
-| Amount   |             |
-| Bias     |             |
-
-
+- **Amount**: 
+- **Bias**: 
 
 
 

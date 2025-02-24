@@ -8,15 +8,10 @@ The Flip node flips the terrain horizontally, vertically, or both. It can also i
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Type |  |
-| | **X**: <desc> |
-| | **Y**: <desc> |
-| | **XY**: <desc> |
-
-
+- Type
+  - **X**: <desc>
+  - **Y**: <desc>
+  - **XY**: <desc>
 
 
 

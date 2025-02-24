@@ -9,26 +9,22 @@ The Auto Level, Log, and Equalize post-process options can be very useful for ma
 {% endhint %}
 
 
+
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Bucket Size |  |
-| | **X1**: <desc> |
-| | **X2**: <desc> |
-| | **X3**: <desc> |
-| | **X4**: <desc> |
-| Style |  |
-| | **Sharp**: <desc> |
-| | **Soft**: <desc> |
-| | **Flat**: <desc> |
-| | **Vague**: <desc> |
-| Clamp |  |
-| Direction |  |
-| Seed | The randomization pattern or seed for the node's process. |
-
-
+- Bucket Size
+  - **X1**: <desc>
+  - **X2**: <desc>
+  - **X3**: <desc>
+  - **X4**: <desc>
+- Style
+  - **Sharp**: <desc>
+  - **Soft**: <desc>
+  - **Flat**: <desc>
+  - **Vague**: <desc>
+- **Clamp**: 
+- **Direction**: 
+- **Seed**: The randomization pattern or seed for the node's process.
 
 
 

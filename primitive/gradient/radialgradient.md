@@ -3,15 +3,10 @@
 
 # Properties
 
-
-| Property | Description| 
-| -------- | -----------|
-| Scale |  |
-| Height |  |
-| X |  |
-| Y |  |
-
-
+- **Scale**: 
+- **Height**: 
+- **X**: 
+- **Y**: 
 
 
 
