@@ -1,17 +1,12 @@
 # Curve
 
+## Curve
 
+## Properties
 
-
-
-# Properties
-
-
-| Property | Description| 
-| -------- | -----------|
-| Curve Spline |  |
-
-
-
-
-
+| Property     | Description |
+| ------------ | ----------- |
+| Curve Spline |             |
+| Mode         |             |
+|              | Absolute    |
+|              | Relative    |

@@ -218,7 +218,7 @@
   * [Reseed](utility/routing/reseed.md)
   * [Route](utility/routing/route.md)
   * [Switch](utility/routing/switch.md)
-  * [TileGate](utility/routing/tilegate.md)
+  * [Gate](utility/routing/tilegate.md)
 * [Structure](utility/structure/README.md)
   * [Edge](utility/structure/edge.md)
   * [Repeat](utility/structure/repeat.md)
