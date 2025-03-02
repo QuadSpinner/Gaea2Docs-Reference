@@ -1,20 +1,11 @@
 # Blur
 
-
+## Blur
 
 The Blur node diffuses sharp shapes and softens the terrain.
 
+Blur is also available as a Modifier.
 
-^alsopost
+## Properties
 
-
-
-# Properties
-
-
-## Blur
-
-- **Radius**: 
-
-
-
+* **Radius**: The radius of the blur in relative size.
