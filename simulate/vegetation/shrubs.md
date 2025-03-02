@@ -1,36 +1,37 @@
+---
+hidden: true
+---
+
 # Shrubs
 
+## Shrubs
 
-# Properties
+## Properties
 
+### Trees
 
-## Trees
+* **Count in Thousands**:
 
-- **Count in Thousands**: 
+### Aspect Inhibition
 
-## Aspect Inhibition
+* **Slope**:
+* **Slope Falloff**:
+* **Altitude**:
+* **Altitude Falloff**:
+* **Distort**:
 
-- **Slope**: 
-- **Slope Falloff**: 
-- **Altitude**: 
-- **Altitude Falloff**: 
-- **Distort**: 
+### Flow Inhibition
 
-## Flow Inhibition
+* **Dead Flow**:
+* **Consolidate Flows**:
+* **Snowline**:
 
-- **Dead Flow**: 
-- **Consolidate Flows**: 
-- **Snowline**: 
+### Growth
 
-## Growth
-
-- **Patches**: 
-- **Chaos**: 
-- **Edges**: 
-- **Simulation Bias**: 
-- **Seek Water**: 
-- **Aggressive**: 
-- **Seed**: 
-
-
-
+* **Patches**:
+* **Chaos**:
+* **Edges**:
+* **Simulation Bias**:
+* **Seek Water**:
+* **Aggressive**:
+* **Seed**:

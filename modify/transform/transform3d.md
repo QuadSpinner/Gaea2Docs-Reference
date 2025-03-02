@@ -1,29 +1,30 @@
+---
+hidden: true
+---
+
 # Transform3D
 
+## Transform3D
 
-# Properties
+## Properties
 
+### Position
 
-## Position
+* **Drop to Floor**:
+* **Offset X**:
+* **Offset Y**:
+* **Offset Z**:
 
-- **Drop to Floor**: 
-- **Offset X**: 
-- **Offset Y**: 
-- **Offset Z**: 
+### Scale
 
-## Scale
+* **Scale**:
 
-- **Scale**: 
+### Rotation
 
-## Rotation
+* **Pitch**:
+* **Yaw**:
+* **Roll**:
 
-- **Pitch**: 
-- **Yaw**: 
-- **Roll**: 
+### Quality
 
-## Quality
-
-- **Antialiasing**: 
-
-
-
+* **Antialiasing**:

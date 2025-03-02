@@ -1,18 +1,20 @@
+---
+hidden: true
+---
+
 # VFX
 
+## VFX
 
-# Properties
+## Properties
 
-- **Albedo**: 
-- **Light Diffusion**: 
-- **Ambient Occlusion**: 
-- **Rock Occlusion**: 
-- **Normals**: 
-- **Detail Normals**: 
-- **Bump**: 
-- **Displacement**: 
-- **Mesh**: 
-- **LOD**: 
-
-
-
+* **Albedo**:
+* **Light Diffusion**:
+* **Ambient Occlusion**:
+* **Rock Occlusion**:
+* **Normals**:
+* **Detail Normals**:
+* **Bump**:
+* **Displacement**:
+* **Mesh**:
+* **LOD**:

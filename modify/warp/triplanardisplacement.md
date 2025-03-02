@@ -1,20 +1,21 @@
+---
+hidden: true
+---
+
 # TriplanarDisplacement
 
+## TriplanarDisplacement
 
-# Properties
+## Properties
 
+### Displacement
 
-## Displacement
+* **Strength**:
+* **Offset**:
+* **Horizontal**:
 
-- **Strength**: 
-- **Offset**: 
-- **Horizontal**: 
+### Quality
 
-## Quality
-
-- Quality
-  - **Draft**: <desc>
-  - **High**: <desc>
-
-
-
+* Quality
+  * **Draft**:
+  * **High**:
