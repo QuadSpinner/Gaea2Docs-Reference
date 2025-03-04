@@ -1,2 +1,2 @@
-# Assets
+# 🔴 Output
 

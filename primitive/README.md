@@ -1,2 +1,2 @@
-# Assets
+# 🟢 Primitive
 
