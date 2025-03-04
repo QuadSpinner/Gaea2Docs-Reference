@@ -1,8 +1,4 @@
-# Summary
-
 - [Readme](README.md)
-
-# Nodes
 
 * [Primitive](primitive/README.md)
     * [Cellular](primitive/cellular.md)
@@ -27,7 +23,6 @@
     * [TileInput](primitive/tileinput.md)
     * [Voronoi](primitive/voronoi.md)
     * [WaveShine](primitive/waveshine.md)
-
 * [Terrain](terrain/README.md)
     * [Canyon](terrain/canyon.md)
     * [Crater](terrain/crater.md)
@@ -43,7 +38,6 @@
     * [Slump](terrain/slump.md)
     * [Uplift](terrain/uplift.md)
     * [Volcano](terrain/volcano.md)
-
 * [Modify](modify/README.md)
     * [Adjust](modify/adjust.md)
     * [Aperture](modify/aperture.md)
@@ -84,7 +78,6 @@
     * [VariableBlur](modify/variableblur.md)
     * [Warp](modify/warp.md)
     * [Whorl](modify/whorl.md)
-
 * [Surface](surface/README.md)
     * [Bomber](surface/bomber.md)
     * [Bulbous](surface/bulbous.md)
@@ -106,7 +99,6 @@
     * [Stones](surface/stones.md)
     * [Stratify](surface/stratify.md)
     * [Terraces](surface/terraces.md)
-
 * [Simulate](simulate/README.md)
     * [Anastomosis](simulate/anastomosis.md)
     * [Crumble](simulate/crumble.md)
@@ -144,7 +136,6 @@
     * [Soil](derive/soil.md)
     * [TextureBase](derive/texturebase.md)
     * [Texturizer](derive/texturizer.md)
-
 * [Colorize](colorize/README.md)
     * [CLUTer](colorize/cluter.md)
     * [ColorErosion](colorize/colorerosion.md)
@@ -159,7 +150,6 @@
     * [Tint](colorize/tint.md)
     * [WaterColor](colorize/watercolor.md)
     * [Weathering](colorize/weathering.md)
-
 * [Output](output/README.md)
     * [AO](output/ao.md)
     * [Cartography](output/cartography.md)
@@ -172,7 +162,6 @@
     * [Unity](output/unity.md)
     * [Unreal](output/unreal.md)
     * [VFX](output/vfx.md)
-
 * [Utility](utility/README.md)
     * [Accumulator](utility/accumulator.md)
     * [Chokepoint](utility/chokepoint.md)
@@ -194,4 +183,3 @@
     * [Route](utility/route.md)
     * [Seamless](utility/seamless.md)
     * [Switch](utility/switch.md)
-
