@@ -26,13 +26,20 @@ In this example, a @Flow is mapped by CLUTer to create basic texture map.
 
 # Properties
 
-- **Gradient Data**: 
-- **Autolevel Input**: 
-- **Reverse**: Reverses the mapping of the gradient.
-- **Bias**: 
-- **Hue**: 
-- **Saturation**: 
-- **Lightness**: 
+- **Gradient Data**  
+  
+- **Autolevel Input**  
+  
+- **Reverse**  
+  Reverses the mapping of the gradient.
+- **Bias**  
+  
+- **Hue**  
+  
+- **Saturation**  
+  
+- **Lightness**  
+  
 
 
 

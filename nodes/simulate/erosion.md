@@ -110,48 +110,73 @@ See these tutorials for examples of practical usage:
 
 ## Erosion
 
-- **Information**: 
-- **Duration**: Determines the duration of erosion simulation. This parameter can be set to higher value than 1.0, but note that even default 0.04 (4%) is enough for most cases, resulting in prominent erosion effect. Low duration values, such as 0.02 and lesser, can be useful for adding erosion details while keeping the main original landscape features unchanged.
-- **Rock Softness**: Controls the softness of rock material. The softer rock is, the faster is erosion process.
-- **Strength**: Sets the strength of fluvial erosion. This parameter controls the sediment transport capacity, that is how much of dissolved minerals water can carry. This parameter can be set to value that is higher than 1.0, this can speed up the erosion process, but also can result in lesser erosion quality, especially if erosion softness value is high too.
+- **Information**  
+  
+- **Duration**  
+  Determines the duration of erosion simulation. This parameter can be set to higher value than 1.0, but note that even default 0.04 (4%) is enough for most cases, resulting in prominent erosion effect. Low duration values, such as 0.02 and lesser, can be useful for adding erosion details while keeping the main original landscape features unchanged.
+- **Rock Softness**  
+  Controls the softness of rock material. The softer rock is, the faster is erosion process.
+- **Strength**  
+  Sets the strength of fluvial erosion. This parameter controls the sediment transport capacity, that is how much of dissolved minerals water can carry. This parameter can be set to value that is higher than 1.0, this can speed up the erosion process, but also can result in lesser erosion quality, especially if erosion softness value is high too.
 
 ## Downcutting
 
-- **Downcutting**: 
-- **Inhibition**: This parameter controls special mechanics, adding additional restraints for downcutting. It determines how undissolved sediments are slowed down by already dropped sediments, causing downcutting to stop and drop its load. This allows to combine both variants of erosion, with and without downcutting, resulting at deep channels at some areas and alluvial fans in other areas.
-- **Base Level**: Controls the base level for the vertical erosion process, this is the lowest elevation that downcutting process can erode until it stops and begins to drop sediment. This elevation is different across the whole terrain, and depends on the terrain slopes, relative altitudes, stream velocity and other factors. This parameter can be useful for filling the largest valleys with deposit material, forming valley floors.
+- **Downcutting**  
+  
+- **Inhibition**  
+  This parameter controls special mechanics, adding additional restraints for downcutting. It determines how undissolved sediments are slowed down by already dropped sediments, causing downcutting to stop and drop its load. This allows to combine both variants of erosion, with and without downcutting, resulting at deep channels at some areas and alluvial fans in other areas.
+- **Base Level**  
+  Controls the base level for the vertical erosion process, this is the lowest elevation that downcutting process can erode until it stops and begins to drop sediment. This elevation is different across the whole terrain, and depends on the terrain slopes, relative altitudes, stream velocity and other factors. This parameter can be useful for filling the largest valleys with deposit material, forming valley floors.
 
 ## Scale
 
-- **Feature Scale**: Determines the lateral size of the largest erosion features in meters: width of largest valleys and ridges between them.
-- **Real Scale**: Automatically determine the scale from the Terrain Definition.
-- **Terrain Scale**: The simulated scale of the entire width of the terrain. (Available when Rivers is turned On)
-- **Verticality**: The simulated height of the entire terrain. (Available when Rivers is turned On)
+- **Feature Scale**  
+  Determines the lateral size of the largest erosion features in meters: width of largest valleys and ridges between them.
+- **Real Scale**  
+  Automatically determine the scale from the Terrain Definition.
+- **Terrain Scale**  
+  The simulated scale of the entire width of the terrain. (Available when Rivers is turned On)
+- **Verticality**  
+  The simulated height of the entire terrain. (Available when Rivers is turned On)
 
 ## Flow
 
-- **Debris**: 
-- **Volume**: This is another special parameter, which alters erosion physics, treating water flows as volumetric objects, affecting each other, causing higher water levels during simulation, which results in wider channels, filled with more deposits. This is another way to get valley floor, and it works without downcutting.
-- **Sediment Removal**: Removes the sediment produced in the erosion process. This can be modulated using the Sedimental Removal mask input.
+- **Debris**  
+  
+- **Volume**  
+  This is another special parameter, which alters erosion physics, treating water flows as volumetric objects, affecting each other, causing higher water levels during simulation, which results in wider channels, filled with more deposits. This is another way to get valley floor, and it works without downcutting.
+- **Sediment Removal**  
+  Removes the sediment produced in the erosion process. This can be modulated using the Sedimental Removal mask input.
 
 ## Selective Processing
 
 - Area Effect
-  - **ErosionStrength**: <desc>
-  - **RockSoftness**: <desc>
-  - **PrecipitationAmount**: <desc>
-  - **None**: Do not apply selective processing.
+  - **ErosionStrength**  
+  <desc>
+  - **RockSoftness**  
+  <desc>
+  - **PrecipitationAmount**  
+  <desc>
+  - **None**  
+  Do not apply selective processing.
 - Bias Type
-  - **Altitude**: <desc>
-  - **Slope**: <desc>
-- **Bias**: The strength of the bias. For Slope, it is the steepness, for Altitude it the position from bottom.
-- **Reverse**: Reverse the bias direction.
+  - **Altitude**  
+  <desc>
+  - **Slope**  
+  <desc>
+- **Bias**  
+  The strength of the bias. For Slope, it is the steepness, for Altitude it the position from bottom.
+- **Reverse**  
+  Reverse the bias direction.
 
 ## Other Settings
 
-- **Seed**: The randomization pattern or seed for the node's process.
-- **Aggressive Mode**: Process erosion faster at the risk of creating soft erosion artifacts in some minor areas.
-- **Deterministic**: 
+- **Seed**  
+  The randomization pattern or seed for the node's process.
+- **Aggressive Mode**  
+  Process erosion faster at the risk of creating soft erosion artifacts in some minor areas.
+- **Deterministic**  
+  
 
 
 

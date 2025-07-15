@@ -15,19 +15,31 @@ Rivers and @Lakes can work together to create a comprehensive water element for 
 
 # Properties
 
-- **Water**: The amount of water in headwaters. Higher values can create larger rivers.
-- **Width**: The width of the rivers. High values create wide rivers, with somewhat wide tributaries. Low values create thin rivers with thin tributaries.
-- **Depth**: The depth of the rivers. This value is independent of Downcutting.
-- **Downcutting**: Like with the Erosion node, Downcutting decides how deeply the river should cut into rock and soil while moving forward.
+- **Water**  
+  The amount of water in headwaters. Higher values can create larger rivers.
+- **Width**  
+  The width of the rivers. High values create wide rivers, with somewhat wide tributaries. Low values create thin rivers with thin tributaries.
+- **Depth**  
+  The depth of the rivers. This value is independent of Downcutting.
+- **Downcutting**  
+  Like with the Erosion node, Downcutting decides how deeply the river should cut into rock and soil while moving forward.
 - River Valley Width
-  - **minus4**: <desc>
-  - **minus2**: <desc>
-  - **zero**: <desc>
-  - **plus2**: <desc>
-  - **plus4**: <desc>
-- **Headwaters**: The number of headwaters from which rivers can start. Not all will become rivers, but rather tributaries that feed the main river.
-- **Render Surface**: 
-- **Seed**: The randomization pattern or seed for the node's process.
+  - **minus4**  
+  <desc>
+  - **minus2**  
+  <desc>
+  - **zero**  
+  <desc>
+  - **plus2**  
+  <desc>
+  - **plus4**  
+  <desc>
+- **Headwaters**  
+  The number of headwaters from which rivers can start. Not all will become rivers, but rather tributaries that feed the main river.
+- **Render Surface**  
+  
+- **Seed**  
+  The randomization pattern or seed for the node's process.
 
 
 

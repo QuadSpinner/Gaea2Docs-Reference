@@ -22,16 +22,23 @@ data must retain a specific number range.
 
 # Properties
 
-- **File**: The file to load.
-- **Relative Path**: 
-- **Is RGB**: 
-- **Enforce Linear Gamma**: Enforces linear Gamma in the loaded terrain.
-- **Allow Unclamped**: 
+- **File**  
+  The file to load.
+- **Relative Path**  
+  
+- **Is RGB**  
+  
+- **Enforce Linear Gamma**  
+  Enforces linear Gamma in the loaded terrain.
+- **Allow Unclamped**  
+  
 
 ## Caching
 
-- **Purge Cache**: 
-- **Never Cache**: 
+- **Purge Cache**  
+  
+- **Never Cache**  
+  
 
 
 

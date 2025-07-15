@@ -6,4 +6,5 @@ This is useful for extracting DetailNormal-friendly shapes, isolating fine/high-
 
 
 
-* **Amount**: Deflation amount of the terrain.
+* **Amount**  
+  Deflation amount of the terrain.

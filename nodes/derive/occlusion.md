@@ -14,8 +14,10 @@ In Gaea 1.3, the Invert and Strong options have been removed. Use the @postproce
 
 # Properties
 
-- **Strength**: 
-- **Octaves**: 
+- **Strength**  
+  
+- **Octaves**  
+  
 
 
 

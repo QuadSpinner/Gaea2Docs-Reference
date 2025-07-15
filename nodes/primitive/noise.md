@@ -10,19 +10,31 @@ This is a resolution-dependent node.
 # Properties
 
 - Noise Type
-  - **Random**: <desc>
-  - **Perlin**: <desc>
-  - **Gaussian**: <desc>
-  - **Fixed**: <desc>
-  - **Micro**: <desc>
-- **Height**: 
-- **Density**: 
-- **Relative Density**: 
+  - **Random**  
+  <desc>
+  - **Perlin**  
+  <desc>
+  - **Gaussian**  
+  <desc>
+  - **Fixed**  
+  <desc>
+  - **Micro**  
+  <desc>
+- **Height**  
+  
+- **Density**  
+  
+- **Relative Density**  
+  
 - Blend Mode
-  - **Add**: <desc>
-  - **Multiply**: <desc>
-  - **Subtract**: <desc>
-- **Seed**: The randomization pattern or seed for the node's process.
+  - **Add**  
+  <desc>
+  - **Multiply**  
+  <desc>
+  - **Subtract**  
+  <desc>
+- **Seed**  
+  The randomization pattern or seed for the node's process.
 
 
 

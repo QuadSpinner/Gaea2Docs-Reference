@@ -2,10 +2,14 @@
 
 # Properties
 
-- **Size**: 
-- **Depth**: 
-- **Shape**: 
-- **Seed**: 
+- **Size**  
+  
+- **Depth**  
+  
+- **Shape**  
+  
+- **Seed**  
+  
 
 
 

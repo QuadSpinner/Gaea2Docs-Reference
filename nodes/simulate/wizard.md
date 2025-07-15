@@ -33,46 +33,79 @@ A common problem many users encounter is that strong erosion can destroy the pre
 ## Erosion
 
 - Strength
-  - **Low**: <desc>
-  - **Med**: <desc>
-  - **High**: <desc>
-  - **Ultra**: <desc>
+  - **Low**  
+  <desc>
+  - **Med**  
+  <desc>
+  - **High**  
+  <desc>
+  - **Ultra**  
+  <desc>
 - Density
-  - **Low**: <desc>
-  - **Med**: <desc>
-  - **High**: <desc>
-  - **Ultra**: <desc>
+  - **Low**  
+  <desc>
+  - **Med**  
+  <desc>
+  - **High**  
+  <desc>
+  - **Ultra**  
+  <desc>
 - Material
-  - **Low**: <desc>
-  - **Med**: <desc>
-  - **High**: <desc>
-  - **Ultra**: <desc>
+  - **Low**  
+  <desc>
+  - **Med**  
+  <desc>
+  - **High**  
+  <desc>
+  - **Ultra**  
+  <desc>
 - Channel Depth
-  - **Low**: <desc>
-  - **Med**: <desc>
-  - **High**: <desc>
-  - **Ultra**: <desc>
+  - **Low**  
+  <desc>
+  - **Med**  
+  <desc>
+  - **High**  
+  <desc>
+  - **Ultra**  
+  <desc>
 - Channel Width
-  - **Low**: <desc>
-  - **Med**: <desc>
-  - **High**: <desc>
-  - **Ultra**: <desc>
+  - **Low**  
+  <desc>
+  - **Med**  
+  <desc>
+  - **High**  
+  <desc>
+  - **Ultra**  
+  <desc>
 - Deposits
-  - **Low**: <desc>
-  - **Med**: <desc>
-  - **High**: <desc>
-  - **Ultra**: <desc>
+  - **Low**  
+  <desc>
+  - **Med**  
+  <desc>
+  - **High**  
+  <desc>
+  - **Ultra**  
+  <desc>
 - Removal
-  - **Low**: <desc>
-  - **Med**: <desc>
-  - **High**: <desc>
-  - **Ultra**: <desc>
+  - **Low**  
+  <desc>
+  - **Med**  
+  <desc>
+  - **High**  
+  <desc>
+  - **Ultra**  
+  <desc>
 - Bulk
-  - **Low**: <desc>
-  - **Med**: <desc>
-  - **High**: <desc>
-  - **Ultra**: <desc>
-- **Seed**: The randomization pattern or seed for the node's process.
+  - **Low**  
+  <desc>
+  - **Med**  
+  <desc>
+  - **High**  
+  <desc>
+  - **Ultra**  
+  <desc>
+- **Seed**  
+  The randomization pattern or seed for the node's process.
 
 
 

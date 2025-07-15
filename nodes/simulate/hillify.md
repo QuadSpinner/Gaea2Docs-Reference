@@ -2,14 +2,20 @@
 
 # Properties
 
-- **Coverage**: 
+- **Coverage**  
+  
 - Creep
-  - **Moderate**: <desc>
-  - **Aggressive**: <desc>
+  - **Moderate**  
+  <desc>
+  - **Aggressive**  
+  <desc>
 - Surface
-  - **Smooth**: <desc>
-  - **Eroded**: <desc>
-- **Seed**: 
+  - **Smooth**  
+  <desc>
+  - **Eroded**  
+  <desc>
+- **Seed**  
+  
 
 
 

@@ -5,7 +5,8 @@
 
 # Properties
 
-- **Information 1**: 
+- **Information 1**  
+  
 
 
 

@@ -5,12 +5,18 @@
 
 ## Stones
 
-- **Scale**: 
-- **Height**: 
-- **Density**: 
-- **Spread**: 
-- **Edge**: 
-- **Seed**: 
+- **Scale**  
+  
+- **Height**  
+  
+- **Density**  
+  
+- **Spread**  
+  
+- **Edge**  
+  
+- **Seed**  
+  
 
 
 

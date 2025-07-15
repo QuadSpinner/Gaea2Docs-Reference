@@ -12,40 +12,65 @@ Voronoi is a staple of procedural design. It creates sharp, geometric patterns. 
 
 ## Noise
 
-- **Scale**: The perceptual scale of the Voronoi shapes. Higher values create more shapes.
-- **Jitter**: Control the offset of the Voronoi points between symmetrical and chaotic.
+- **Scale**  
+  The perceptual scale of the Voronoi shapes. Higher values create more shapes.
+- **Jitter**  
+  Control the offset of the Voronoi points between symmetrical and chaotic.
 - Function
-  - **Euclidean**: Euclidean function.
-  - **Manhattan**: Manhattan function.
+  - **Euclidean**  
+  Euclidean function.
+  - **Manhattan**  
+  Manhattan function.
 - Form
-  - **C**: Voronoi cells with height decided by the cells themselves.
-  - **N**: Voronoi cells with height decided by the nearest neighbor.
-  - **R**: <desc>
-  - **P**: The default look for this geo-variant, suitable for creating mountains.
-  - **A**: A mix between P and M.
-  - **S**: Individual mountains with fully separated boundaries.
-  - **M**: Favors the strongest cell; good for creating a big mountain slope.
-  - **D**: Favors ridges over cell centers.
-- **Gain**: 
-- **Clamp**: 
-- **Seed**: The randomization pattern or seed for the node's process.
+  - **C**  
+  Voronoi cells with height decided by the cells themselves.
+  - **N**  
+  Voronoi cells with height decided by the nearest neighbor.
+  - **R**  
+  <desc>
+  - **P**  
+  The default look for this geo-variant, suitable for creating mountains.
+  - **A**  
+  A mix between P and M.
+  - **S**  
+  Individual mountains with fully separated boundaries.
+  - **M**  
+  Favors the strongest cell; good for creating a big mountain slope.
+  - **D**  
+  Favors ridges over cell centers.
+- **Gain**  
+  
+- **Clamp**  
+  
+- **Seed**  
+  The randomization pattern or seed for the node's process.
 
 ## Warp
 
 - Type
-  - **None**: <desc>
-  - **Simple**: <desc>
-  - **Complex**: <desc>
-- **Frequency**: 
-- **Amplitude**: 
-- **Octaves**: 
+  - **None**  
+  <desc>
+  - **Simple**  
+  <desc>
+  - **Complex**  
+  <desc>
+- **Frequency**  
+  
+- **Amplitude**  
+  
+- **Octaves**  
+  
 
 ## Transform
 
-- **Scale X**: The non-uniform scale of the X axis.
-- **Scale Y**: The non-uniform scale of the Y axis.
-- **X**: 
-- **Y**: 
+- **Scale X**  
+  The non-uniform scale of the X axis.
+- **Scale Y**  
+  The non-uniform scale of the Y axis.
+- **X**  
+  
+- **Y**  
+  
 
 
 

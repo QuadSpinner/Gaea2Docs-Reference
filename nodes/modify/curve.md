@@ -1,8 +1,12 @@
 
 # Properties
 
-- **Curve Spline**: 
+- **Curve Spline**  
+  
 - Mode
-  - **Absolute**: <desc>
-  - **Relative**: <desc>
-- **Fit Curve**: 
+  - **Absolute**  
+  <desc>
+  - **Relative**  
+  <desc>
+- **Fit Curve**  
+  

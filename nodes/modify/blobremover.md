@@ -6,5 +6,7 @@ A low-level node that helps isolate and remove small blobs or disconnected shape
 
 
 
-* **Range**: Sensitivity of the blob detection.
-* **Connectivity**: How connected the blobs can be to larger shapes.
+* **Range**  
+  Sensitivity of the blob detection.
+* **Connectivity**  
+  How connected the blobs can be to larger shapes.

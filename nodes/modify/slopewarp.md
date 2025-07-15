@@ -2,22 +2,33 @@
 
 # Properties
 
-- **Intensity**: 
-- **Iterations**: 
-- **Direction**: 
-- **Normalized**: 
+- **Intensity**  
+  
+- **Iterations**  
+  
+- **Direction**  
+  
+- **Normalized**  
+  
 
 ## Quality
 
 - Quality
-  - **Low**: <desc>
-  - **Medium**: <desc>
-  - **High**: <desc>
-  - **Ultra**: <desc>
+  - **Low**  
+  <desc>
+  - **Medium**  
+  <desc>
+  - **High**  
+  <desc>
+  - **Ultra**  
+  <desc>
 - Antialiasing
-  - **Off**: <desc>
-  - **x4**: <desc>
-  - **x16**: <desc>
+  - **Off**  
+  <desc>
+  - **x4**  
+  <desc>
+  - **x16**  
+  <desc>
 
 
 

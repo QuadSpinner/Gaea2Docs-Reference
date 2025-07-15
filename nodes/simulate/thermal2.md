@@ -5,18 +5,24 @@
 
 ## Erosion
 
-- **Duration**: 
-- **Strength**: 
-- **Anisotropy**: 
+- **Duration**  
+  
+- **Strength**  
+  
+- **Anisotropy**  
+  
 
 ## Talus
 
-- **Angle**: 
-- **Sediment Removal**: 
+- **Angle**  
+  
+- **Sediment Removal**  
+  
 
 ## Scale
 
-- **Feature Scale**: 
+- **Feature Scale**  
+  
 
 
 

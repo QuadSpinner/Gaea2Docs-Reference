@@ -5,10 +5,14 @@
 
 ## Steps
 
-- **Scale**: 
-- **Density**: 
-- **Invert**: 
-- **Seed**: 
+- **Scale**  
+  
+- **Density**  
+  
+- **Invert**  
+  
+- **Seed**  
+  
 
 
 

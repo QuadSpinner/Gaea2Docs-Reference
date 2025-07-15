@@ -2,8 +2,10 @@
 
 # Properties
 
-- **Soften**: 
-- **OpenPainter**: 
+- **Soften**  
+  
+- **OpenPainter**  
+  
 
 
 

@@ -11,8 +11,10 @@ Shaper is a very useful tool that is fast and effective. You can use it through 
 
 ## Properties
 
-* **Shape**: Negative values will bulk down the shape, while positive values will bulk up the shape.
+* **Shape**  
+  Negative values will bulk down the shape, while positive values will bulk up the shape.
 * **Local Effect**:
 * **Local Area**:
-* **Maintain Fine Details**: When enabled, finer detail is preserved regardless of shape changes.
+* **Maintain Fine Details**  
+  When enabled, finer detail is preserved regardless of shape changes.
 * **Detail Size**:

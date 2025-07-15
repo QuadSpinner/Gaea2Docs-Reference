@@ -11,12 +11,20 @@ The Accumulator will only add nodes that have been built. To ensure all required
 {% endhint %}
 
 * Type
-  * **SnowMask**: Accumulate all snow as a flat mask.
-  * **SnowDepth**: Accumulate all Snow Depth at absolute values.
-  * **Rivers**: Accumulate all rivers.
-  * **WaterMask**: Accumulate all water as a flat mask.
-  * **WaterDepth**: Accumulate all Water Depth in absolute values.
-  * **ShoreMask**: Accumulate all Shore masks.
-  * **DebrisMask**: Accumulate all DebrisMask (using Max mode)
-  * **DebrisColor**: Accumulate just the DebrisColor (using Max mode).
+  * **SnowMask**  
+  Accumulate all snow as a flat mask.
+  * **SnowDepth**  
+  Accumulate all Snow Depth at absolute values.
+  * **Rivers**  
+  Accumulate all rivers.
+  * **WaterMask**  
+  Accumulate all water as a flat mask.
+  * **WaterDepth**  
+  Accumulate all Water Depth in absolute values.
+  * **ShoreMask**  
+  Accumulate all Shore masks.
+  * **DebrisMask**  
+  Accumulate all DebrisMask (using Max mode)
+  * **DebrisColor**  
+  Accumulate just the DebrisColor (using Max mode).
 

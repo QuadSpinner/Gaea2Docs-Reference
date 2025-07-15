@@ -3,11 +3,16 @@
 # Properties
 
 - Method
-  - **Harsh**: <desc>
-  - **Rocky**: <desc>
-- **Strength**: 
-- **Coverage**: 
-- **Density**: 
+  - **Harsh**  
+  <desc>
+  - **Rocky**  
+  <desc>
+- **Strength**  
+  
+- **Coverage**  
+  
+- **Density**  
+  
 
 
 

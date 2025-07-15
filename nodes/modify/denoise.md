@@ -11,6 +11,7 @@ A single iteration is appropriate in most cases. For extremely noisy terrains th
 * Type
   * **OnePass**:&#x20;
   * **TwoPass**:
-  * **Pixels**: Removes only isolated pixels.
+  * **Pixels**  
+  Removes only isolated pixels.
 * **Amount**:
 * **Passes**:

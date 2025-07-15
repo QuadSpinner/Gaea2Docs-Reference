@@ -16,8 +16,10 @@ Heal can consume 8-bit data, (visually) damaged images, or low quality satellite
 
 # Properties
 
-- **Reconstruction**: 
-- **Passes**: 
+- **Reconstruction**  
+  
+- **Passes**  
+  
 
 
 

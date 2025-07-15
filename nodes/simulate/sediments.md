@@ -2,10 +2,16 @@
 
 # Properties
 
-- **Passes**: 
-- **Scale**: 
-- **Old Style**: 
+- **Passes**  
+  
+- **Scale**  
+  
+- **Old Style**  
+  
 - Style
-  - **A**: <desc>
-  - **B**: <desc>
-- **Grainy Deposits**: 
+  - **A**  
+  <desc>
+  - **B**  
+  <desc>
+- **Grainy Deposits**  
+  

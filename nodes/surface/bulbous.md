@@ -2,8 +2,10 @@
 
 # Properties
 
-- **Scale**: 
-- **Jitter**: 
+- **Scale**  
+  
+- **Jitter**  
+  
 
 
 

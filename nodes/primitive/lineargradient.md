@@ -2,12 +2,17 @@
 
 # Properties
 
-- **Scale**: 
-- **Direction**: 
+- **Scale**  
+  
+- **Direction**  
+  
 - Edge Behavior
-  - **Clip**: <desc>
-  - **Repeat**: <desc>
-  - **Mirror**: <desc>
+  - **Clip**  
+  <desc>
+  - **Repeat**  
+  <desc>
+  - **Mirror**  
+  <desc>
 
 
 

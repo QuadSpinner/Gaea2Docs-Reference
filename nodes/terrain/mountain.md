@@ -13,22 +13,36 @@ For simple results, such as distant mountains that don't require much detail, yo
 
 # Properties
 
-- **Scale**: The perceptual scale of the mountain.
-- **Height**: Changes the height of the mountain.
+- **Scale**  
+  The perceptual scale of the mountain.
+- **Height**  
+  Changes the height of the mountain.
 - Style
-  - **Basic**: <desc>
-  - **Eroded**: <desc>
-  - **Old**: <desc>
-  - **Alpine**: <desc>
-  - **Strata**: <desc>
+  - **Basic**  
+  <desc>
+  - **Eroded**  
+  <desc>
+  - **Old**  
+  <desc>
+  - **Alpine**  
+  <desc>
+  - **Strata**  
+  <desc>
 - Bulk
-  - **Low**: <desc>
-  - **Medium**: <desc>
-  - **High**: <desc>
-- **Reduce Details**: 
-- **Seed**: The randomization pattern or seed for the node's process.
-- **X**: 
-- **Y**: 
+  - **Low**  
+  <desc>
+  - **Medium**  
+  <desc>
+  - **High**  
+  <desc>
+- **Reduce Details**  
+  
+- **Seed**  
+  The randomization pattern or seed for the node's process.
+- **X**  
+  
+- **Y**  
+  
 
 
 

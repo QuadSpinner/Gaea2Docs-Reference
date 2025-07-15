@@ -5,9 +5,12 @@
 
 ## Clip
 
-- **Min**: 
-- **Max**: 
-- **Auto Clip**: 
+- **Min**  
+  
+- **Max**  
+  
+- **Auto Clip**  
+  
 
 
 

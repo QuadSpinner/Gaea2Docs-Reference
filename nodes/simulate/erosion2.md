@@ -21,28 +21,41 @@ Gaea 2 introduces a new erosion algorithm designed to work alongside the existin
 Erosion\_2 also offers significant performance improvements, with speed boosts of up to 10x compared to Erosion\_1, even when running on the CPU. his new algorithm strikes a balance between generating realistic erosion effects and allowing for artistic flexibility, making it possible to create terrain shapes that were previously challenging or impractical with Classic Erosion.
 ## General
 
-- **Duration**: 
-- **Downcutting**: 
-- **Erosion Scale**: 
-- **Seed**: 
+- **Duration**  
+  
+- **Downcutting**  
+  
+- **Erosion Scale**  
+  
+- **Seed**  
+  
 
 ## Sediment Discharge
 
 ## Using Erosion 2
-- **Suspended Load**: 
-- **Suspended Angle**: 
-- **Bed Load**: 
-- **Bed Angle**: 
-- **Coarse Sediments**: 
-- **Coarse Angle**: 
+- **Suspended Load**  
+  
+- **Suspended Angle**  
+  
+- **Bed Load**  
+  
+- **Bed Angle**  
+  
+- **Coarse Sediments**  
+  
+- **Coarse Angle**  
+  
 
 <figure><img src="../../.gitbook/assets/snow.webp" alt=""><figcaption></figcaption></figure>
 ## Shape
 
 These parameters offer extensive control over the erosion process, enabling users to tailor the effects to meet specific terrain requirements, whether for realistic or artistic purposes.
-- **Shape**: 
-- **Shape Sharpness**: 
-- **Shape Detail Scale**: 
+- **Shape**  
+  
+- **Shape Sharpness**  
+  
+- **Shape Detail Scale**  
+  
 
 
 

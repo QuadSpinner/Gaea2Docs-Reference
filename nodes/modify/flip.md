@@ -5,6 +5,9 @@ The Flip node flips the terrain horizontally, vertically, or both. It can also i
 ## Properties
 
 * Type
-  * **X**: Flips the terrain horizontally.
-  * **Y**: Flips the terrain vertically.
-  * **XY**: Flips the terrain both horizontally and vertically.
+  * **X**  
+  Flips the terrain horizontally.
+  * **Y**  
+  Flips the terrain vertically.
+  * **XY**  
+  Flips the terrain both horizontally and vertically.

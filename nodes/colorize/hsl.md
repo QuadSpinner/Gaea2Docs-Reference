@@ -2,9 +2,12 @@
 
 # Properties
 
-- **Hue**: 
-- **Saturation**: 
-- **Lightness**: 
+- **Hue**  
+  
+- **Saturation**  
+  
+- **Lightness**  
+  
 
 
 

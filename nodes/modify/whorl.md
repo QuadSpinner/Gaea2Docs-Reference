@@ -15,11 +15,16 @@ Whorl can be overpowering if used by itself. An effective way to tone down Whorl
 # Properties
 
 - Type
-  - **Stretch**: Whorls appear as stretched, interconnected formations.
-  - **Spin**: Whorls appear as round, independent formations.
-- **Whorls**: The number of whorls to add to the terrain.
-- **Power**: The strength of the distortion applied with each whorl.
-- **Seed**: The randomization pattern or seed for the node's process.
+  - **Stretch**  
+  Whorls appear as stretched, interconnected formations.
+  - **Spin**  
+  Whorls appear as round, independent formations.
+- **Whorls**  
+  The number of whorls to add to the terrain.
+- **Power**  
+  The strength of the distortion applied with each whorl.
+- **Seed**  
+  The randomization pattern or seed for the node's process.
 
 
 

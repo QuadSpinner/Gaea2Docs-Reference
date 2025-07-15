@@ -5,9 +5,12 @@
 
 ## Meshify
 
-- **Vertices**: 
-- **Seed**: 
-- **Detail Sensitivity**: 
+- **Vertices**  
+  
+- **Seed**  
+  
+- **Detail Sensitivity**  
+  
 
 
 

@@ -5,39 +5,70 @@ Mesher allows you to save specific nodes as meshes instead of heightfields. It c
 # Properties
 
 - Format
-  - **OBJ**: <desc>
-  - **FBX**: <desc>
-  - **DAE**: <desc>
-  - **GLTF**: <desc>
-  - **GLB**: <desc>
+  - **OBJ**  
+  <desc>
+  - **FBX**  
+  <desc>
+  - **DAE**  
+  <desc>
+  - **GLTF**  
+  <desc>
+  - **GLB**  
+  <desc>
 - Scale
-  - **Normalized**: <desc>
-  - **Meter**: <desc>
-  - **Kilometer**: <desc>
+  - **Normalized**  
+  <desc>
+  - **Meter**  
+  <desc>
+  - **Kilometer**  
+  <desc>
 - Topology
-  - **Tris**: <desc>
-  - **Quads**: <desc>
-  - **AdaptiveTris**: <desc>
-- **Topology Warning**: 
-- **Vertices Per Side**: 
+  - **Tris**  
+  <desc>
+  - **Quads**  
+  <desc>
+  - **AdaptiveTris**  
+  <desc>
+- **Topology Warning**  
+  
+- **Vertices Per Side**  
+  
 - Artifact Reduction
-  - **None**: <desc>
-  - **Low**: <desc>
-  - **Med**: <desc>
-- **Create Normals**: 
-- **Create UVs**: 
+  - **None**  
+  <desc>
+  - **Low**  
+  <desc>
+  - **Med**  
+  <desc>
+- **Create Normals**  
+  
+- **Create UVs**  
+  
 - UV Origin
-  - **TopLeft**: <desc>
-  - **BottomLeft**: <desc>
-- **Create Walls**: Creates wall in the output mesh.
-- **Center Pivot**: 
+  - **TopLeft**  
+  <desc>
+  - **BottomLeft**  
+  <desc>
+- **Create Walls**  
+  Creates wall in the output mesh.
+- **Center Pivot**  
+  
 - Level of Detail
-  - **None**: <desc>
-  - **LOD1**: <desc>
-  - **LOD2**: <desc>
-  - **LOD3**: <desc>
-  - **LOD4**: <desc>
-  - **LOD5**: <desc>
-  - **LOD6**: <desc>
-- **LOD Info**: 
-- **Information**: 
+  - **None**  
+  <desc>
+  - **LOD1**  
+  <desc>
+  - **LOD2**  
+  <desc>
+  - **LOD3**  
+  <desc>
+  - **LOD4**  
+  <desc>
+  - **LOD5**  
+  <desc>
+  - **LOD6**  
+  <desc>
+- **LOD Info**  
+  
+- **Information**  
+  

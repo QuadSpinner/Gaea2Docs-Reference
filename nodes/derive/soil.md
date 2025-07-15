@@ -13,8 +13,10 @@ You can combine different Soil Maps using the Combine node set to Max. You can e
 
 # Properties
 
-- **Amount**: 
-- **Bias**: 
+- **Amount**  
+  
+- **Bias**  
+  
 
 
 

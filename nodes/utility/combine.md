@@ -38,17 +38,22 @@ Alternatively, you can add an @Fx node to the Combine output or other nodes like
 
 ## Properties
 
-* **Ratio**: The ratio applied to the selected method.
+* **Ratio**  
+  The ratio applied to the selected method.
 * **Mode:** The blend mode to use to combine the two inputs.
 * Output
   * **None:** Unclamped output. Be careful!
   * **Clamp:** Clamp output to 0..1 range. (Default)
   * **Extend:** Use when lowest values go beyond 0.5.
 * Enhance Input
-  * **None**: Unchanged output.
-  * **Autolevel**: Autolevel the inputs before merging.
-  * **Equalize**: Equalize the inputs before merging.
-* **Swap Inputs**: Switches the two inputs.
+  * **None**  
+  Unchanged output.
+  * **Autolevel**  
+  Autolevel the inputs before merging.
+  * **Equalize**  
+  Equalize the inputs before merging.
+* **Swap Inputs**  
+  Switches the two inputs.
 
 {% include "../../.gitbook/includes/add-ports.md" %}
 

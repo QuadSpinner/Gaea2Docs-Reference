@@ -2,10 +2,14 @@
 
 # Properties
 
-- **Generate Normals**: 
-- **Information**: 
-- **Add Input**: 
-- **LOD Info**: 
+- **Generate Normals**  
+  
+- **Information**  
+  
+- **Add Input**  
+  
+- **LOD Info**  
+  
 
 
 

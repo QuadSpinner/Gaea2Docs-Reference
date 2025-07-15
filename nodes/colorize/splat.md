@@ -7,12 +7,18 @@ The Splat node is similar to @RGBMix. It can take heightfield nodes and encode t
 
 # Properties
 
-- **R**: Amount of R input channel.
-- **G**: Amount of G input channel.
-- **B**: Amount of B input channel.
-- **A**: Amount of alpha input channel.
-- **Autolevel**: 
-- **Clamp Product**: 
+- **R**  
+  Amount of R input channel.
+- **G**  
+  Amount of G input channel.
+- **B**  
+  Amount of B input channel.
+- **A**  
+  Amount of alpha input channel.
+- **Autolevel**  
+  
+- **Clamp Product**  
+  
 
 
 

@@ -5,32 +5,49 @@
 
 ## Trees
 
-- **Count in Thousands**: 
-- **Tree Size**: 
+- **Count in Thousands**  
+  
+- **Tree Size**  
+  
 
 ## Aspect Inhibition
 
-- **Slope**: 
-- **Altitude**: 
-- **Distort**: 
+- **Slope**  
+  
+- **Altitude**  
+  
+- **Distort**  
+  
 
 ## Flow Inhibition
 
-- **Dead Flow**: 
-- **Consolidate Flows**: 
-- **Snowline**: 
+- **Dead Flow**  
+  
+- **Consolidate Flows**  
+  
+- **Snowline**  
+  
 
 ## Growth
 
-- **Patches**: 
-- **Patch Size**: 
-- **Chaos**: 
-- **Edges**: 
-- **Simulation Bias**: 
-- **Seek Water**: 
-- **Aggressive**: 
-- **Visualize Data**: 
-- **Seed**: 
+- **Patches**  
+  
+- **Patch Size**  
+  
+- **Chaos**  
+  
+- **Edges**  
+  
+- **Simulation Bias**  
+  
+- **Seek Water**  
+  
+- **Aggressive**  
+  
+- **Visualize Data**  
+  
+- **Seed**  
+  
 
 
 

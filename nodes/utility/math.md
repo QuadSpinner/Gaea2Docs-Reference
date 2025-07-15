@@ -3,9 +3,12 @@
 
 # Properties
 
-- **Expression**: 
-- **Normalized Coordinates**: 
-- **Information**: 
+- **Expression**  
+  
+- **Normalized Coordinates**  
+  
+- **Information**  
+  
 
 
 

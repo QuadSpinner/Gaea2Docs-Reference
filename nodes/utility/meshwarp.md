@@ -2,14 +2,21 @@
 
 # Properties
 
-- **Generate Normals**: 
+- **Generate Normals**  
+  
 - Normal Green
-  - **OpenGL_Yup**: <desc>
-  - **DirectX_Ydown**: <desc>
-- **Flip X**: 
-- **Add Input**: 
-- **Information 1**: 
-- **LOD Info**: 
+  - **OpenGL_Yup**  
+  <desc>
+  - **DirectX_Ydown**  
+  <desc>
+- **Flip X**  
+  
+- **Add Input**  
+  
+- **Information 1**  
+  
+- **LOD Info**  
+  
 
 
 

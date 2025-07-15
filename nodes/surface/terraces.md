@@ -2,11 +2,16 @@
 
 # Properties
 
-- **Terraces**: 
-- **Uniformity**: 
-- **Steepness**: 
-- **Intensity**: 
-- **Seed**: 
+- **Terraces**  
+  
+- **Uniformity**  
+  
+- **Steepness**  
+  
+- **Intensity**  
+  
+- **Seed**  
+  
 
 
 

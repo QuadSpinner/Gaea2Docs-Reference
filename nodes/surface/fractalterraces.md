@@ -9,36 +9,59 @@ You get detailed control over the edge shape, uniformity, rock hardness, and ove
 
 # Properties
 
-- **Spacing**: The space between two terraces.
-- **Octaves**: The number of terraces to generate, including subtle sub-terraces based on the space value above.
-- **Intensity**: The strength of the terracing process. Higher intensities flatten the terrace.
-- **Shape**: The general shape of the terraces. Lower values create steeper terraces that are closer to the terrain's bulk, while higher create smoother terraces that protrude outward.
-- **Seed**: The randomization pattern or seed for the node's process.
+- **Spacing**  
+  The space between two terraces.
+- **Octaves**  
+  The number of terraces to generate, including subtle sub-terraces based on the space value above.
+- **Intensity**  
+  The strength of the terracing process. Higher intensities flatten the terrace.
+- **Shape**  
+  The general shape of the terraces. Lower values create steeper terraces that are closer to the terrain's bulk, while higher create smoother terraces that protrude outward.
+- **Seed**  
+  The randomization pattern or seed for the node's process.
 
 ## Advanced
 
-- **Shapes separation**: 
-- **Macro octaves**: 
-- **Micro shape**: 
-- **Character**: 
-- **Thickness uniformity**: 
-- **Hardness uniformity**: 
-- **Strata details**: 
-- **Protect Range**: 
+- **Shapes separation**  
+  
+- **Macro octaves**  
+  
+- **Micro shape**  
+  
+- **Character**  
+  
+- **Thickness uniformity**  
+  
+- **Hardness uniformity**  
+  
+- **Strata details**  
+  
+- **Protect Range**  
+  
 
 ## Tilt
 
-- **Apply Tilt**: 
-- **Tilt Amount**: 
-- **Direction**: 
-- **Tilt Seed**: 
-- **Warp Amount**: 
-- **Warp Size**: 
+- **Apply Tilt**  
+  
+- **Tilt Amount**  
+  
+- **Direction**  
+  
+- **Tilt Seed**  
+  
+- **Warp Amount**  
+  
+- **Warp Size**  
+  
 - Warp Style
-  - **A**: <desc>
-  - **B**: <desc>
-  - **C**: <desc>
-  - **D**: <desc>
+  - **A**  
+  <desc>
+  - **B**  
+  <desc>
+  - **C**  
+  <desc>
+  - **D**  
+  <desc>
 
 
 

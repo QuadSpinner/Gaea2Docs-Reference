@@ -2,29 +2,40 @@
 
 # Properties
 
-- **Mesh**: 
-- **Relative Path**: 
+- **Mesh**  
+  
+- **Relative Path**  
+  
 
 ## Position
 
-- **Drop to Floor**: 
-- **Offset X**: 
-- **Offset Y**: 
-- **Offset Z**: 
+- **Drop to Floor**  
+  
+- **Offset X**  
+  
+- **Offset Y**  
+  
+- **Offset Z**  
+  
 
 ## Scale
 
-- **Scale**: 
+- **Scale**  
+  
 
 ## Rotation
 
-- **Pitch**: 
-- **Yaw**: 
-- **Roll**: 
+- **Pitch**  
+  
+- **Yaw**  
+  
+- **Roll**  
+  
 
 ## Quality
 
-- **Antialiasing**: 
+- **Antialiasing**  
+  
 
 
 

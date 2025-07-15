@@ -5,10 +5,14 @@
 
 ## Stones
 
-- **Scale**: 
-- **Height**: 
-- **Density**: 
-- **Seed**: 
+- **Scale**  
+  
+- **Height**  
+  
+- **Density**  
+  
+- **Seed**  
+  
 
 
 

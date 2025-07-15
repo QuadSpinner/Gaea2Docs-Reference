@@ -3,15 +3,24 @@
 # Properties
 
 - Style
-  - **A**: <desc>
-  - **B**: <desc>
-  - **C**: <desc>
-- **Scale**: 
-- **Complexity**: 
-- **Depth**: 
-- **Expand**: 
-- **Bias**: 
-- **Seed**: 
+  - **A**  
+  <desc>
+  - **B**  
+  <desc>
+  - **C**  
+  <desc>
+- **Scale**  
+  
+- **Complexity**  
+  
+- **Depth**  
+  
+- **Expand**  
+  
+- **Bias**  
+  
+- **Seed**  
+  
 
 
 

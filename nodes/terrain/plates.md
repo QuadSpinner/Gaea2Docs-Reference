@@ -9,12 +9,18 @@ Plates is a new primitive, based on a Perlin core with flat plate-like formation
 
 # Properties
 
-- **Scale**: The scale of the overall field of shapes.
-- **Range**: 
-- **Falloff**: 
-- **Warp**: 
-- **Angle**: 
-- **Seed**: The randomization pattern or seed for the node's process.
+- **Scale**  
+  The scale of the overall field of shapes.
+- **Range**  
+  
+- **Falloff**  
+  
+- **Warp**  
+  
+- **Angle**  
+  
+- **Seed**  
+  The randomization pattern or seed for the node's process.
 
 
 

@@ -2,12 +2,17 @@
 
 # Properties
 
-- **Vertices Per Side**: 
+- **Vertices Per Side**  
+  
 - Scale
-  - **Normalized**: <desc>
-  - **Meter**: <desc>
-  - **Kilometer**: <desc>
-- **Center Pivot**: 
+  - **Normalized**  
+  <desc>
+  - **Meter**  
+  <desc>
+  - **Kilometer**  
+  <desc>
+- **Center Pivot**  
+  
 
 
 

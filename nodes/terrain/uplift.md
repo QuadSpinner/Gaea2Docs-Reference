@@ -2,13 +2,20 @@
 
 # Properties
 
-- **Passes**: 
-- **Scale**: 
-- **Height**: 
-- **Octaves**: 
-- **Direction**: 
-- **Jitter**: 
-- **Seed**: 
+- **Passes**  
+  
+- **Scale**  
+  
+- **Height**  
+  
+- **Octaves**  
+  
+- **Direction**  
+  
+- **Jitter**  
+  
+- **Seed**  
+  
 
 
 

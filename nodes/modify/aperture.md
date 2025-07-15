@@ -9,21 +9,34 @@ The Aperture node expands or compacts every single feature on the terrain, simil
 
 # Properties
 
-- **Information**: 
+- **Information**  
+  
 - Mode
-  - **Dilation**: <desc>
-  - **Erosion**: <desc>
-- **Size**: 
+  - **Dilation**  
+  <desc>
+  - **Erosion**  
+  <desc>
+- **Size**  
+  
 - Shape
-  - **Disk**: <desc>
-  - **Polygon**: <desc>
-  - **Asterisk**: <desc>
-  - **Line**: <desc>
-  - **Corner**: <desc>
-- **Vertices Count**: 
-- **Corner Angle**: 
-- **Direction**: 
-- **Antialiased**: 
+  - **Disk**  
+  <desc>
+  - **Polygon**  
+  <desc>
+  - **Asterisk**  
+  <desc>
+  - **Line**  
+  <desc>
+  - **Corner**  
+  <desc>
+- **Vertices Count**  
+  
+- **Corner Angle**  
+  
+- **Direction**  
+  
+- **Antialiased**  
+  
 
 
 

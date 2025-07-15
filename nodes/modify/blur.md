@@ -7,4 +7,5 @@ Blur is also available as a Modifier.
 
 ## Properties
 
-* **Radius**: The radius of the blur in relative size.
+* **Radius**  
+  The radius of the blur in relative size.

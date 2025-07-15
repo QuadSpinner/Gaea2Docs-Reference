@@ -7,12 +7,17 @@ The Curvature node creates a mask where convex areas (such as sharp edges, protr
 
 # Properties
 
-- **Range**: 
+- **Range**  
+  
 - Type
-  - **Horizontal**: <desc>
-  - **Vertical**: <desc>
-  - **Average**: <desc>
-- **Falloff**: The soft falloff at the maximum edge.
+  - **Horizontal**  
+  <desc>
+  - **Vertical**  
+  <desc>
+  - **Average**  
+  <desc>
+- **Falloff**  
+  The soft falloff at the maximum edge.
 
 
 

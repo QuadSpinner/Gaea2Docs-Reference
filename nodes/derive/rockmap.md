@@ -7,8 +7,10 @@ RockMap traces out the shapes of rock-like formations along the entire surface o
 
 # Properties
 
-- **Coverage**: The amount of rock-like formations on the terrain.
-- **Density**: The density of the rock-like formations.
+- **Coverage**  
+  The amount of rock-like formations on the terrain.
+- **Density**  
+  The density of the rock-like formations.
 
 
 

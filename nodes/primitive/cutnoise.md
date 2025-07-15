@@ -2,8 +2,10 @@
 
 # Properties
 
-- **Scale**: 
-- **Seed**: 
+- **Scale**  
+  
+- **Seed**  
+  
 
 
 

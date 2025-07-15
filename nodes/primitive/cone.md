@@ -2,10 +2,14 @@
 
 # Properties
 
-- **Scale**: 
-- **Height**: 
-- **X**: 
-- **Y**: 
+- **Scale**  
+  
+- **Height**  
+  
+- **X**  
+  
+- **Y**  
+  
 
 
 

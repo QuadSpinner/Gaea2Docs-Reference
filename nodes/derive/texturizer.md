@@ -3,27 +3,45 @@
 # Properties
 
 - Style
-  - **A**: <desc>
-  - **B**: <desc>
-  - **C**: <desc>
-  - **D**: <desc>
-  - **E**: <desc>
-  - **F**: <desc>
-  - **G**: <desc>
-  - **H**: <desc>
-  - **I**: <desc>
-  - **J**: <desc>
-  - **K**: <desc>
-  - **L**: <desc>
-- **Factor**: 
-- **Secondary**: 
-- **Seed**: 
+  - **A**  
+  <desc>
+  - **B**  
+  <desc>
+  - **C**  
+  <desc>
+  - **D**  
+  <desc>
+  - **E**  
+  <desc>
+  - **F**  
+  <desc>
+  - **G**  
+  <desc>
+  - **H**  
+  <desc>
+  - **I**  
+  <desc>
+  - **J**  
+  <desc>
+  - **K**  
+  <desc>
+  - **L**  
+  <desc>
+- **Factor**  
+  
+- **Secondary**  
+  
+- **Seed**  
+  
 
 ## Components
 
-- **Flows**: 
-- **Slope**: 
-- **Soil**: 
+- **Flows**  
+  
+- **Slope**  
+  
+- **Soil**  
+  
 
 
 
