@@ -5,15 +5,15 @@
 
 # Properties
 
-* **Intensity**:\ 
+* **Intensity**
   Lorem ipsum
-* **Iterations**:\ 
+* **Iterations**
   Lorem ipsum
-* **Direction**:\ 
+* **Direction**
   Lorem ipsum
-* **Asymmetry**:\ 
+* **Asymmetry**
   Lorem ipsum
-* **Normalized**:\ 
+* **Normalized**
   Lorem ipsum
 * Window
   * **Bell**: <desc>
