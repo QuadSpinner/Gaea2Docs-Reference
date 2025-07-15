@@ -5,35 +5,28 @@
 
 # Properties
 
-- **Intensity**:\ 
+* **Intensity**:\ 
   Lorem ipsum
-- **Iterations**:\ 
+* **Iterations**:\ 
   Lorem ipsum
-- **Direction**:\ 
+* **Direction**:\ 
   Lorem ipsum
-- **Asymmetry**:\ 
+* **Asymmetry**:\ 
   Lorem ipsum
-- **Normalized**:\ 
+* **Normalized**:\ 
   Lorem ipsum
-- Window
-  - **Bell**: <desc>
-  - **Box**: <desc>
-
-## Quality
-
-- Quality
-  - **Low**:\ 
-  <desc>
-  - **Medium**:\ 
-  <desc>
-  - **High**:\ 
-  <desc>
-  - **Ultra**:\ 
-  <desc>
-- Antialiasing
-  - **Off**: <desc>
-  - **x4**: <desc>
-  - **x16**: <desc>
+* Window
+  * **Bell**: <desc>
+  * **Box**: <desc>
+* Quality
+  * **Low**: <desc>
+  * **Medium**: <desc>
+  * **High**: <desc>
+  * **Ultra**: <desc>
+* Antialiasing
+  * **Off**: <desc>
+  * **x4**: <desc>
+  * **x16**: <desc>
 
 
 
