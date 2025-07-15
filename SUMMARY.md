@@ -189,7 +189,7 @@
   * [LoopBegin](nodes/utility/loopbegin.md)
   * [LoopEnd](nodes/utility/loopend.md)
   * [Mask](nodes/utility/mask.md)
-  * [MathX](nodes/utility/mathx.md)
+  * [Math](nodes/utility/math.md)
   * [Mixer](nodes/utility/mixer.md)
   * [Repeat](nodes/utility/repeat.md)
   * [Reseed](nodes/utility/reseed.md)
