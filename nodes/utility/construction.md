@@ -1,13 +1,12 @@
+---
+hidden: true
+---
 
+# Construction
 
-# Properties
-
-- **Transforms**: 
-- Quality
-  - **Draft**: <desc>
-  - **Medium**: <desc>
-  - **High**: <desc>
-- **Add Input**: 
-
-
-
+* **Transforms**:
+* Quality
+  * **Draft**:
+  * **Medium**:
+  * **High**:
+* **Add Input**:

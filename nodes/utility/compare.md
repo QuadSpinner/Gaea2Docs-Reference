@@ -1,9 +1,9 @@
+# Compare
 
+Compare is a low-level utility that helps you compare two Heightfields.
 
-# Properties
+<figure><img src="../../.gitbook/assets/compare.png" alt=""><figcaption></figcaption></figure>
 
-- **A/B**: 
-- **Colorized**: 
-
-
+* **A/B**: The comparison guide placement.
+* **Colorized**: Mask the second input as red.
 
