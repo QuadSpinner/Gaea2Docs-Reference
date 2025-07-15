@@ -1,4 +1,3 @@
-# TileInput
 
 
 # Properties

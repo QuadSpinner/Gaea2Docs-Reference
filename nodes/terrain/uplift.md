@@ -1,4 +1,3 @@
-# Uplift
 
 
 # Properties

@@ -1,4 +1,3 @@
-# GroundTexture
 
 
 # Properties

@@ -1,4 +1,3 @@
-# FlowMapClassic
 
 
 # Properties

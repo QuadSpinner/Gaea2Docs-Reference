@@ -1,4 +1,3 @@
-# Cone
 
 
 # Properties

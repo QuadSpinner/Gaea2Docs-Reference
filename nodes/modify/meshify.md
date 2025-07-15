@@ -1,4 +1,3 @@
-# Meshify
 
 
 # Properties

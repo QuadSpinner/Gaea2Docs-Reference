@@ -1,4 +1,3 @@
-# Glacier
 
 
 # Properties

@@ -1,4 +1,3 @@
-# Stones
 
 
 # Properties

@@ -1,4 +1,3 @@
-# Hillify
 
 
 # Properties

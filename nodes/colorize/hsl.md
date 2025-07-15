@@ -1,4 +1,3 @@
-# HSL
 
 
 # Properties

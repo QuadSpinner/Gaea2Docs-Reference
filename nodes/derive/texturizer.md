@@ -1,4 +1,3 @@
-# Texturizer
 
 
 # Properties

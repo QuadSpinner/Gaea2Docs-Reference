@@ -1,4 +1,3 @@
-# LightX
 
 
 # Properties

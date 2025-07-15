@@ -1,4 +1,3 @@
-# Blur
 
 ## Blur
 

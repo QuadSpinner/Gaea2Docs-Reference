@@ -1,4 +1,3 @@
-# SuperColor
 
 
 # Properties

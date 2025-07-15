@@ -1,4 +1,3 @@
-# Sandstone
 
 
 # Properties

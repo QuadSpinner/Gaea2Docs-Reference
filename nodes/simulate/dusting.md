@@ -1,4 +1,3 @@
-# Dusting
 
 
 # Properties

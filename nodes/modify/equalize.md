@@ -1,4 +1,3 @@
-# Equalize
 
 
 # Properties

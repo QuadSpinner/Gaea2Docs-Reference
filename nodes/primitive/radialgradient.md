@@ -1,4 +1,3 @@
-# RadialGradient
 
 
 # Properties

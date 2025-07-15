@@ -1,4 +1,3 @@
-# Var
 
 
 # Properties

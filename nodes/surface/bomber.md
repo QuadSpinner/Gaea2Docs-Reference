@@ -1,4 +1,3 @@
-# Bomber
 
 ## Bomber
 

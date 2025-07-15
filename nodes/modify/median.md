@@ -1,4 +1,3 @@
-# Median
 
 
 # Properties

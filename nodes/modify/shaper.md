@@ -1,4 +1,3 @@
-# Shaper
 
 ## Shaper
 

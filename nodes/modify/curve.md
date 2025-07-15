@@ -1,4 +1,3 @@
-# Curve
 
 # Properties
 

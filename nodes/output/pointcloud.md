@@ -1,4 +1,3 @@
-# PointCloud
 
 
 # Properties

@@ -1,4 +1,3 @@
-# Lake
 
 
 # Properties

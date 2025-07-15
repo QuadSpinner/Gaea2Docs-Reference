@@ -1,4 +1,3 @@
-# Wizard2
 
 
 # Properties

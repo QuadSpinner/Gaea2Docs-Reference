@@ -1,4 +1,3 @@
-# VariableBlur
 
 
 # Properties

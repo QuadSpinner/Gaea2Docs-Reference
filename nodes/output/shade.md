@@ -1,4 +1,3 @@
-# Shade
 
 
 # Properties

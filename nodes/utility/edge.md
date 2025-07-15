@@ -1,4 +1,3 @@
-# Edge
 
 ## Edge
 

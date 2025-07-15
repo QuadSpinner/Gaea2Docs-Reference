@@ -1,4 +1,3 @@
-# DataExtractor
 
 
 # Properties

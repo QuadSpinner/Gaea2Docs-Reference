@@ -1,4 +1,3 @@
-# Cellular3D
 
 
 # Properties

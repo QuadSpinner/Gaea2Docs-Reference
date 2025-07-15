@@ -1,4 +1,3 @@
-# TextureBase
 
 
 # Properties

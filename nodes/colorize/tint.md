@@ -1,4 +1,3 @@
-# Tint
 
 
 # Properties

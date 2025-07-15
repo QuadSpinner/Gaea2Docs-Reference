@@ -1,4 +1,3 @@
-# Distress
 
 
 # Properties

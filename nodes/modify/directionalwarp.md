@@ -1,4 +1,3 @@
-# DirectionalWarp
 
 The **DirectionalWarp** node deforms the terrain using a guide input to control the displacement. This allows for controlled warping effects such as wind-swept erosion, river carving, and other directional deformations.
 

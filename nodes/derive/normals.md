@@ -1,4 +1,3 @@
-# Normals
 
 
 # Properties

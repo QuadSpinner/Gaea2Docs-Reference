@@ -1,4 +1,3 @@
-# SatMap
 
 
 # Properties

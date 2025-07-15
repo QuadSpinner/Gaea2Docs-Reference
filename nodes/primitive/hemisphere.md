@@ -1,4 +1,3 @@
-# Hemisphere
 
 
 # Properties

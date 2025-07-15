@@ -1,4 +1,3 @@
-# Adjust
 
 
 # Properties

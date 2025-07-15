@@ -1,4 +1,3 @@
-# Bulbous
 
 
 # Properties

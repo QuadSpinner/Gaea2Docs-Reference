@@ -1,4 +1,3 @@
-# Cellular
 
 
 # Properties

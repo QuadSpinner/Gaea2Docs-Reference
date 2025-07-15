@@ -1,4 +1,3 @@
-# Gate
 
 
 # Properties

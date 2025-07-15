@@ -1,4 +1,3 @@
-# Thermal2
 
 
 # Properties

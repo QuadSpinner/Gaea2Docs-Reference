@@ -1,4 +1,3 @@
-# Halftone
 
 
 # Properties
