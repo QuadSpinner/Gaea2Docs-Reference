@@ -1,6 +1,7 @@
-# Summary
+# Table of contents
 
 * [Readme](README.md)
+* [Node Map](node-map.md)
 
 ## Nodes
 
