@@ -1,206 +1,229 @@
-# Node Map
+## Primitive
 
-### Primitive
+| Family | Node | Code |
+| ------ | ------------ | ---- |
+| Assets | [File](nodes/primitive/file) | `f` |
+|  | [Object](nodes/primitive/object) | `o` |
+|  | [TileInput](nodes/primitive/tileinput) | `til` |
+| Basic | [Constant](nodes/primitive/constant) | `k` |
+|  | [Cracks](nodes/primitive/cracks) | `ck` |
+|  | [Draw](nodes/primitive/draw) | `vm` |
+|  | [Gabor](nodes/primitive/gabor) | `g` |
+|  | [LineNoise](nodes/primitive/linenoise) | `ln` |
+|  | [Noise](nodes/primitive/noise) | `kn` |
+|  | [Perlin](nodes/primitive/perlin) | `p` |
+|  | [Voronoi](nodes/primitive/voronoi) | `v` |
+|  | [CutNoise](nodes/primitive/cutnoise) | `nan` |
+|  | [Pattern](nodes/primitive/pattern) | `nan` |
+|  | [Shape](nodes/primitive/shape) | `s` |
+| Extended | [Cellular](nodes/primitive/cellular) | `ll` |
+|  | [Cellular3D](nodes/primitive/cellular3d) | `c3` |
+|  | [DotNoise](nodes/primitive/dotnoise) | `do` |
+|  | [DriftNoise](nodes/primitive/driftnoise) | `dr` |
+|  | [MultiFractal](nodes/primitive/multifractal) | `mf` |
+|  | [WaveShine](nodes/primitive/waveshine) | `ws` |
+| Gradient | [Cone](nodes/primitive/cone) | `con` |
+|  | [Hemisphere](nodes/primitive/hemisphere) | `do` |
+|  | [LinearGradient](nodes/primitive/lineargradient) | `lg` |
+|  | [RadialGradient](nodes/primitive/radialgradient) | `rg` |
 
-<table><thead><tr><th width="100">Family</th><th>Name (Link)</th><th width="100" align="right">Code</th></tr></thead><tbody><tr><td>Assets</td><td>File</td><td align="right"><code>f</code></td></tr><tr><td></td><td>Object</td><td align="right"><code>o</code></td></tr><tr><td></td><td>TileInput</td><td align="right"><code>til</code></td></tr><tr><td>Basic</td><td>Constant</td><td align="right"><code>k</code></td></tr><tr><td></td><td>Cracks</td><td align="right"><code>ck</code></td></tr><tr><td></td><td>Draw</td><td align="right"><code>vm</code></td></tr><tr><td></td><td>Gabor</td><td align="right"><code>g</code></td></tr><tr><td></td><td>LineNoise</td><td align="right"><code>ln</code></td></tr><tr><td></td><td>Noise</td><td align="right"><code>kn</code></td></tr><tr><td></td><td>Perlin</td><td align="right"><code>p</code></td></tr><tr><td></td><td>Voronoi</td><td align="right"><code>v</code></td></tr><tr><td></td><td>CutNoise</td><td align="right"><code>nan</code></td></tr><tr><td></td><td>Pattern</td><td align="right"><code>nan</code></td></tr><tr><td></td><td>Shape</td><td align="right"><code>s</code></td></tr><tr><td>Extended</td><td>Cellular</td><td align="right"><code>ll</code></td></tr><tr><td></td><td>Cellular3D</td><td align="right"><code>c3</code></td></tr><tr><td></td><td>DotNoise</td><td align="right"><code>do</code></td></tr><tr><td></td><td>DriftNoise</td><td align="right"><code>dr</code></td></tr><tr><td></td><td>MultiFractal</td><td align="right"><code>mf</code></td></tr><tr><td></td><td>WaveShine</td><td align="right"><code>ws</code></td></tr><tr><td>Gradient</td><td>Cone</td><td align="right"><code>con</code></td></tr><tr><td></td><td>Hemisphere</td><td align="right"><code>do</code></td></tr><tr><td></td><td>LinearGradient</td><td align="right"><code>lg</code></td></tr><tr><td></td><td>RadialGradient</td><td align="right"><code>rg</code></td></tr></tbody></table>
+## Terrain
 
-### Terrain
+| Family | Node | Code |
+| ------ | ------------ | ---- |
+| Landscape | [Canyon](nodes/terrain/canyon) | `ny` |
+|  | [CraterField](nodes/terrain/craterfield) | `cf` |
+|  | [DuneSea](nodes/terrain/dunesea) | `du` |
+|  | [MountainRange](nodes/terrain/mountainrange) | `mr` |
+|  | [Plates](nodes/terrain/plates) | `pl` |
+|  | [Ridge](nodes/terrain/ridge) | `ri` |
+|  | [Rugged](nodes/terrain/rugged) | `gg` |
+|  | [Slump](nodes/terrain/slump) | `um` |
+|  | [Uplift](nodes/terrain/uplift) | `nan` |
+| Primitive | [Crater](nodes/terrain/crater) | `cra` |
+|  | [Island](nodes/terrain/island) | `is` |
+|  | [Mountain](nodes/terrain/mountain) | `m` |
+|  | [MountainSide](nodes/terrain/mountainside) | `ms` |
+|  | [Volcano](nodes/terrain/volcano) | `vo` |
 
-| Family    | Name (Link)   | Code  |
-| --------- | ------------- | ----- |
-| Landscape | Canyon        | `ny`  |
-|           | CraterField   | `cf`  |
-|           | DuneSea       | `du`  |
-|           | MountainRange | `mr`  |
-|           | Plates        | `pl`  |
-|           | Ridge         | `ri`  |
-|           | Rugged        | `gg`  |
-|           | Slump         | `um`  |
-|           | Uplift        | `nan` |
-| Primitive | Crater        | `cra` |
-|           | Island        | `is`  |
-|           | Mountain      | `m`   |
-|           | MountainSide  | `ms`  |
-|           | Volcano       | `vo`  |
+## Modify
 
-### Modify
+| Family | Node | Code |
+| ------ | ------------ | ---- |
+| Adjust | [Adjust](nodes/modify/adjust) | `fx` |
+|  | [Autolevel](nodes/modify/autolevel) | `lv` |
+|  | [Clamp](nodes/modify/clamp) | `cl` |
+|  | [Clip](nodes/modify/clip) | `ci` |
+|  | [Denoise](nodes/modify/denoise) | `dn` |
+|  | [Equalize](nodes/modify/equalize) | `eq` |
+|  | [Extend](nodes/modify/extend) | `xt` |
+|  | [Flip](nodes/modify/flip) | `fp` |
+|  | [Match](nodes/modify/match) | `nan` |
+|  | [Sharpen](nodes/modify/sharpen) | `sx` |
+|  | [Threshold](nodes/modify/threshold) | `th` |
+|  | [Transpose](nodes/modify/transpose) | `tx` |
+| Blur | [Blur](nodes/modify/blur) | `b` |
+|  | [Median](nodes/modify/median) | `md` |
+|  | [SlopeBlur](nodes/modify/slopeblur) | `sb` |
+|  | [VariableBlur](nodes/modify/variableblur) | `vb` |
+| Effect | [Origami](nodes/modify/origami) | `or` |
+|  | [Pixelate](nodes/modify/pixelate) | `px` |
+|  | [Swirl](nodes/modify/swirl) | `swi` |
+|  | [Whorl](nodes/modify/whorl) | `wh` |
+| Profile | [Curve](nodes/modify/curve) | `cu` |
+|  | [Deflate](nodes/modify/deflate) | `df` |
+|  | [Filter](nodes/modify/filter) | `fl` |
+|  | [Fold](nodes/modify/fold) | `fo` |
+|  | [GraphicEQ](nodes/modify/graphiceq) | `gq` |
+|  | [Recurve](nodes/modify/recurve) | `rc` |
+|  | [Shaper](nodes/modify/shaper) | `sp` |
+|  | [SoftClip](nodes/modify/softclip) | `sc` |
+|  | [ThermalShaper](nodes/modify/thermalshaper) | `ts` |
+| Shape | [Meshify](nodes/modify/meshify) | `ms` |
+| Transform | [Aperture](nodes/modify/aperture) | `ap` |
+|  | [Dilate](nodes/modify/dilate) | `di` |
+|  | [Distance](nodes/modify/distance) | `rt` |
+|  | [Transform](nodes/modify/transform) | `t` |
+|  | [Transform3D](nodes/modify/transform3d) | `t3` |
+| Utilities | [BlobRemover](nodes/modify/blobremover) | `b` |
+|  | [Heal](nodes/modify/heal) | `hl` |
+| Warp | [DirectionalWarp](nodes/modify/directionalwarp) | `dw` |
+|  | [SlopeWarp](nodes/modify/slopewarp) | `sw` |
+|  | [Warp](nodes/modify/warp) | `w` |
+|  | [TriplanarDisplacement](nodes/modify/triplanardisplacement) | `3pd` |
 
-| Family    | Name (Link)           | Code  |
-| --------- | --------------------- | ----- |
-| Adjust    | Adjust                | `fx`  |
-|           | Autolevel             | `lv`  |
-|           | Clamp                 | `cl`  |
-|           | Clip                  | `ci`  |
-|           | Denoise               | `dn`  |
-|           | Equalize              | `eq`  |
-|           | Extend                | `xt`  |
-|           | Flip                  | `fp`  |
-|           | Match                 | `nan` |
-|           | Sharpen               | `sx`  |
-|           | Threshold             | `th`  |
-|           | Transpose             | `tx`  |
-| Blur      | Blur                  | `b`   |
-|           | Median                | `md`  |
-|           | SlopeBlur             | `sb`  |
-|           | VariableBlur          | `vb`  |
-| Effect    | Origami               | `or`  |
-|           | Pixelate              | `px`  |
-|           | Swirl                 | `swi` |
-|           | Whorl                 | `wh`  |
-| Profile   | Curve                 | `cu`  |
-|           | Deflate               | `df`  |
-|           | Filter                | `fl`  |
-|           | Fold                  | `fo`  |
-|           | GraphicEQ             | `gq`  |
-|           | Recurve               | `rc`  |
-|           | Shaper                | `sp`  |
-|           | SoftClip              | `sc`  |
-|           | ThermalShaper         | `ts`  |
-| Shape     | Meshify               | `ms`  |
-| Transform | Aperture              | `ap`  |
-|           | Dilate                | `di`  |
-|           | Distance              | `rt`  |
-|           | Transform             | `t`   |
-|           | Transform3D           | `t3`  |
-| Utilities | BlobRemover           | `b`   |
-|           | Heal                  | `hl`  |
-| Warp      | DirectionalWarp       | `dw`  |
-|           | SlopeWarp             | `sw`  |
-|           | Warp                  | `w`   |
-|           | TriplanarDisplacement | `3pd` |
+## Surface
 
-### Surface
+| Family | Node | Code |
+| ------ | ------------ | ---- |
+| Cartography | [Contours](nodes/surface/contours) | `cn` |
+|  | [Grid](nodes/surface/grid) | `gr` |
+| Rocky | [Craggy](nodes/surface/craggy) | `cg` |
+|  | [Outcrops](nodes/surface/outcrops) | `oc` |
+|  | [RockNoise](nodes/surface/rocknoise) | `rn` |
+|  | [Rockscape](nodes/surface/rockscape) | `rs` |
+| Scatter | [Bomber](nodes/surface/bomber) | `bo` |
+|  | [Pockmarks](nodes/surface/pockmarks) | `on` |
+|  | [Stones](nodes/surface/stones) | `on` |
+| Structure | [Bulbous](nodes/surface/bulbous) | `bu` |
+|  | [Shatter](nodes/surface/shatter) | `tt` |
+|  | [Shear](nodes/surface/shear) | `sh` |
+| Superficial | [GroundTexture](nodes/surface/groundtexture) | `gt` |
+|  | [Roughen](nodes/surface/roughen) | `rog` |
+|  | [Sand](nodes/surface/sand) | `sd` |
+|  | [Distress](nodes/surface/distress) | `dst` |
+| Terrace | [FractalTerraces](nodes/surface/fractalterraces) | `ft` |
+|  | [Sandstone](nodes/surface/sandstone) | `ss` |
+|  | [Steps](nodes/surface/steps) | `ste` |
+|  | [Stratify](nodes/surface/stratify) | `ct` |
+|  | [Terraces](nodes/surface/terraces) | `st` |
 
-| Family      | Name (Link)     | Code  |
-| ----------- | --------------- | ----- |
-| Cartography | Contours        | `cn`  |
-|             | Grid            | `gr`  |
-| Rocky       | Craggy          | `cg`  |
-|             | Outcrops        | `oc`  |
-|             | RockNoise       | `rn`  |
-|             | Rockscape       | `rs`  |
-| Scatter     | Bomber          | `bo`  |
-|             | Pockmarks       | `on`  |
-|             | Stones          | `on`  |
-| Structure   | Bulbous         | `bu`  |
-|             | Shatter         | `tt`  |
-|             | Shear           | `sh`  |
-| Superficial | GroundTexture   | `gt`  |
-|             | Roughen         | `rog` |
-|             | Sand            | `sd`  |
-|             | Distress        | `dst` |
-| Terrace     | FractalTerraces | `ft`  |
-|             | Sandstone       | `ss`  |
-|             | Steps           | `ste` |
-|             | Stratify        | `ct`  |
-|             | Terraces        | `st`  |
+## Simulate
 
-### Simulate
+| Family | Node | Code |
+| ------ | ------------ | ---- |
+| Erosion | [Anastomosis](nodes/simulate/anastomosis) | `an` |
+|  | [Crumble](nodes/simulate/crumble) | `cr` |
+|  | [EasyErosion](nodes/simulate/easyerosion) | `ee` |
+|  | [Erosion](nodes/simulate/erosion) | `ce` |
+|  | [Erosion2](nodes/simulate/erosion2) | `e2` |
+|  | [Hillify](nodes/simulate/hillify) | `hi` |
+|  | [HydroFix](nodes/simulate/hydrofix) | `hf` |
+|  | [Lichtenberg](nodes/simulate/lichtenberg) | `lct` |
+|  | [Sediments](nodes/simulate/sediments) | `sed` |
+|  | [Thermal](nodes/simulate/thermal) | `te` |
+|  | [Thermal2](nodes/simulate/thermal2) | `t2` |
+|  | [Wizard](nodes/simulate/wizard) | `z1` |
+|  | [Wizard2](nodes/simulate/wizard2) | `z2` |
+| Scatter | [Debris](nodes/simulate/debris) | `db` |
+|  | [Scree](nodes/simulate/scree) | `nan` |
+| Snow | [Dusting](nodes/simulate/dusting) | `ds` |
+|  | [Snow](nodes/simulate/snow) | `sn` |
+|  | [Glacier](nodes/simulate/glacier) | `gl` |
+|  | [Snowfield](nodes/simulate/snowfield) | `sf` |
+|  | [IceFloe](nodes/simulate/icefloe) | `if` |
+| Vegetation | [Trees](nodes/simulate/trees) | `tr` |
+|  | [Shrubs](nodes/simulate/shrubs) | `shr` |
+| Water | [Lake](nodes/simulate/lake) | `nan` |
+|  | [Rivers](nodes/simulate/rivers) | `rv` |
+|  | [Sea](nodes/simulate/sea) | `sea` |
 
-| Family     | Name (Link) | Code  |
-| ---------- | ----------- | ----- |
-| Erosion    | Anastomosis | `an`  |
-|            | Crumble     | `cr`  |
-|            | EasyErosion | `ee`  |
-|            | Erosion     | `ce`  |
-|            | Erosion2    | `e2`  |
-|            | Hillify     | `hi`  |
-|            | HydroFix    | `hf`  |
-|            | Lichtenberg | `lct` |
-|            | Sediments   | `sed` |
-|            | Thermal     | `te`  |
-|            | Thermal2    | `t2`  |
-|            | Wizard      | `z1`  |
-|            | Wizard2     | `z2`  |
-| Scatter    | Debris      | `db`  |
-|            | Scree       | `nan` |
-| Snow       | Dusting     | `ds`  |
-|            | Snow        | `sn`  |
-|            | Glacier     | `gl`  |
-|            | Snowfield   | `sf`  |
-|            | IceFloe     | `if`  |
-| Vegetation | Trees       | `tr`  |
-|            | Shrubs      | `shr` |
-| Water      | Lake        | `nan` |
-|            | Rivers      | `rv`  |
-|            | Sea         | `sea` |
+## Derive
 
-### Derive
+| Family | Node | Code |
+| ------ | ------------ | ---- |
+| Aspect | [Angle](nodes/derive/angle) | `ang` |
+|  | [Curvature](nodes/derive/curvature) | `cv` |
+|  | [Height](nodes/derive/height) | `h` |
+|  | [Normals](nodes/derive/normals) | `nm` |
+|  | [Peaks](nodes/derive/peaks) | `pk` |
+|  | [Slope](nodes/derive/slope) | `sl` |
+| Generative | [FlowMap](nodes/derive/flowmap) | `fl` |
+|  | [FlowMapClassic](nodes/derive/flowmapclassic) | `fl1` |
+|  | [Occlusion](nodes/derive/occlusion) | `cc` |
+|  | [RockMap](nodes/derive/rockmap) | `km` |
+| Texture | [Soil](nodes/derive/soil) | `so` |
+|  | [TextureBase](nodes/derive/texturebase) | `tb` |
+|  | [Texturizer](nodes/derive/texturizer) | `tz` |
 
-| Family     | Name (Link)    | Code  |
-| ---------- | -------------- | ----- |
-| Aspect     | Angle          | `ang` |
-|            | Curvature      | `cv`  |
-|            | Height         | `h`   |
-|            | Normals        | `nm`  |
-|            | Peaks          | `pk`  |
-|            | Slope          | `sl`  |
-| Generative | FlowMap        | `fl`  |
-|            | FlowMapClassic | `fl1` |
-|            | Occlusion      | `cc`  |
-|            | RockMap        | `km`  |
-| Texture    | Soil           | `so`  |
-|            | TextureBase    | `tb`  |
-|            | Texturizer     | `tz`  |
+## Colorize
 
-### Colorize
+| Family | Node | Code |
+| ------ | ------------ | ---- |
+| Adjust | [Gamma](nodes/colorize/gamma) | `ga` |
+|  | [HSL](nodes/colorize/hsl) | `hu` |
+| Color | [CLUTer](nodes/colorize/cluter) | `clt` |
+|  | [SatMap](nodes/colorize/satmap) | `sa` |
+|  | [SuperColor](nodes/colorize/supercolor) | `sc` |
+|  | [Synth](nodes/colorize/synth) | `sy` |
+|  | [Tint](nodes/colorize/tint) | `ti` |
+|  | [WaterColor](nodes/colorize/watercolor) | `wc` |
+| Erosion | [ColorErosion](nodes/colorize/colorerosion) | `cx` |
+| Surface | [Weathering](nodes/colorize/weathering) | `we` |
+| Utilities | [RGBMerge](nodes/colorize/rgbmerge) | `rm` |
+|  | [RGBSplit](nodes/colorize/rgbsplit) | `rs` |
+|  | [Splat](nodes/colorize/splat) | `spl` |
 
-| Family    | Name (Link)  | Code  |
-| --------- | ------------ | ----- |
-| Adjust    | Gamma        | `ga`  |
-|           | HSL          | `hu`  |
-| Color     | CLUTer       | `clt` |
-|           | SatMap       | `sa`  |
-|           | SuperColor   | `sc`  |
-|           | Synth        | `sy`  |
-|           | Tint         | `ti`  |
-|           | WaterColor   | `wc`  |
-| Erosion   | ColorErosion | `cx`  |
-| Surface   | Weathering   | `we`  |
-| Utilities | RGBMerge     | `rm`  |
-|           | RGBSplit     | `rs`  |
-|           | Splat        | `spl` |
+## Output
 
-### Output
+| Family | Node | Code |
+| ------ | ------------ | ---- |
+| Assets | [Export](nodes/output/export) | `ex` |
+|  | [Mesher](nodes/output/mesher) | `me` |
+|  | [PointCloud](nodes/output/pointcloud) | `pc` |
+|  | [Unity](nodes/output/unity) | `un` |
+|  | [Unreal](nodes/output/unreal) | `ue` |
+|  | [VFX](nodes/output/vfx) | `nan` |
+| Render | [AO](nodes/output/ao) | `ao` |
+|  | [Cartography](nodes/output/cartography) | `crt` |
+|  | [Halftone](nodes/output/halftone) | `nan` |
+|  | [LightX](nodes/output/lightx) | `lx` |
+|  | [Sunlight](nodes/output/sunlight) | `si` |
+|  | [Shade](nodes/output/shade) | `nan` |
+| Utilities | [MeshWarp](nodes/output/meshwarp) | `nm` |
+|  | [TextureBaker](nodes/output/texturebaker) | `nm` |
 
-| Family    | Name (Link)  | Code  |
-| --------- | ------------ | ----- |
-| Assets    | Export       | `ex`  |
-|           | Mesher       | `me`  |
-|           | PointCloud   | `pc`  |
-|           | Unity        | `un`  |
-|           | Unreal       | `ue`  |
-|           | VFX          | `nan` |
-| Render    | AO           | `ao`  |
-|           | Cartography  | `crt` |
-|           | Halftone     | `nan` |
-|           | LightX       | `lx`  |
-|           | Sunlight     | `si`  |
-|           | Shade        | `nan` |
-| Utilities | MeshWarp     | `nm`  |
-|           | TextureBaker | `nm`  |
+## Utility
 
-### Utility
-
-| Family    | Name (Link)   | Code  |
-| --------- | ------------- | ----- |
-| Routing   | Chokepoint    | `cp`  |
-|           | Combine       | `c`   |
-|           | Gate          | `g8`  |
-|           | Layers        | `nan` |
-|           | LoopBegin     | `lb`  |
-|           | LoopEnd       | `le`  |
-|           | Mixer         | `mx`  |
-|           | Reseed        | `nan` |
-|           | Route         | `ro`  |
-|           | Switch        | `swt` |
-|           | Construction  | `nan` |
-|           | Compare       | `cm`  |
-| Structure | Edge          | `ed`  |
-|           | Repeat        | `rp`  |
-|           | Seamless      | `sls` |
-| Utilities | Accumulator   | `cc`  |
-|           | DataExtractor | `de`  |
-|           | Mask          | `ma`  |
-|           | MathX         | `mx`  |
-|           | Var           | `var` |
+| Family | Node | Code |
+| ------ | ------------ | ---- |
+| Routing | [Chokepoint](nodes/utility/chokepoint) | `cp` |
+|  | [Combine](nodes/utility/combine) | `c` |
+|  | [Gate](nodes/utility/gate) | `g8` |
+|  | [Layers](nodes/utility/layers) | `nan` |
+|  | [LoopBegin](nodes/utility/loopbegin) | `lb` |
+|  | [LoopEnd](nodes/utility/loopend) | `le` |
+|  | [Mixer](nodes/utility/mixer) | `mx` |
+|  | [Reseed](nodes/utility/reseed) | `nan` |
+|  | [Route](nodes/utility/route) | `ro` |
+|  | [Switch](nodes/utility/switch) | `swt` |
+|  | [Construction](nodes/utility/construction) | `nan` |
+|  | [Compare](nodes/utility/compare) | `cm` |
+| Structure | [Edge](nodes/utility/edge) | `ed` |
+|  | [Repeat](nodes/utility/repeat) | `rp` |
+|  | [Seamless](nodes/utility/seamless) | `sls` |
+| Utilities | [Accumulator](nodes/utility/accumulator) | `cc` |
+|  | [DataExtractor](nodes/utility/dataextractor) | `de` |
+|  | [Mask](nodes/utility/mask) | `ma` |
+|  | [MathX](nodes/utility/mathx) | `mx` |
+|  | [Var](nodes/utility/var) | `var` |
