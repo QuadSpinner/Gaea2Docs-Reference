@@ -13,8 +13,8 @@
 |  | [Noise](nodes/primitive/noise) | `kn` |
 |  | [Perlin](nodes/primitive/perlin) | `p` |
 |  | [Voronoi](nodes/primitive/voronoi) | `v` |
-|  | [CutNoise](nodes/primitive/cutnoise) | `nan` |
-|  | [Pattern](nodes/primitive/pattern) | `nan` |
+|  | [CutNoise](nodes/primitive/cutnoise) |  |
+|  | [Pattern](nodes/primitive/pattern) |  |
 |  | [Shape](nodes/primitive/shape) | `s` |
 | Extended | [Cellular](nodes/primitive/cellular) | `ll` |
 |  | [Cellular3D](nodes/primitive/cellular3d) | `c3` |
@@ -39,7 +39,7 @@
 |  | [Ridge](nodes/terrain/ridge) | `ri` |
 |  | [Rugged](nodes/terrain/rugged) | `gg` |
 |  | [Slump](nodes/terrain/slump) | `um` |
-|  | [Uplift](nodes/terrain/uplift) | `nan` |
+|  | [Uplift](nodes/terrain/uplift) |  |
 | Primitive | [Crater](nodes/terrain/crater) | `cra` |
 |  | [Island](nodes/terrain/island) | `is` |
 |  | [Mountain](nodes/terrain/mountain) | `m` |
@@ -58,7 +58,7 @@
 |  | [Equalize](nodes/modify/equalize) | `eq` |
 |  | [Extend](nodes/modify/extend) | `xt` |
 |  | [Flip](nodes/modify/flip) | `fp` |
-|  | [Match](nodes/modify/match) | `nan` |
+|  | [Match](nodes/modify/match) |  |
 |  | [Sharpen](nodes/modify/sharpen) | `sx` |
 |  | [Threshold](nodes/modify/threshold) | `th` |
 |  | [Transpose](nodes/modify/transpose) | `tx` |
@@ -136,7 +136,7 @@
 |  | [Wizard](nodes/simulate/wizard) | `z1` |
 |  | [Wizard2](nodes/simulate/wizard2) | `z2` |
 | Scatter | [Debris](nodes/simulate/debris) | `db` |
-|  | [Scree](nodes/simulate/scree) | `nan` |
+|  | [Scree](nodes/simulate/scree) |  |
 | Snow | [Dusting](nodes/simulate/dusting) | `ds` |
 |  | [Snow](nodes/simulate/snow) | `sn` |
 |  | [Glacier](nodes/simulate/glacier) | `gl` |
@@ -144,7 +144,7 @@
 |  | [IceFloe](nodes/simulate/icefloe) | `if` |
 | Vegetation | [Trees](nodes/simulate/trees) | `tr` |
 |  | [Shrubs](nodes/simulate/shrubs) | `shr` |
-| Water | [Lake](nodes/simulate/lake) | `nan` |
+| Water | [Lake](nodes/simulate/lake) |  |
 |  | [Rivers](nodes/simulate/rivers) | `rv` |
 |  | [Sea](nodes/simulate/sea) | `sea` |
 
@@ -193,13 +193,13 @@
 |  | [PointCloud](nodes/output/pointcloud) | `pc` |
 |  | [Unity](nodes/output/unity) | `un` |
 |  | [Unreal](nodes/output/unreal) | `ue` |
-|  | [VFX](nodes/output/vfx) | `nan` |
+|  | [VFX](nodes/output/vfx) |  |
 | Render | [AO](nodes/output/ao) | `ao` |
 |  | [Cartography](nodes/output/cartography) | `crt` |
-|  | [Halftone](nodes/output/halftone) | `nan` |
+|  | [Halftone](nodes/output/halftone) |  |
 |  | [LightX](nodes/output/lightx) | `lx` |
 |  | [Sunlight](nodes/output/sunlight) | `si` |
-|  | [Shade](nodes/output/shade) | `nan` |
+|  | [Shade](nodes/output/shade) |  |
 | Utilities | [MeshWarp](nodes/output/meshwarp) | `nm` |
 |  | [TextureBaker](nodes/output/texturebaker) | `nm` |
 
@@ -210,14 +210,14 @@
 | Routing | [Chokepoint](nodes/utility/chokepoint) | `cp` |
 |  | [Combine](nodes/utility/combine) | `c` |
 |  | [Gate](nodes/utility/gate) | `g8` |
-|  | [Layers](nodes/utility/layers) | `nan` |
+|  | [Layers](nodes/utility/layers) |  |
 |  | [LoopBegin](nodes/utility/loopbegin) | `lb` |
 |  | [LoopEnd](nodes/utility/loopend) | `le` |
 |  | [Mixer](nodes/utility/mixer) | `mx` |
-|  | [Reseed](nodes/utility/reseed) | `nan` |
+|  | [Reseed](nodes/utility/reseed) |  |
 |  | [Route](nodes/utility/route) | `ro` |
 |  | [Switch](nodes/utility/switch) | `swt` |
-|  | [Construction](nodes/utility/construction) | `nan` |
+|  | [Construction](nodes/utility/construction) |  |
 |  | [Compare](nodes/utility/compare) | `cm` |
 | Structure | [Edge](nodes/utility/edge) | `ed` |
 |  | [Repeat](nodes/utility/repeat) | `rp` |
