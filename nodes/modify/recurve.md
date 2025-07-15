@@ -14,9 +14,9 @@ Despite appearances, Recurve's output is very sensitive to subtle changes in the
 
 # Properties
 
-- **Power** \ 
+- **Power**  
   The strength of the inflate/deflate operation. Higher values cause drastic shifts in shape formation.
-- **Scale** \ 
+- **Scale**  
   The amount of details to preserve. Higher values cause more prominent shapes to form.
 - **Iterations** \ 
   
