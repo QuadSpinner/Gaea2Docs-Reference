@@ -1,32 +1,24 @@
+# SlopeBlur
 
-
-
-
-
-# Properties
-
-* **Intensity**
+* **Intensity** \
   Lorem ipsum
-* **Iterations**
+* **Iterations** \
   Lorem ipsum
-* **Direction**
+* **Direction** \
   Lorem ipsum
-* **Asymmetry**
+* **Asymmetry** \
   Lorem ipsum
-* **Normalized**
+* **Normalized** \
   Lorem ipsum
 * Window
-  * **Bell**: <desc>
-  * **Box**: <desc>
+  * **Bell**:
+  * **Box**:
 * Quality
-  * **Low**: <desc>
-  * **Medium**: <desc>
-  * **High**: <desc>
-  * **Ultra**: <desc>
+  * **Low**:
+  * **Medium**:
+  * **High**:
+  * **Ultra**:
 * Antialiasing
-  * **Off**: <desc>
-  * **x4**: <desc>
-  * **x16**: <desc>
-
-
-
+  * **Off**:
+  * **x4**:
+  * **x16**:
