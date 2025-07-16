@@ -1,9 +1,6 @@
+# Pixelate
 
+Pixelates, or creates a blocky effect, from the terrain or mask being input.
 
-# Properties
-
-- **Size**  
-  
-
-
-
+* **Size**\
+  The size of the pixels/blocks.
