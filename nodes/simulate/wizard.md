@@ -3,15 +3,15 @@
 
 ## Wizard
 
-The Erosion Wizard is a lightweight wrapper for the @Erosion node. It simplifies the settings through curated presets, and provides secondary passes for additional processing. The Wizard node is meant to replace the @Erosion node - in fact, it is meant to augment it. For many direct and basic uses, Wizard can help achieve results much faster than with the @Erosion node.
+The Erosion Wizard is a lightweight wrapper for the Erosion node. It simplifies the settings through curated presets, and provides secondary passes for additional processing. The Wizard node is meant to replace the Erosion node - in fact, it is meant to augment it. For many direct and basic uses, Wizard can help achieve results much faster than with the Erosion node.
 
 #### Comparison to Erosion
 
-Gaea gives you two ways to use our hydraulic erosion simulation process: the @Erosion node, which gives you absolute control over every aspect, or the @Wizard node which gives you easier access to the major aspects. Both use the same simulation underneath, but provide different interfaces. Both have their pros and cons.
+Gaea gives you two ways to use our hydraulic erosion simulation process: the Erosion node, which gives you absolute control over every aspect, or the Wizard node which gives you easier access to the major aspects. Both use the same simulation underneath, but provide different interfaces. Both have their pros and cons.
 
-@Erosion provides access to all the simulation controls, however, it can take some time to find the sweet spot for many different settings. @Wizard on the other hand provides fewer, easier choices and various "recipes" for creating different types of results, however, it does not allow you to fine tune your results.
+Erosion provides access to all the simulation controls, however, it can take some time to find the sweet spot for many different settings. Wizard on the other hand provides fewer, easier choices and various "recipes" for creating different types of results, however, it does not allow you to fine tune your results.
 
-For a comparison between the two, see @erosions.
+For a comparison between the two, see erosions.
 
 #### Phases and Recipes
 

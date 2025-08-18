@@ -58,7 +58,7 @@ Selective Processing is one of the most powerful tools available in the Erosion 
 
 ^todoimage
 
-It may sound like simple masking, however there is a significant difference between masking the Erosion node and using Selective Processing. With masking the effect is tightly contained within the provided mask using a compositing method (the same as using @Combine at `100%` Blend while providing a mask). While with Selective Processing, the mask provided will apply a modifier to that area, however processing will still occur outside the bias mask.
+It may sound like simple masking, however there is a significant difference between masking the Erosion node and using Selective Processing. With masking the effect is tightly contained within the provided mask using a compositing method (the same as using Combine at `100%` Blend while providing a mask). While with Selective Processing, the mask provided will apply a modifier to that area, however processing will still occur outside the bias mask.
 
 #### Processing Mask
 
@@ -82,7 +82,7 @@ The Erosion and Wizard nodes create three key data outputs:
 These maps can be used for texturing, or for driving other nodes.
 
 {% hint style="info" %}
-Like other data maps, the output may not be readily visible to the human eye. You can use @Fx to autolevel or equalize the output. You can also use @Abs to create a solid mask.
+Like other data maps, the output may not be readily visible to the human eye. You can use Fx to autolevel or equalize the output. You can also use Abs to create a solid mask.
 {% endhint %}
 
 {% hint style="info" %}
@@ -91,17 +91,17 @@ In digital terrains, inexperienced artists will often try to use the Flow output
 
 #### Determinstic Output
 
-It is worth noting that due to the nature of the algorithm and parallel processing, the erosion flow may differ slightly each time. To ensure 100% exact results every time, you can turn on the `Deterministic` option in the @Erosion node. This will force Gaea to use a single processor core which will result in slower processing, but will ensure your results are completely predictable.
+It is worth noting that due to the nature of the algorithm and parallel processing, the erosion flow may differ slightly each time. To ensure 100% exact results every time, you can turn on the `Deterministic` option in the Erosion node. This will force Gaea to use a single processor core which will result in slower processing, but will ensure your results are completely predictable.
 
-This may not always be necessary. There are also workarounds. For example, if you wish to control certain major flow lines, you can create a mask for the starting points of those flows and feed it to Selective Processing. This is usually best done in a second @Erosion node, while the first one provides general erosion across the terrain.
+This may not always be necessary. There are also workarounds. For example, if you wish to control certain major flow lines, you can create a mask for the starting points of those flows and feed it to Selective Processing. This is usually best done in a second Erosion node, while the first one provides general erosion across the terrain.
 
 #### Further Reading
 
-See @erosions for general information on erosion, how it applies to procedural terrains, and misconceptions about erosion.
+See erosions for general information on erosion, how it applies to procedural terrains, and misconceptions about erosion.
 
 See these tutorials for examples of practical usage:
-- @tut-selective-erosion
-- @tut-multipass-erosion
+- tut-selective-erosion
+- tut-multipass-erosion
 
 
 

@@ -11,7 +11,7 @@ In most cases, you can use the `Raw` Scale setting. This will interpret
 the data within a normal 8, 16, or 32 bit data range. If your uses
 excessive scale values that go below zero, you may need to use the
 `Normalized` or `Mapped` mode. If you wish to handle scale manually, you
-should turn on `Clamp` in @postprocess to ensure data does not go beyond
+should turn on `Clamp` in [Modifier Stack](https://app.gitbook.com/s/-MRH8eXs83d5sUGKdsHp/getting-started/user-interface/property-editor/modifier-stack "mention") to ensure data does not go beyond
 anticipated ranges which may cause other nodes to break.
 
 The `Mapped` mode is mainly used for communicating with other

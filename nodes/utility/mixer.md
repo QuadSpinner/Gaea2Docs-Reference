@@ -1,7 +1,7 @@
 
 
 
-The Mixer node has been retired. Use @Combine instead.
+The Mixer node has been retired. Use Combine instead.
 
 
 
